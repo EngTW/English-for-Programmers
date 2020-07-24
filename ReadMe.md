@@ -10,18 +10,21 @@
 
 # [Count, Number, Quantity; 如何命名「數量變數」？](https://bit.ly/3elcZGT)
 
-* Google 簡報： https://bit.ly/38OWoKf
-* Google 簡報原始檔： https://bit.ly/3elcZGT
+* Google 簡報： https://bit.ly/3elcZGT
 * Facebook 相簿 💬 ： https://bit.ly/3iNsgDO
 * PTT 文章 💬 ： https://bit.ly/2DtNV3B
-* GitHub 討論串 💬 ： https://bit.ly/2Oiqnkc
-* Twitter 討論串 💬 ： https://bit.ly/32947Sc
+* Twitter 討論 💬 ： https://bit.ly/32947Sc
 
 # [ASCII, Unicode; 一定要寫英文嗎？](https://bit.ly/2DGDhXd)
 
-* Google 簡報： https://bit.ly/32rtGy3
-* Google 簡報原始檔： https://bit.ly/2DGDhXd
+* Google 簡報： https://bit.ly/2DGDhXd
 * Facebook 相簿 💬 ： https://bit.ly/3fCF2mv
 * PTT 文章 💬 ： https://bit.ly/3eD2VsO
-* GitHub 討論串 💬 ： https://bit.ly/2ZGifkl
-* Twitter 討論串 💬 ： https://bit.ly/2ZGtY2l
+* Twitter 討論 💬 ： https://bit.ly/2ZGtY2l
+
+# [Type, Kind, Category; 如何命名「種類」？](https://bit.ly/2OOSpEs)
+
+* Google 簡報 https://bit.ly/2OOSpEs
+* Facebook 相簿 💬 https://bit.ly/3ju7sBz
+* PTT 文章 💬 https://bit.ly/30Aqduc
+* Twitter 討論 💬 https://bit.ly/2CYKgdZ
