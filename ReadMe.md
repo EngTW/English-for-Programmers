@@ -28,3 +28,10 @@
 * Facebook 相簿 💬 https://bit.ly/3ju7sBz
 * PTT 文章 💬 https://bit.ly/30Aqduc
 * Twitter 討論 💬 https://bit.ly/2CYKgdZ
+
+# [Clear / Empty, Delete / Remove; 如何命名「刪除」功能？](https://bit.ly/2XazA2P)
+
+* Google 簡報 https://bit.ly/2XazA2P
+* Facebook 相簿 💬 https://bit.ly/2EsPmj9
+* PTT 文章 💬 https://bit.ly/2DilNAm
+* Twitter 討論 💬 https://bit.ly/2D57pM5
