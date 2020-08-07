@@ -35,3 +35,10 @@
 * Facebook 相簿 💬 https://bit.ly/2EsPmj9
 * PTT 文章 💬 https://bit.ly/2DilNAm
 * Twitter 討論 💬 https://bit.ly/2D57pM5
+
+# [Times; 如何命名「次數」變數？](https://bit.ly/3a1lDcO)
+
+* Google 簡報 https://bit.ly/3a1lDcO
+* Facebook 相簿 💬 https://bit.ly/2DHjNSx
+* PTT 文章 💬 https://bit.ly/30zS1QR
+* Twitter 討論 💬 https://bit.ly/3aaNlEg
