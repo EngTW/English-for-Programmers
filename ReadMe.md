@@ -31,9 +31,12 @@
 
 # [Clear / Empty, Delete / Remove; 如何命名「刪除」功能？](https://bit.ly/2XazA2P)
 
+## 2020-07-31 clear, empty, delete, remove, clean, erase, cancel, dismiss
+
 * Google 簡報 https://bit.ly/2XazA2P
 * Facebook 相簿 💬 https://bit.ly/2EsPmj9
 * PTT 文章 💬 https://bit.ly/2DilNAm
+  * [notes/2020-07-31-clear-empty-delete-remove.md](notes/2020-07-31-clear-empty-delete-remove.md)
 * Twitter 討論 💬 https://bit.ly/2D57pM5
 
 # [如何命名「次數」變數？](https://bit.ly/3a1lDcO)
