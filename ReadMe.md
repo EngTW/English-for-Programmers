@@ -10,7 +10,7 @@
 
 # [如何命名「次數」變數？](https://bit.ly/3a1lDcO)
 
-## 2020-08-07 times, calculate, compute, sum, total
+2020-08-07 times, calculate, compute, sum, total
 
 * Google 簡報 https://bit.ly/3a1lDcO
 * Facebook 相簿 💬 https://bit.ly/2DHjNSx
@@ -20,7 +20,7 @@
 
 # [如何命名「刪除」功能？](https://bit.ly/2XazA2P)
 
-## 2020-07-31 clear, empty, delete, remove, clean, erase, cancel, dismiss
+2020-07-31 clear, empty, delete, remove, clean, erase, cancel, dismiss
 
 * Google 簡報 https://bit.ly/2XazA2P
 * Facebook 相簿 💬 https://bit.ly/2EsPmj9
@@ -30,7 +30,7 @@
 
 # [如何命名「種類」？](https://bit.ly/2OOSpEs)
 
-## 2020-07-24 type, kind, category, class, classification, sort, group, tag, attribute, property
+2020-07-24 type, kind, category, class, classification, sort, group, tag, attribute, property
 
 * Google 簡報 https://bit.ly/2OOSpEs
 * Facebook 相簿 💬 https://bit.ly/3ju7sBz
@@ -40,7 +40,7 @@
 
 # [一定要寫英文嗎？](https://bit.ly/2DGDhXd)
 
-## 2020-07-17 ASCII, Unicode
+2020-07-17 ASCII, Unicode
 
 * Google 簡報： https://bit.ly/2DGDhXd
 * Facebook 相簿 💬 ： https://bit.ly/3fCF2mv
@@ -50,7 +50,7 @@
 
 # [如何命名「數量變數」？](https://bit.ly/3elcZGT)
 
-## 2020-07-10 count, number, quantity
+2020-07-10 count, number, quantity
 
 * Google 簡報： https://bit.ly/3elcZGT
 * Facebook 相簿 💬 ： https://bit.ly/3iNsgDO
