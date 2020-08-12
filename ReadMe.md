@@ -8,37 +8,52 @@
 
 《程式英文》 GitHub 討論區 💬 ： https://bit.ly/321ResR
 
-# [Count, Number, Quantity; 如何命名「數量變數」？](https://bit.ly/3elcZGT)
+# [如何命名「次數」變數？](https://bit.ly/3a1lDcO)
 
-* Google 簡報： https://bit.ly/3elcZGT
-* Facebook 相簿 💬 ： https://bit.ly/3iNsgDO
-* PTT 文章 💬 ： https://bit.ly/2DtNV3B
-* Twitter 討論 💬 ： https://bit.ly/32947Sc
-
-# [ASCII, Unicode; 一定要寫英文嗎？](https://bit.ly/2DGDhXd)
-
-* Google 簡報： https://bit.ly/2DGDhXd
-* Facebook 相簿 💬 ： https://bit.ly/3fCF2mv
-* PTT 文章 💬 ： https://bit.ly/3eD2VsO
-* Twitter 討論 💬 ： https://bit.ly/2ZGtY2l
-
-# [Type, Kind, Category; 如何命名「種類」？](https://bit.ly/2OOSpEs)
-
-* Google 簡報 https://bit.ly/2OOSpEs
-* Facebook 相簿 💬 https://bit.ly/3ju7sBz
-* PTT 文章 💬 https://bit.ly/30Aqduc
-* Twitter 討論 💬 https://bit.ly/2CYKgdZ
-
-# [Clear / Empty, Delete / Remove; 如何命名「刪除」功能？](https://bit.ly/2XazA2P)
-
-* Google 簡報 https://bit.ly/2XazA2P
-* Facebook 相簿 💬 https://bit.ly/2EsPmj9
-* PTT 文章 💬 https://bit.ly/2DilNAm
-* Twitter 討論 💬 https://bit.ly/2D57pM5
-
-# [Times; 如何命名「次數」變數？](https://bit.ly/3a1lDcO)
+## 2020-08-07 times, calculate, compute, sum, total
 
 * Google 簡報 https://bit.ly/3a1lDcO
 * Facebook 相簿 💬 https://bit.ly/2DHjNSx
 * PTT 文章 💬 https://bit.ly/30zS1QR
+  * [notes/2020-08-07-times.md](notes/2020-08-07-times.md)
 * Twitter 討論 💬 https://bit.ly/3aaNlEg
+
+# [如何命名「刪除」功能？](https://bit.ly/2XazA2P)
+
+## 2020-07-31 clear, empty, delete, remove, clean, erase, cancel, dismiss
+
+* Google 簡報 https://bit.ly/2XazA2P
+* Facebook 相簿 💬 https://bit.ly/2EsPmj9
+* PTT 文章 💬 https://bit.ly/2DilNAm
+  * [notes/2020-07-31-clear-empty-delete-remove.md](notes/2020-07-31-clear-empty-delete-remove.md)
+* Twitter 討論 💬 https://bit.ly/2D57pM5
+
+# [如何命名「種類」？](https://bit.ly/2OOSpEs)
+
+## 2020-07-24 type, kind, category, class, classification, sort, group, tag, attribute, property
+
+* Google 簡報 https://bit.ly/2OOSpEs
+* Facebook 相簿 💬 https://bit.ly/3ju7sBz
+* PTT 文章 💬 https://bit.ly/30Aqduc
+  * [notes/2020-07-24-type-kind-category.md](notes/2020-07-24-type-kind-category.md)
+* Twitter 討論 💬 https://bit.ly/2CYKgdZ
+
+# [一定要寫英文嗎？](https://bit.ly/2DGDhXd)
+
+## 2020-07-17 ASCII, Unicode
+
+* Google 簡報： https://bit.ly/2DGDhXd
+* Facebook 相簿 💬 ： https://bit.ly/3fCF2mv
+* PTT 文章 💬 ： https://bit.ly/3eD2VsO
+  * [notes/2020-07-17-ASCII-Unicode.md](notes/2020-07-17-ASCII-Unicode.md)
+* Twitter 討論 💬 ： https://bit.ly/2ZGtY2l
+
+# [如何命名「數量變數」？](https://bit.ly/3elcZGT)
+
+## 2020-07-10 count, number, quantity
+
+* Google 簡報： https://bit.ly/3elcZGT
+* Facebook 相簿 💬 ： https://bit.ly/3iNsgDO
+* PTT 文章 💬 ： https://bit.ly/2DtNV3B
+  * [notes/2020-07-10-count-number-quantity.md](notes/2020-07-10-count-number-quantity.md)
+* Twitter 討論 💬 ： https://bit.ly/32947Sc
