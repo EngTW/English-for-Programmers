@@ -22,14 +22,17 @@
 * PTT 文章 💬 ： https://bit.ly/3eD2VsO
 * Twitter 討論 💬 ： https://bit.ly/2ZGtY2l
 
-# [Type, Kind, Category; 如何命名「種類」？](https://bit.ly/2OOSpEs)
+# [如何命名「種類」？](https://bit.ly/2OOSpEs)
+
+## 2020-07-24 type, kind, category, class, classification, sort, group, tag, attribute, property
 
 * Google 簡報 https://bit.ly/2OOSpEs
 * Facebook 相簿 💬 https://bit.ly/3ju7sBz
 * PTT 文章 💬 https://bit.ly/30Aqduc
+  * [notes/2020-07-24-type-kind-category.md](notes/2020-07-24-type-kind-category.md)
 * Twitter 討論 💬 https://bit.ly/2CYKgdZ
 
-# [Clear / Empty, Delete / Remove; 如何命名「刪除」功能？](https://bit.ly/2XazA2P)
+# [如何命名「刪除」功能？](https://bit.ly/2XazA2P)
 
 ## 2020-07-31 clear, empty, delete, remove, clean, erase, cancel, dismiss
 
