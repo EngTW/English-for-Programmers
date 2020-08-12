@@ -10,9 +10,12 @@
 
 # [Count, Number, Quantity; 如何命名「數量變數」？](https://bit.ly/3elcZGT)
 
+## 2020-07-10 count, number, quantity
+
 * Google 簡報： https://bit.ly/3elcZGT
 * Facebook 相簿 💬 ： https://bit.ly/3iNsgDO
 * PTT 文章 💬 ： https://bit.ly/2DtNV3B
+  * [notes/2020-07-10-count-number-quantity.md](notes/2020-07-10-count-number-quantity.md)
 * Twitter 討論 💬 ： https://bit.ly/32947Sc
 
 # [ASCII, Unicode; 一定要寫英文嗎？](https://bit.ly/2DGDhXd)
