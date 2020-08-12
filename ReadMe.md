@@ -17,9 +17,12 @@
 
 # [ASCII, Unicode; 一定要寫英文嗎？](https://bit.ly/2DGDhXd)
 
+## 2020-07-17 ASCII, Unicode
+
 * Google 簡報： https://bit.ly/2DGDhXd
 * Facebook 相簿 💬 ： https://bit.ly/3fCF2mv
 * PTT 文章 💬 ： https://bit.ly/3eD2VsO
+  * [notes/2020-07-17-ASCII-Unicode.md](notes/2020-07-17-ASCII-Unicode.md)
 * Twitter 討論 💬 ： https://bit.ly/2ZGtY2l
 
 # [如何命名「種類」？](https://bit.ly/2OOSpEs)
