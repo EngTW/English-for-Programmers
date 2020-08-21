@@ -8,6 +8,18 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [如何命名「檢查」功能？２](https://bit.ly/3l161ey)
+
+2020-08-21 validate, verify, argument, parameter
+
+* Google 簡報 https://bit.ly/3l161ey
+* Facebook 討論 https://bit.ly/3glA4Kd
+* PTT 文章 https://bit.ly/2CPyq6a
+  * [notes/2020-08-21-validate-verify.md](notes/2020-08-21-validate-verify.md)
+* Twitter 討論 https://bit.ly/2QfUPfK
+
+Validate, Verify
+
 # [如何命名「檢查」功能？](https://bit.ly/31UiEPK)
 
 2020-08-14 check, test, verify, validate, assert, ensure, confirm,

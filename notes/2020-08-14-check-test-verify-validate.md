@@ -165,4 +165,75 @@ GitHub 討論區 https://bit.ly/321ResR  提問。
 --
 ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 136.56.13.184 (美國)
 ※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1597382427.A.19A.html
+推 y956403: 感謝分享 08/14 14:02
+推 alihue: 做成工具(書/web)讓人查好像不錯 08/14 14:06
+
+同意；長期來說會想往 HTML / GitHub Pages  的方向前進；方便閱讀、檢索、製
+作、協作。
+
+→ alihue: 感謝分享 08/14 14:06
+推 sniper2824: 推個 08/14 14:08
+推 DCTmaybe: 必須推 08/14 14:22
+推 Tiguru: 推 08/14 15:30
+推 tbpfs: 加油~一周一篇~一年後就可以出書了 08/14 15:40
+
+謝謝鼓勵 :)
+
+推 m234onica: 謝謝推 08/14 15:57
+推 ericx790101: 感謝分享 08/14 18:10
+推 chenshin0719: 推推 08/14 18:52
+推 wjp1003: 推 08/14 19:14
+推 tz5514: 推 08/14 19:31
+推 Luke3723: 推 08/15 01:10
+推 yyhsiu: 推，這個實用 08/15 01:14
+
+謝謝各位的欣賞 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 08/15/2020 12:40:07
+推 summerleaves: 感謝分享！ 08/15 12:35
+推 scottxxx666: 推 08/15 14:07
+推 azoaho: 推！非常感謝，對我幫助很大！ 08/15 16:34
+推 rapidsheep: 推推~ 08/15 19:26
+推 jasonwung: 推 08/15 21:01
+推 blueskier: 推 08/16 10:15
+
+謝謝 :)
+
+推 blueskier: 想問會不會做CURD操作的系列，很常用的幾個 08/16 10:18
+
+是的，有打算做 CRUD 。
+
+目前有一篇『如何命名「刪除」功能？』，可以參考以下連結：
+
+* #1V8-skH9 (Soft_Job)
+* https://www.ptt.cc/bbs/Soft_Job/M.1596190126.A.449.html
+
+Ｃ、Ｒ、Ｕ的部分還沒開始寫，但有開項目追蹤 :)
+
+* Ｃ: https://github.com/EngTW/English-for-Programmers/issues/28
+* Ｒ: https://github.com/EngTW/English-for-Programmers/issues/29
+* Ｕ: https://github.com/EngTW/English-for-Programmers/issues/30
+
+※ 編輯: AmosYang (136.56.13.184 美國), 08/16/2020 20:54:18
+※ 編輯: AmosYang (136.56.13.184 美國), 08/16/2020 20:59:45
+推 Bencrie: 那順便許願一下 commit message 好了 XD 08/17 02:15
+
+很有意思的題目 :)
+
+能否談談你覺得「寫 commit message 時，多半卡在哪裡？」；例如說，句型、文
+法、選字？
+
+或著，若能談談「讓你覺得卡住的案例」，也能幫助我們找到解決問題的方向。
+
+---
+可以在這裡推文討論、 PTT 站內信 、或 Facebook/Twitter 私訊都可以 :)
+
+* https://www.facebook.com/twy30
+* https://twitter.com/twy30
+※ 編輯: AmosYang (136.56.13.184 美國), 08/17/2020 05:46:29
+推 smily134: 推 08/17 12:48
+推 helenalee: 推 08/18 14:57
+推 s56565566123: Good分享感謝 08/20 08:24
+
+謝謝各位的欣賞 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 08/21/2020 12:40:58
 ```
