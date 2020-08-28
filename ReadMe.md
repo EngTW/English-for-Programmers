@@ -18,8 +18,6 @@
   * [notes/2020-08-21-validate-verify.md](notes/2020-08-21-validate-verify.md)
 * Twitter 討論 https://bit.ly/2QfUPfK
 
-Validate, Verify
-
 # [如何命名「檢查」功能？](https://bit.ly/31UiEPK)
 
 2020-08-14 check, test, verify, validate, assert, ensure, confirm,
