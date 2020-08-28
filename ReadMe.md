@@ -8,12 +8,23 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [如何命名「複製」功能？](https://bit.ly/3guPFaE)
+
+2020-08-28 copy, clone, duplicate
+
+* Google 簡報 https://bit.ly/3guPFaE
+* Facebook 討論 https://bit.ly/2ExUOSl
+* PTT 文章 https://bit.ly/2EoIPXj
+  * [notes/2020-08-28-copy-clone-duplicate.md](notes/2020-08-28-copy-clone-duplicate.md)
+* Twitter 討論 https://bit.ly/3hC9EFI
+
 # [如何命名「檢查」功能？２](https://bit.ly/3l161ey)
 
 2020-08-21 validate, verify, argument, parameter
 
 * Google 簡報 https://bit.ly/3l161ey
 * Facebook 討論 https://bit.ly/3glA4Kd
+  * [validate vs. verify](notes/2020-08-23-validate-verify.md)
 * PTT 文章 https://bit.ly/2CPyq6a
   * [notes/2020-08-21-validate-verify.md](notes/2020-08-21-validate-verify.md)
 * Twitter 討論 https://bit.ly/2QfUPfK
