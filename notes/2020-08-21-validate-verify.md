@@ -414,4 +414,106 @@ GitHub  討論區留言。
 推 sniper2824: 先推 08/21 12:16
 推 jobintan: nice. 08/21 12:20
 推 jerryshadow: 先推 08/21 12:27
+推 javy0521: 推 08/21 12:50
+推 hans1461: 推 08/21 13:26
+推 summerleaves: 推 08/21 14:36
+推 BlazarArc: 推 08/21 15:18
+推 TWkobe: 謝謝 很實用 08/21 15:53
+推 minesos520: push 08/21 16:30
+
+謝謝 :)
+
+推 ayugioh2003: 推 參數引數那段好懂又好記 08/21 21:45
+
+謝謝你的欣賞 :)
+
+推 Ouranos: 推推! 08/21 22:19
+推 LIN810116: 推 08/22 04:37
+推 sksksk0487: 推 08/22 13:38
+
+謝謝 :)
+
+推 Csongs: 所以verify包含validation 08/22 13:54
+
+我是這樣看，先重新檢視字典的定義：
+
+---
+## validate
+
+> check or prove the validity or accuracy of (something).
+
+檢查、證明某事物的 有效性 或 準確性
+
+> demonstrate or support the truth or value of.
+
+展示、支持某人事物的確實性、 (精神上的) 價值
+
+> make or declare legally valid.
+
+宣告、認可某事物 在法律上的有效性
+
+> recognize or affirm the validity or worth of (a person or their
+> feelings or opinions); cause (a person) to feel valued or worthwhile.
+
+認可、確性某人 (或它的感受、意見) 的 有效性、 (精神上的) 價值
+
+## verify
+
+> make sure or demonstrate that (something) is true, accurate, or justified.
+
+確認、展示某事物為真、準確、合理
+
+> LAW
+> swear to or support (a statement) by affidavit.
+
+法律上，以宣誓為某主張背書
+
+---
+把這兩個字最主要的解釋並排在一起看，可以看出為什麼那麼難分辨
+
+* validate
+  * 檢查、證明某事物的 有效性(validity) 或 準確性
+  * validity
+    * > the quality of being logically or factually sound; soundness or
+      > cogency.
+    * 邏輯上、事實上 合理明確一致 ，讓人信服
+    * > the state of being legally or officially binding or acceptable.
+    * 在法律上 或 正式地 有效/被接受
+* verify
+  * 確認、展示某事物為真、準確、合理
+
+也就是說，隨著上下文脈絡對「有效性、準確性、真實性、合理性」的解讀的改變
+，在 口語 上，這兩個字多半可以互換著用。
+
+(有點事，先離開，等等再回來寫完)
+
+※ 編輯: AmosYang (136.56.13.184 美國), 08/22/2020 21:27:14
+※ 編輯: AmosYang (136.56.13.184 美國), 08/22/2020 21:58:41
+
+回到原題
+
+> 所以verify包含validation
+
+與其說「包含」，我會這樣想：
+
+* 如果你選擇把「此資料是否有效」與「此資料是否滿足預期的正確狀態」分開來
+  看，那麼，
+
+  * `bool ValidateAge(string age)` 可以做「判斷 age 資料是否有效」；例如
+    ， "-3", "foobar" 會是「無效的年齡資料」。
+
+  * `bool VerifyAge(int age)` 可以做「判斷是否符合『對年齡的規定』」；例如
+    12 (歲) 就不符合「成人 18 歲的規定」。
+
+* 相對的，如果在你的邏輯模型中你認為「『大於 18 的數字』才是
+  有效(valid)的 + 正確的 + 合理的」，也是可以用一個 `ValidateAge()`
+  或 `VerifyAge()` 就一次檢查完。
+
+  或著，寫成 `CheckAge()` 也可以，大多數人應該還是能知道你的意圖是「檢查
+  age 是否符合你的邏輯模型的要求。
+※ 編輯: AmosYang (136.56.13.184 美國), 08/23/2020 13:54:00
+推 Csongs: 年齡舉例 蠻清楚的 謝謝 08/24 09:41
+
+不客氣 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 08/29/2020 06:30:00
 ```
