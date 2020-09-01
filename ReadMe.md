@@ -24,7 +24,7 @@
 
 * Google 簡報 https://bit.ly/3l161ey
 * Facebook 討論 https://bit.ly/3glA4Kd
-  * [validate vs. verify](notes/2020-08-23-validate-verify.md)
+  * [notes/2020-08-23-validate-verify.md](notes/2020-08-23-validate-verify.md)
 * PTT 文章 https://bit.ly/2CPyq6a
   * [notes/2020-08-21-validate-verify.md](notes/2020-08-21-validate-verify.md)
 * Twitter 討論 https://bit.ly/2QfUPfK
