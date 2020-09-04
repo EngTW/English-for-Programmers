@@ -8,6 +8,16 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [如何命名「狀態」變數？](https://bit.ly/2GtLobb)
+
+2020-09-04 state, status, ordinal
+
+* Google 簡報 https://bit.ly/2GtLobb
+* Facebook 討論 https://bit.ly/2EW8BCq
+* PTT 文章 https://bit.ly/3boxC53
+  * [notes/2020-09-04-state-status.md](notes/2020-09-04-state-status.md)
+* Twitter 討論 https://bit.ly/3jCLPhE
+
 # [如何命名「複製」功能？](https://bit.ly/3guPFaE)
 
 2020-08-28 copy, clone, duplicate
