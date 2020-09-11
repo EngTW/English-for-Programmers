@@ -8,6 +8,14 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [如何命名「集合名詞」數量變數？]()
+
+* Google 簡報 https://bit.ly/3m9PWDZ
+* Facebook 討論 https://bit.ly/33fQCix
+* PTT 文章 https://bit.ly/3kbqJY1
+  * [notes/2020-09-11-size.md](notes/2020-09-11-size.md)
+* Twitter 討論 https://bit.ly/35pGG8F
+
 # [如何命名「狀態」變數？](https://bit.ly/2GtLobb)
 
 2020-09-04 state, status, ordinal
