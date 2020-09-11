@@ -10,6 +10,8 @@
 
 # [如何命名「集合名詞」數量變數？]()
 
+2020-09-11 size, return, result
+
 * Google 簡報 https://bit.ly/3m9PWDZ
 * Facebook 討論 https://bit.ly/33fQCix
 * PTT 文章 https://bit.ly/3kbqJY1
