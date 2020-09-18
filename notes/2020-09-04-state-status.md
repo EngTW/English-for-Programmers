@@ -296,4 +296,9 @@ https://github.com/EngTW/English-for-Programmers/issues/25
 
 謝謝 :)
 ※ 編輯: AmosYang (136.56.13.184 美國), 09/09/2020 20:48:53
+推 ygl01181: 推 09/14 07:32
+推 NCUcsie105: 推 09/15 08:29
+
+謝謝 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 09/18/2020 12:17:29
 ```
