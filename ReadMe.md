@@ -8,7 +8,17 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
-# [如何命名「集合名詞」數量變數？]()
+# [「屬性」該用哪個字？](https://bit.ly/32DAoAD)
+
+2020-09-18 attribute, property
+
+* Google 簡報 https://bit.ly/32DAoAD
+* Facebook 討論 https://bit.ly/35PASpc
+* PTT 文章 https://bit.ly/3hJfR1P
+  * [notes/2020-09-18-attribute-property.md](notes/2020-09-18-attribute-property.md)
+* Twitter 討論 https://bit.ly/2RBSLQ5
+
+# [如何命名「集合名詞」數量變數？](https://bit.ly/3m9PWDZ)
 
 2020-09-11 size, return, result
 
