@@ -8,6 +8,17 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [如何命名「分段」功能？](https://bit.ly/3mPCOEa)
+
+2020-09-25 slice, split, detach, disconnect, delimiter, separator,
+divider, splitter, break
+
+* Google 簡報 https://bit.ly/3mPCOEa
+* PTT 文章 https://bit.ly/3i2ZKfy
+  * [notes/2020-09-25-slice-split.md](notes/2020-09-25-slice-split.md)
+* Facebook 討論 https://bit.ly/2G3gI0a
+* Twitter 討論 https://bit.ly/2RVhIpE
+
 # [「屬性」該用哪個字？](https://bit.ly/32DAoAD)
 
 2020-09-18 attribute, property
