@@ -8,6 +8,17 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [「命名」這個問題的本質](https://bit.ly/2GvWwV2)
+
+2020-10-02 naming
+
+* Google 文件 https://bit.ly/2GvWwV2
+* PTT 文章 https://bit.ly/36tInT8
+  * [notes/2020-10-02-naming.md](notes/2020-10-02-naming.md)
+  * [notes/2018-12-30-commenting.md](notes/2018-12-30-commenting.md)
+* Facebook 討論 https://bit.ly/3jtwdgH
+* Twitter 討論 https://bit.ly/3cSSP7J
+
 # [如何命名「分段」功能？](https://bit.ly/3mPCOEa)
 
 2020-09-25 slice, split, detach, disconnect, delimiter, separator,
