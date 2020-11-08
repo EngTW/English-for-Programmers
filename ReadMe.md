@@ -10,7 +10,7 @@
 
 # [刷 LeetCode 練習命名](https://bit.ly/2GIyLtk)
 
-2020-11-07 LeetCode, stack, digit, place, upper bound, majorant,
+2020-11-07 LeetCode, naming, stack, digit, place, upper bound, majorant,
 lower bound, minorant, inclusive, exclusive
 
 * Google 文件 https://bit.ly/2GIyLtk
