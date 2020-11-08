@@ -8,6 +8,16 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [刷 LeetCode 練習命名](https://bit.ly/2GIyLtk)
+
+2020-11-07 LeetCode, naming, stack, digit, place, upper bound, majorant,
+lower bound, minorant, inclusive, exclusive
+
+* Google 文件 https://bit.ly/2GIyLtk
+* PTT 文章 https://bit.ly/3k8L6EN
+* Facebook 討論 https://bit.ly/3ldpEQq
+* Twitter 討論 https://bit.ly/3lcec7r
+
 # [「命名」這個問題的本質](https://bit.ly/2GvWwV2)
 
 2020-10-02 naming
