@@ -1,0 +1,14105 @@
+大學入學考試中心
+高中英文參考詞彙表
+－111 學年度起適用－
+中華民國 109 年 7 月
+著作權屬財團法人大學入學考試中心基金會所有，僅供非營
+利目的使用，轉載請註明出處。若作為營利目的使用，應事
+前經由財團法人大學入學考試中心基金會書面同意授權。
+
+高中英文參考詞彙表
+－111 學年度起適用－
+
+目 錄
+編修說明 .............................................................................................. I
+前言.......................................................................................................... I
+壹、編修流程 ......................................................................................... II
+貳、編輯原則 ........................................................................................ III
+參、結語................................................................................................. V
+參考書目................................................................................................. V
+高中英文參考詞彙表.......................................................................... 1
+依級別排序............................................................................................. 1
+依字母排序........................................................................................... 53
+附錄 ..................................................................................................104
+
+高中英文參考詞彙表
+I
+高中英文參考詞彙表
+－111 學年度起適用－
+編修說明
+前言
+111學年度起，學科能力測驗英文考科（簡稱學測英文）與高中英語聽力測驗
+（簡稱英聽），即依據108學年度實施之「十二年國民基本教育課程綱要國民中小學
+暨普通型高級中等學校語文領域—英語文」（簡稱「英語文課綱」）命題。《高中
+英文參考詞彙表》長期以來做為大學入學考試中心英文科相關測驗的命題參考資料
+之一，也是高中教學與學生學習的參考內容。
+原《高中英文參考詞彙表》（簡稱《91參考詞彙表》或《91年版》）乃是民國89
+至91年間，由鄭恆雄教授等執行「大考中心高中英文參考詞彙表編修研究計畫」1之
+成果，至今業已使用多年。考量隨時間變遷，許多英語文詞彙近年來逐漸頻繁出現
+於日常生活中（如：custody, icon, incredible, ongoing, online, portfolio, sensor, terrorism,
+venue, workout等）；且多年來，陸續有高中教師反映91參考詞彙表中部分詞彙目前
+較為罕用，可考慮做若干的調整。綜合前述各項因素及因應語言使用之變化，編修
+《91參考詞彙表》確有其必要性。
+此更新版《108參考詞彙表》大致依循了《91參考詞彙表》之編輯原則，舊版詞
+彙表運用與反映的是當時之語料資料，但隨時空環境變遷至今，語料的蒐集與內容
+已有發展與改變。本版編纂過程歷經專案研究計畫研發、學科專家座談、大學教授
+及高中教師問卷調查等程序後最終順利完成。主要編纂方式是以語料庫字表、專家
+編輯之字表、字典及其詞頻表、高中教科書與英語分級讀本語料、歷年大學入學考
+試相關試題等五大類，共計約30餘種參考資料（詳：參考書目），作為詞彙篩選參
+考，我國文化背景、教學層面等多方因素亦同時納入篩選考量，而後據此針對各個
+詞彙逐一進行檢視。以下茲就新版參考詞彙表編修流程及編輯原則加以說明。
+ 1 本計畫由臺灣大學外文系鄭恆雄教授主持，研究成員包括政治大學英文系張郇慧教授、臺灣師範大學英語
+系程玉秀教授、臺北市立第一女子高級中學顧英秀老師（依姓氏筆劃順序排列）。
+高中英文參考詞彙表
+II
+壹、編修流程
+本中心於104年，由教育部補助進行「配合課綱調整試題研發以及招考長程規劃
+—高中英文參考詞彙表編修計畫（104）」 2，以《91參考詞彙表》的6,480詞條
+（entries）為基礎，完成5,280個單詞之參考詞彙表。107年4月教育部公告「108英語
+文課綱」後，本中心再進行「高中英文參考詞彙表編修計畫（107）」3，酌予納入英
+語文課綱之參考字彙表（2,000字詞），重新編輯《高中英文參考詞彙表》（簡稱
+《108參考詞彙表》或《108年版》），仍分為六級，每一級收錄約1,000詞條，六個
+級別共計約6,000詞條。
+《108參考詞彙表》主要編輯方式以語料庫字表、專家編輯之字表、字典及其詞
+頻表、高中教科書與英語分級讀本語料、歷年學測與指考試題字表等五大類參考資
+料作為篩選標準，依序先過濾與檢視《91參考詞彙表》之詞彙，將同時出現於大部
+分參考資料中之詞彙予以保留，而未重複出現於其中一項參考資料的詞彙，則於研
+究團隊充分討論後，視決議予以保留或不予列入。在篩選過程中，詞彙頻率為重要
+考量因素4，如：chariot、discotheque、uranium等詞彙，因詞頻低，經討論後決議不
+予列入。篩選依據亦同時將我國文化背景、教學層面等多方因素納入考量，據此針
+對各個詞彙逐一進行檢視。
+因《108參考詞彙表》多以書寫型詞彙為主，《91參考詞彙表》中所含括之口語
+型詞彙（如：yummy）遂不予列入，另外，《91年版》列入之部分專有名詞（如：
+DVD/digital video disk），由於已不再時興；以及少數之縮寫字（如：km）、片語
+（如：according to），考量其可於課室中學習，以上於《108年版》皆不再列入。不
+含括於《91年版》之新增詞彙，則是挑選自大部分前述五大類參考資料中出現之高
+詞頻詞彙（如：collaboration, compulsory, database, emission, forum, indigenous, legacy,
+orientation, scenario, striking等）。另外，計畫案期間召開之座談會中，與會高中教師
+建議可列入較常見的宗教名、國家名、數字、月份、季節等，則另外表列於附錄，
+以提供參考。由於《108參考詞彙表》納入英語文課綱中所列之參考字彙表2,000詞，
+以致原《91參考詞彙表》內部分詞彙所屬級別因而隨之調整。即便如此，二個版本
+中之各級別詞彙差異並未過大，保留的詞條大致維持原《91年版》之前後級別，例
+ 2 教育部於 104 年補助本中心，進行「配合課綱調整試題研發以及招考長程規劃—高中英文參考詞彙表編修
+計畫（104）」，由臺灣師範大學英語系陳浩然教授擔任本計畫主持人，其餘六位成員包括政治大學英文
+系尤雪瑛教授、臺灣科技大學應外系王世平教授、臺灣大學外文系高照明教授、臺灣師範大學英語系程玉
+秀教授、本中心英文科學科研究員林秀慧及游春琪（依姓氏筆劃順序排列）。
+3 本計畫由臺灣師範大學英語系陳浩然教授主持，研究成員為大考中心英文科學科研究員林秀慧、
+彭怡寧、游春琪（依姓氏筆劃順序排列）。
+4 詞彙頻率（frequency）代表該詞彙在使用上的頻率統計結果，未必代表該詞彙的學習難易度。
+高中英文參考詞彙表
+III
+如：《108年版》第一級包含《91年版》之第一、二、三級大部分詞彙，依此類推。
+《108年版》中約有95%詞條保留自《91年版》，而新增詞條約占5%。
+《108參考詞彙表》依詞彙級別與字母順序二種方式排列，依字母排序時，每個
+詞彙後方會列出其詞類及級別，例如：broadcast v./n. 3，表示 broadcast 一字可當
+動詞（v.）與名詞（n.），屬於第三級詞彙。
+由於同一個詞彙於不同教科書版本中出現的冊數順序未必相同，本詞彙表內部分
+詞彙的級別分類，與教科書編寫版本相較，難免會有級別高低上的些許差異。但詞
+彙表內所有詞彙皆是經由計畫案透過多方嚴謹編輯流程與斟酌各項條件後篩選及分
+級而得，且經評估後認為適合於高中階段學習，即便學生學習時間點前後或有不
+同，習得結果應該不至於受到影響。
+貳、編輯原則
+除上述編修流程，《108參考詞彙表》大致依循《91參考詞彙表》之編輯原則，
+僅做小幅修改，共計收錄約6,000個英文詞條。說明如下：
+(1) 本詞彙表所收詞彙之拼法以美式拼法為主，以實詞及虛詞之單詞為主，不包含
+感嘆詞（interjection）如： gee, oh, ouch, uh-huh, oops 等。實詞包括名詞
+（n.）、動詞（v.）、形容詞（adj.）、副詞（adv.）；虛詞包括冠詞（art.）、
+代名詞（pron.）、介系詞（prep.）及連接詞（conj.）。
+(2) 英文有許多詞彙可兼有多個不同詞類之用法，但是意義上相同，如：after 可兼
+為介系詞、副詞及連接詞。在本詞彙表中，此種詞彙會被併為一個詞彙。以前
+例而言，該詞彙會以 prep./adv./conj.表示兼有三種詞類之用法，而以最常用之詞
+類置於最前面，次常用者次之，依此類推。
+(3) 英文有許多動詞及名詞拼法相同，如：increase、insult，既是動詞，又是名詞，
+只有重音位置不同，但是意義相同。在本詞彙表中，此種動詞及名詞歸併為一
+個詞彙，主要詞類置於前，次要詞類置於後，以 v./n.表示此詞彙兼有兩種詞類
+之用法。
+(4) 英文形容詞大部分均可接字尾-ly 變成副詞，故凡是含有字尾-ly 之副詞均不列
+入，除非意義不同，如：roughly、scarcely。
+(5) 英文形容詞有許多可接字尾-ness 變成名詞，故凡是含有字尾-ness 之名詞均不列
+入。
+(6) 英文形容詞有許多可接字首，如：in-、im-、ir-、il-、un-等，變成否定形容
+詞，此種形容詞均不列入。
+高中英文參考詞彙表
+IV
+(7) 英文接 non-（非）字首的形容詞或名詞數量甚多且大多屬低頻詞彙，如：
+nonpoisonous（adj.）、nonparticipant（n.），同時，其意義均可自其字首之意義
+「非」引伸出來，故除了 nonsense（n.）及 nonprofit（adj.）兩個常用詞彙之
+外，其他均不列入。
+(8) 英文有許多名詞可接字尾-less 變成形容詞，如：fearless、homeless，因為相當
+規律，故均不列入。
+(9) 英文動詞有許多可接字首 re-表示重複動作，此類動詞均不列入。
+(10) 英文動詞有許多可接字尾-ment 構成名詞，此類動詞均把-ment 放在動詞後之括
+號內，表示該動詞可以接-ment 構成名詞，其詞類則標為 v./(n.)。如果接-ment
+之後，原來的動詞拼法改變，則整個含-ment 的詞彙重列一遍，如：argue
+(argument)。但是若接-ment 之後意義不同，則將其列為不同詞彙，如：
+commit、commitment。
+(11) 由動詞接字尾-er、-or 或-ant 所形成之名詞均列入，因為非所有動詞均可接字尾er、-or 或-ant 形成名詞，表示從事某種行動之人，同時此種名詞有的接-er，有
+的接-or，有的接-ant，有的接-er 或-or 皆可，故一一列入。
+(12) 名詞接字尾-ful 所構成之形容詞均列入，因為字尾接-ful 有不同意義，而且不是
+所有名詞均可接字尾-ful 構成形容詞。如：respectful（尊敬的）、dreadful（令
+人恐懼的）、lawful（合法的）中的-ful，意義不同。
+(13) 動詞接字尾-able、-ible 或-iable 均列入，因為此種表示「有能力」的字尾規則不
+一。如：respect 變成 respectable、defense 變成 defensible、resist 變成 resistible、
+admire 變成 admirable、rely 變成 reliable 等。
+(14) 英文有許多動詞可接字尾-ing 或-ed 變成形容詞，因為相當規律，故均不列入。
+但如接詞尾-ing 或-ed 後意義不同，如：promising（有前途的）及 learned（有學
+問的），則予以列入。
+(15) 英文有些詞彙有兩種不同的拼法，但意義相同。遇此情況，則兩者合列為一詞
+彙，以斜線分開。如：advertise(ment)/ad、bicycle/bike、policeman/cop，原詞置
+於前，非正式（informal）用法置於後。
+(16) 英文有些同義詞經常交替使用，以斜線分開，如：railroad/railway，但是當斜線
+後之同義詞再度出現時，則不再另外列舉。
+(17) 英文有些詞彙雖然因性別不同而拼法不同，但因觀念相同，均列為同一詞彙，
+以斜線分開，如：hero/heroine、host/hostess 等，斜線後之詞彙不再另外列舉。
+高中英文參考詞彙表
+V
+(18) 複合詞（compounds）因為大多數可從其組成字詞理解其意義，故儘量不列
+入。但是有些複合詞難以從其組成字詞理解其意義，則予以列入，如：
+greenhouse、homework、household、housework 等。
+(19) 名詞之後如有(s)，表示此一名詞通常以複數形式出現，如：chopstick(s)、
+shoe(s)、slipper(s)等。
+(20) 專有名詞因數量太多，難以取捨，而且大致不影響文章之理解，故均不列入。
+(21) 數字（Numbers）、星期（Days of the Week）、月份（Months）、季節
+（Seasons）、世界主要海洋（The Principal Oceans of the World）、洲名
+（Continents）、國家名與地區名（Countries and Areas）等，另列於附錄，以供
+參考。
+參、結語
+本次編修之《108參考詞彙表》，已力求確保品質，儘管如此，仍可能存在更加
+精進的空間，歡迎各界不吝惠予指正與建議。本詞彙表期望能夠系統性地彙整呈現
+高中階段學習中最常見的英文詞彙，以便讓學生在日常英語文閱讀、聆聽、口說、
+寫作能力養成上，都能充分應用這些字詞。
+參考書目
+一、語料庫及其字表
+• British National Corpus. (n.d.). [Online corpus] Retrieved from
+http://www.natcorp.ox.ac.uk/。
+語料：約 1 億詞。
+• Leech, G., Rayson, P., & Wilson, A. (2014). Word frequencies in written and spoken
+English: Based on the British national corpus. Routledge.
+• Davies, Mark. (2008-) The Corpus of Contemporary American English (COCA): 560
+million words, 1990-present. Available online at https://www.englishcorpora.org/coca/。
+語料：約 5.2 億詞。
+• EnTenTen — English corpus from the web. (2019). Retrieved from
+https://www.sketchengine.eu/ententen-english-corpus/
+語料：約 150 億詞。
+• ukWaC - English corpus from the .uk domain | Sketch engine. (2019). Retrieved from
+https://www.sketchengine.eu/ukwac-british-english-corpus/
+語料：約 15 億詞。
+二、專家編輯字表
+• A New Academic Word List. Browne, C., Culligan, B., & Phillips, J. (2013). Retrieved
+from http://www.newacademicwordlist.org/
+高中英文參考詞彙表
+VI
+• A New General Service List (1.01)
+Browne, C., Culligan, B., & Phillips, J. (2013). New general service list. Retrieved
+from http://www.newgeneralservicelist.org/
+• Collins COBUILD English Dictionary Frequently Wordlist
+Collins COBUILD advanced learner’s English dictionary. (2014). Glasgow:
+HarperCollins.
+• English vocabulary profile. (n.d.). Retrieved from
+https://www.englishprofile.org/wordlists.
+• Longman communication 3000. (2007). Harlow, England: Pearson Education Ltd.
+• New GSL-2500
+Brezina, V., & Gablasova, D. (2015). Is there a core general vocabulary? Introducing
+the New General Service List. Applied Linguistics, 36(1). 1-22.
+• The Academic Word List. (1998).
+Coxhead, A. (1998). An academic word list (Vol. 18). School of Linguistics and
+Applied Language Studies, Victoria University of Wellington.
+• Oxford 3000 and 5000: OxfordLearnersDictionaries.com. (n.d.). Retrieved 2019, from
+https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000.
+• 教育部（2018）。國民中小學最基本之 1200 個字詞，取自十二年國民基本教育
+課程綱要國民中小學暨普通型高級中等學校語文領域─英語文。取自
+https://www.naer.edu.tw/fi les/15-1000-14379,c639-1.php?Lang=zh-tw
+• 香港中學文憑參考資料。取自 http://www.edb.gov.hk/en/curriculumdevelopment/kla/eng-edu/references-resources.html
+• 語言訓練測驗中心全民英檢參考字表（初、中、中高級）。取自
+https://www.lttc.ntu.edu.tw/wordlist.htm
+• 鄭恆雄、張郇慧、程玉秀、顧英秀（2001）。大考中心高中英文常用詞彙表編
+修研究計畫報告（第一期）。臺北：財團法人大學入學考試中心。
+• 鄭恆雄、張郇慧、程玉秀、顧英秀（2002）。大考中心高中英文參考詞彙表編
+修研究計畫報告（第二期）。臺北：財團法人大學入學考試中心。
+三、字典
+• Cambridge Dictionary: Find definitions, meanings & translations. (n.d.). Retrieved from
+https://dictionary.cambridge.org/us/
+• Collins. (n.d.). Collins online English dictionary.
+https://www.collinsdictionary.com/dictionary/english.
+• Longman Dictionary of Contemporary English | LDOCE. (n.d.). Retrieved from
+https://www.ldoceonline.com/
+• Macmillan Dictionary: Free English Dictionary and Thesaurus Online. (n.d.). Retrieved
+from https://www.macmillandictionary.com/.
+• Merriam-Webster’s Collegiate Dictionary.(n.d.). Retrieved from http://www.merriamwebster.com/dictionary
+• Oxford Dictionaries - Dictionary, Thesaurus, & Grammar. (n.d.). Retrieved from
+http://www.oxforddictionaries.com/us/
+高中英文參考詞彙表
+VII
+• Sinclair, J. (1995). Collins COBUILD English dictionary. London: Harper Collins.
+四、普通高級中學英文教科書（99 課綱）與英語分級讀本
+• Cobb, T. Graded Reader Concordances [computer program]. Accessed at
+http://www.lextutor.ca/conc/graded/
+• 車畇庭等。普通高級中學英文：第一至六冊。臺北：三民書局股份有限公司。
+• 車畇庭等。普通高級中學英文（乙版）：第一至六冊。臺北：三民書局股份有
+限公司。
+• 周中天等。普通高級中學英文：第一至六冊。新北：龍騰文化事業股份有限公
+司。
+• 施玉惠等。普通高級中學英文（乙版）：第一至六冊。臺北：遠東圖書股份有
+限公司。
+• 陳純音等。普通高級中學英文：第一至六冊。臺北：遠東圖書股份有限公司。
+• 陳超明等。普通高級中學英文：第一至六冊。臺南：南一書局企業股份有限公
+司。
+五、試題
+• 學科能力測驗英文考科歷年試題 （2002-2020 年）
+取自 http://www.ceec.edu.tw/AbilityExam/AbilityExamPaper.htm
+• 指定科目考試英文考科歷年試題（2002-2019 年）
+取自 http://www.ceec.edu.tw/AppointExam/AppointExamPaper.htm
+• 認識高中英語聽力測驗 1、2（2013、2014 年）
+取自 https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018576253614017417&sid=0J054578000186972657
+• 高中英語聽力測驗試題示例 1 至 5（2015-2019 年）
+取自 https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J018576253614017417&sid=0J054578000186972657
+
+依級別排序 第一級
+1
+高中英文參考詞彙表
+依級別排序
+第一級
+a/an art.
+ability n.
+able adj.
+about prep./adv.
+above prep./adv./adj.
+abroad adv.
+across prep./adv.
+act n./v.
+action n.
+actor/actress n.
+add v.
+afraid adj.
+after prep./conj./adv.
+afternoon n.
+again adv.
+age n./v.
+ago adv.
+agree(ment) v./(n.)
+air n.
+airplane/plane n.
+airport n.
+all adj./adv./pron./n.
+allow v.
+almost adv.
+along prep./adv.
+already adv.
+also adv.
+although conj.
+always adv.
+am/a.m. adv.
+and conj.
+angry adj.
+animal n.
+another adj./pron.
+answer n./v.
+ant n.
+any pron./adj./adv.
+anybody/anyone pron.
+anything pron.
+apartment n.
+appear v.
+apple n.
+area n.
+arm n./v.
+around prep./adv.
+arrive v.
+art n.
+as conj./adv./prep.
+ask v.
+at prep.
+attack n./v.
+aunt n.
+away adv.
+baby n.
+back adv./n./v./adj.
+bad adj.
+bag n.
+ball n./v.
+banana n.
+band n.
+bank n./v.
+baseball n.
+basket n.
+basketball n.
+bat n./v.
+bath n.
+bathroom n.
+be v./aux.
+beach n./v.
+bean n.
+bear v./n.
+beautiful adj.
+because conj.
+become v.
+bed n.
+bedroom n.
+bee n.
+beef n.
+before prep./conj./adv.
+begin v.
+behind prep./adv.
+believe v.
+bell n.
+belong v.
+below adv./prep.
+belt n./v.
+bench n.
+beside prep.
+best adj./adv./v./n.
+between prep./adv.
+bicycle/bike n.
+big adj.
+bird n.
+bite n./v.
+black adj./n.
+blind adj./v.
+block n./v.
+blow v.
+blue adj./n.
+boat n.
+body n.
+book n./v.
+bored adj.
+boring adj.
+born adj.
+borrow v.
+boss n./v.
+高中英文參考詞彙表
+2
+both pron./adv./adj.
+bottle n./v.
+bottom n./adj./v.
+bow n./v.
+bowl n.
+box n./v.
+boy n.
+brave adj.
+bread n.
+break n./v.
+breakfast n./v.
+bridge n./v.
+bright adj./adv.
+bring v.
+brother n.
+brown adj./v./n.
+bug n./v.
+build v.
+bus n.
+business n.
+busy adj.
+but conj./prep./adv.
+butter n./v.
+butterfly n.
+button n./v.
+buy v./n.
+by prep./adv.
+cake n.
+call v./n.
+camera n.
+camp n./v.
+can aux./n./v.
+cap n./v.
+car n.
+card n.
+care n./v.
+careful adj.
+carrot n.
+carry v.
+case n./v.
+cat n.
+catch v./n.
+celebrate v.
+cellphone n.
+cent n.
+center n.
+certain adj./pron.
+chair n./v.
+chance n./v.
+change n./v.
+cheap adj./adv.
+check v./n.
+cheese n.
+chicken n.
+child n.
+chocolate n.
+choice n./adj.
+choose v.
+church n.
+circle n./v.
+city n.
+class n./v.
+clean adj./v./adv./n.
+clear adj./v./adv.
+clerk n.
+climb v./n.
+clock n.
+close adj./adv./v./n.
+clothes n.
+cloud n.
+club n./v.
+coat n./v.
+coffee n.
+cold adj./n.
+collect v.
+color n./v.
+come v.
+comfortable adj.
+common adj./n.
+computer n.
+convenient adj.
+cook v./n.
+cookie n.
+cool adj./v./n.
+copy n./v.
+corner n.
+correct adj./v.
+cost n./v.
+couch n./v.
+count v./n.
+country n.
+course n./v.
+cousin n.
+cover v./n.
+cow n.
+crazy adj.
+cross n./v.
+cry v./n.
+cup n.
+cut v./n.
+cute adj.
+dance n./v.
+dangerous adj.
+dark adj./n.
+date n./v.
+daughter n.
+day n.
+dead adj.
+deal n./v.
+dear adj./n./adv.
+death n.
+decide v.
+deep adj./adv.
+define v.
+desk n.
+dictionary n.
+die v.
+different adj.
+difficult adj.
+dig v./n.
+依級別排序 第一級
+3
+dinner n.
+dirty adj./v.
+dish n./v.
+do aux./v.
+doctor/doc n.
+dog n.
+doll n.
+dollar n.
+door n.
+down adv./prep./adj./n./v.
+dozen n.
+draw v./n.
+dream n./v.
+dress n./v.
+drink v./n.
+drive v./n.
+driver n.
+drop v./n.
+drum n./v.
+dry adj./v.
+duck n./v.
+during prep.
+each pron./adj./adv.
+ear n.
+early adj./adv.
+earth n.
+east n./adj./adv.
+easy adj.
+eat v.
+egg n.
+either adv./pron./adj./conj.
+elephant n.
+else adv.
+email n./v.
+end n./v.
+engineer n.
+enjoy(ment) v./(n.)
+enough adv./adj./n.
+enter v.
+envelope n.
+eraser n.
+error n.
+even adv./adj./v.
+evening n.
+ever adv.
+every adj.
+everyone/everybody
+pron.
+everything pron.
+example n.
+excellent adj.
+except prep./conj.
+excited adj.
+exciting adj.
+exercise n./v.
+expect v.
+expensive adj.
+experience n./v.
+explain v.
+eye n.
+face n./v.
+fact n.
+factory n.
+fail v./n.
+fall n./v.
+family n.
+famous adj.
+fan n./v.
+far adv./adj.
+farm n./v.
+farmer n.
+fast adv./adj.
+fat n./adj.
+father n.
+feed v./n.
+feel v./n.
+festival n.
+few adj./pron.
+fight v./n.
+file n./v.
+fill v./n.
+finally adv.
+find v./n.
+fine adj./adv./v./n.
+finger n./v.
+finish v./n.
+fire n./v.
+first n./adv./adj.
+fish n./v.
+floor n./v.
+flower n./v.
+fly v./n.
+follow v.
+food n.
+fool n./v.
+foot n./v.
+for prep./conj.
+foreign adj.
+foreigner n.
+forget v.
+fork n.
+free adj./v./adv.
+fresh adj.
+friend n.
+friendly adj.
+frog n.
+from prep.
+front adj./n.
+fruit n.
+full adj.
+fun n.
+funny adj.
+future n./adj.
+game n.
+garden n./v.
+gate n.
+get v.
+ghost n.
+giant adj./n.
+gift n.
+高中英文參考詞彙表
+4
+girl n.
+give v.
+glad adj.
+glass n.
+glasses n.
+glove(s) n.
+go v./n.
+god/goddess n.
+good adj./adv./n.
+goodbye n.
+grade n./v.
+grandfather n.
+grandmother n.
+grass n.
+gray adj./n./v.
+great adj./n.
+green adj./n./v.
+ground n./v.
+group n./v.
+grow v.
+guess v./n.
+guitar n.
+guy n.
+habit n.
+hair n.
+half n./adv./adj.
+ham n.
+hand n./v.
+hang v.
+happen v.
+happy adj.
+hard adj./adv.
+hat n.
+hate v./n.
+have aux./v.
+he (him, his, himself)
+pron.
+head n./v.
+headache n.
+health n.
+healthy adj.
+hear v.
+heart n.
+heat n./v.
+heavy adj.
+height n.
+hello n.
+help v./n.
+helpful adj.
+hen n.
+here adv./n.
+hide v.
+high adj./adv./n.
+hill n.
+history n.
+hit v./n.
+hobby n.
+hold v./n.
+holiday n.
+home n./adv./v./adj.
+homework n.
+honest adj.
+honey n.
+hope v./n.
+horse n.
+hospital n.
+hot adj.
+hotel n.
+hour n.
+house n./v.
+housewife n.
+how adv.
+however adv.
+hundred n./adj.
+hungry adj.
+hurt v./n.
+husband n.
+I (me, my, mine, myself)
+pron.
+ice n.
+idea n.
+if conj.
+important adj.
+in prep./adv./adj.
+inch n.
+insect n.
+inside prep./adv./n./adj.
+interest n./v.
+interested adj.
+interesting adj.
+interview n./v.
+into prep.
+invite v.
+island n.
+it (its, itself) pron.
+item n.
+jacket n.
+jeans n.
+job n.
+join v./n.
+joke n./v.
+joy n.
+juice n.
+jump v./n.
+just adv./adj.
+keep v./n.
+key adj./n./v.
+kick v./n.
+kid n./v.
+kill v./n.
+kind adj./n.
+king n.
+kiss n./v.
+kitchen n.
+kite n.
+knee n./v.
+knife n./v.
+knock v./n.
+know v.
+knowledge n.
+依級別排序 第一級
+5
+lake n.
+lamp n.
+land n./v.
+language n.
+large adj.
+last n./v./adv./adj.
+late adj./adv.
+later adv.
+laugh v./n.
+lawyer n.
+lazy adj.
+lead v./n.
+leader n.
+learn v.
+least adv./pron./adj.
+leave v./n.
+left adj./n./adv.
+leg n.
+lemon n.
+less pron./adv./adj./prep.
+lesson n.
+let v.
+letter n.
+level n./adj.
+library n.
+lie v./n.
+life n.
+light n./adj./v./adv.
+like prep./v./n.
+line n./v.
+lion n.
+lip n.
+list n./v.
+listen v.
+little adj./adv./n.
+live v./adj.
+lonely adj.
+long adj./adv./v.
+look v./n.
+lose v.
+lot n.
+loud adv./adj.
+love n./v.
+lovely adj.
+low adj./adv./n.
+lucky adj.
+lunch n./v.
+machine n./v.
+mad adj.
+magic adj./n.
+mail n./v.
+main adj./n.
+make v.
+man n./v.
+many adj./pron.
+map n./v.
+mark n./v.
+market n./v.
+married adj.
+mathematics/math n.
+matter n./v.
+may aux.
+maybe adv.
+meal n.
+mean v./adj.
+meat n.
+media n.
+medicine n.
+medium adj.
+meet v.
+meeting n.
+member n.
+menu n.
+middle adj./n.
+milk n.
+million n.
+mind n./v.
+mine n./v.
+minute n.
+miss v./n.
+mistake n./v.
+modern adj.
+moment n.
+money n.
+monkey n.
+month n.
+moon n.
+more adj./pron./adv.
+morning n.
+most adv./pron./adj.
+mother n.
+mountain n.
+mouse n.
+mouth n./v.
+move(ment) v./(n.)
+movie/film n.
+Mr./Mister n.
+Mrs. n.
+Ms. n.
+much adj./pron./adv.
+mud n.
+museum n.
+music n.
+must aux./n.
+name n./v.
+national adj.
+nature n.
+near prep./adj./adv./v.
+neck n.
+need v./n./aux.
+net n./v.
+never adv.
+new adj.
+news n.
+newspaper n.
+next adj./adv.
+nice adj.
+night n.
+no/nope adj./adv./n.
+nobody pron./n.
+高中英文參考詞彙表
+6
+noise n.
+noisy adj.
+noon n.
+north n./adj./adv.
+nose n.
+not adv.
+note n./v.
+nothing pron./n.
+notice v./n.
+now adv./n.
+number n./v.
+nurse n./v.
+O.K./OK/okay
+adj./adv./n./v.
+o’clock adv.
+of prep.
+off adv./prep./adj.
+office n.
+officer n.
+often adv.
+oil n./v.
+old adj.
+on prep./adv.
+once adv./conj./n.
+online adj.
+only adv./adj./conj.
+open adj./v.
+or conj.
+orange adj./n.
+order n./v.
+other adj./pron.
+out adv./prep./adj./n./v.
+outside prep./adv./adj./n.
+over prep./adv.
+own adj./pron./v.
+pack n./v.
+package n.
+page n.
+paint n./v.
+pair n.
+pants n.
+paper n./v.
+parent(s) n.
+park n./v.
+part n./v.
+party n./v.
+pass v./n.
+past adj./n./prep./adv.
+pay(ment) v./(n.)
+pen n./v.
+pencil n.
+people n./v.
+perhaps adv.
+person n.
+pet n./v.
+photograph/photo n./v.
+piano n.
+pick v./n.
+picnic n./v.
+picture n./v.
+pie n.
+piece n./v.
+pig n./v.
+pin n./v.
+pink adj./n.
+pipe n./v.
+place n./v.
+plan n./v.
+planet n.
+plant n./v.
+plate n.
+play v./n.
+player n.
+please v.
+pleasure n.
+pm/p.m. adv.
+pocket n./v.
+point n./v.
+police n./v.
+polite adj.
+pond n.
+pool n./v.
+poor adj.
+popcorn n.
+popular adj.
+possible adj.
+pot n./v.
+potato n.
+power n./v.
+practice n./v.
+prepare v.
+present adj./n./v.
+pretty adv./adj.
+price n./v.
+probably adv.
+problem n.
+program n./v.
+proud adj.
+public adj./n.
+pull v./n.
+push v./n.
+put v.
+quarter n.
+queen n.
+question n./v.
+quick adj./adv.
+quiet adj./n./v.
+quite adv.
+rabbit n.
+race n./v.
+radio n./v.
+rain n./v.
+rainbow n.
+rainy adj.
+raise v./n.
+reach v./n.
+read v.
+ready adj./v.
+real adj.
+really adv.
+依級別排序 第一級
+7
+reason n./v.
+red adj./n.
+relative adj./n.
+remember v.
+repeat v.
+report n./v.
+reporter n.
+rest n./v.
+restaurant n.
+rice n.
+rich adj.
+ride n./v.
+right adv./adj./n.
+ring n./v.
+rise n./v.
+river n.
+road n.
+robot n.
+rock n./v.
+roll v./n.
+room n./v.
+root n.
+rope n.
+rose n.
+round adj./n./adv./prep./v.
+row n./v.
+rule n./v.
+ruler n.
+run v.
+sad adj.
+safe adj./n.
+salad n.
+sale n.
+salt n./v./adj.
+same adj./pron./adv.
+save v.
+say v.
+school n./v.
+science n.
+sea n.
+season n.
+seat n./v.
+second adj./n./adv.
+secretary n.
+see v.
+seed n.
+sell v.
+send v.
+sentence n./v.
+serious adj.
+service n.
+set v./n.
+several adj./pron.
+shake v./n.
+shall aux.
+shape n.
+share v./n.
+sharp adj./adv.
+she (her, hers, herself)
+pron.
+sheep n.
+ship n./v.
+shirt n.
+shoe(s) n.
+shop n./v.
+short adj.
+shorts n.
+shoulder n.
+shout v./n.
+show v./n.
+shower n./v.
+sick adj.
+side n.
+sight n./v.
+sign n./v.
+simple adj.
+since conj./prep./adv.
+sing v.
+singer n.
+sir n.
+sister n.
+sit v.
+size n./v.
+skirt n.
+sky n.
+sleep n./v.
+slim adj.
+slow adj./v./adv.
+small adj./n./adv.
+smart adj.
+smell n./v.
+smile n./v.
+smoke n./v.
+snake n./v.
+snow n./v.
+so adv./conj.
+sofa n.
+soldier n.
+some adj./pron.
+someone/somebody
+pron./n.
+something pron./n.
+sometimes adv.
+somewhere adv.
+son n.
+song n.
+soon adv.
+sore adj./n.
+sorry adj.
+sound n.
+soup n.
+south n./adj./adv.
+space n./v.
+speak v.
+special adj.
+spell v.
+spend v.
+spring n./v.
+square n./adj.
+stair n.
+高中英文參考詞彙表
+8
+stand v./n.
+star n./v.
+start v./n.
+station n.
+stay v./n.
+still adv./adj.
+stop v./n.
+store n./v.
+story n.
+straight adv./adj./n.
+strange adj.
+street n.
+string n.
+strong adj.
+student n.
+study n./v.
+stupid adj.
+subject n.
+successful adj.
+sugar n.
+sun n./v.
+sunny adj.
+supermarket n.
+sure adj./adv.
+surprise n./v.
+surprised adj.
+sweet adj.
+table n.
+tail n.
+take v.
+talk v./n.
+tall adj.
+tape n.
+taste n./v.
+taxicab/taxi/cab n.
+tea n.
+teach v.
+teacher n.
+team n./v.
+teenager n.
+telephone/phone n./v.
+television/TV n.
+tell v.
+temple n.
+tennis n.
+terrible adj.
+test n./v.
+than conj./prep.
+thank v./n.
+that conj./pron./adv./adj.
+the art.
+theater n.
+then adv./adj.
+there adv./n.
+these pron./adj.
+they (them, their,
+theirs, themselves)
+pron.
+thick adj.
+thin adj.
+thing n.
+think v.
+third adj./n./adv.
+this pron./adv./adj.
+those pron./adj.
+though conj./adv.
+thousand n./adj.
+throat n.
+through prep./adv.
+throw v./n.
+ticket n.
+tidy adj./v.
+tie n./v.
+tiger n.
+time n./v.
+tip n./v.
+tired adj.
+to prep.
+today adv./n.
+toe n.
+together adv.
+toilet n.
+tomato n.
+tomorrow adv./n.
+tonight adv./n.
+too adv.
+tool n.
+tooth n.
+top n./adj./v.
+topic n.
+total adj./n./v.
+touch n./v.
+towel n./v.
+town n.
+toy n.
+traffic n./v.
+train n./v.
+treat(ment) v./(n.)
+tree n.
+trip n./v.
+trouble n./v.
+truck n.
+try v./n.
+T-shirt n.
+turn v./n.
+twice adv.
+type n./v.
+uncle n.
+under prep./adv.
+understand v.
+uniform n.
+until conj./prep.
+up adv./prep./adj./v./n.
+use v./n.
+useful adj.
+usually adv.
+vegetable n.
+very adv.
+video n./v./adj.
+violin n.
+依級別排序 第二級
+9
+visit v./n.
+visitor n.
+voice n.
+wait v./n.
+wake v.
+walk v./n.
+wall n.
+want v./n.
+warm adj./v.
+watch v./n.
+water n./v.
+wave n./v.
+way n.
+we (us, our, ours,
+ourselves) pron.
+weak adj.
+wear v.
+weather n./v.
+week n.
+weekend n./v.
+welcome v./adj./n.
+well adv./adj./n.
+west n./adj./adv.
+wet adj./v.
+what pron./adj.
+when adv./conj./pron.
+where conj./adv./pron./n.
+whether conj.
+which pron./adj.
+while conj./n./v.
+white adj./n.
+who pron.
+whose pron.
+why adv./n.
+wide adj./adv.
+wife n.
+will aux./n.
+win v./n.
+wind n./v.
+window n.
+wise adj.
+wish v./n.
+with prep.
+without prep./adv.
+woman n.
+wonderful adj.
+word n.
+work n./v.
+worker n.
+world n.
+worry v./n.
+write v.
+writer n.
+wrong adj./adv./n./v.
+yard n.
+year n.
+yellow adj./n./v.
+yes/yeah adv./n.
+yesterday adv./n.
+yet adv./conj.
+you (your, yours,
+yourself, yourselves)
+pron.
+young adj./n.
+zero n.
+zoo n.
+第二級
+absence n.
+absent adj./v.
+accept v.
+accident n.
+account n./v.
+active adj.
+activity n.
+actual adj.
+addition n.
+address v./n.
+admit v.
+adult n./adj.
+advance n./v.
+advice n.
+affair n.
+affect v.
+against prep.
+ahead adv.
+aid n./v.
+aim n./v.
+aircraft n.
+alarm n./v.
+album n.
+alike adv./adj.
+alive adj.
+alone adv./adj.
+aloud adv.
+altogether adv.
+among prep.
+amount n./v.
+ancient adj.
+anger n.
+angle n.
+ankle n.
+anytime adv.
+anyway adv.
+anywhere/anyplace adv.
+ape n.
+appearance n.
+appetite n.
+apply v.
+appreciate v.
+approach n./v.
+argue(argument) v./(n.)
+army n.
+arrange(ment) v./(n.)
+arrival n.
+arrow n.
+article n.
+artist n.
+asleep adj.
+attempt n./v.
+attend v.
+高中英文參考詞彙表
+10
+attention n.
+author n./v.
+available adj.
+average adj./n./v.
+avoid v.
+backpack n./v.
+backward adj.
+backward/backwards
+adv.
+badminton n.
+bake v.
+bakery n.
+balance n./v.
+balcony n.
+balloon n.
+bar n./v.
+barbecue n./v.
+barber n.
+bark n./v.
+base n./v.
+basic adj.
+basics n.
+basis n.
+bathe v.
+battle n./v.
+beard n.
+beat v./n.
+beauty n.
+beer n.
+beg v.
+beginner n.
+behave v.
+being n.
+belief n.
+bend v./n.
+better adj./adv./n./v.
+beyond prep./adv.
+bill n./v.
+billion n.
+birth n.
+biscuit n.
+bit n.
+blackboard n.
+blame v./n.
+blank adj./n.
+blanket n./v.
+blood n.
+board n./v.
+boil n./v.
+bone n.
+bookstore n.
+border n./v.
+bother v./n.
+brain n.
+branch n./v.
+brand n.
+brief adj./n./v.
+brilliant adj.
+broad adj.
+brush n./v.
+building n.
+bun n.
+burden n./v.
+burn v./n.
+burst n./v.
+businessman n.
+cabbage n.
+café/cafe n.
+cage n./v.
+calendar n.
+calm v./adj./n
+camel n.
+cancel v.
+cancer n.
+candle n.
+capital n./adj.
+cartoon n./v.
+cash n./v.
+castle n.
+cause n./v.
+ceiling n.
+cell n.
+centimeter n.
+central adj.
+century n.
+cereal n.
+chain n./v.
+chalk n./v.
+challenge n./v.
+channel n./v.
+chapter n.
+character n.
+charge n./v.
+chart n.
+chase n./v.
+cheat v./n.
+cheer v./n.
+chemical adj./n.
+chess n.
+chief adj./n.
+childhood n.
+childish adj.
+china n.
+chopstick(s) n.
+claim n./v.
+clap v./n.
+classic adj./n.
+classical adj.
+classmate n.
+clever adj.
+click v./n.
+climate n.
+cloth n.
+clothing n.
+cloudy adj.
+coal n.
+coast n.
+cockroach/roach n.
+cocoa n.
+coin n./v.
+依級別排序 第二級
+11
+cola/Coke n.
+college n.
+comb n./v.
+combine v.
+comic(s) adj./n.
+command n./v.
+commercial adj./n.
+company n.
+compare v.
+complete adj./v.
+complex adj./n.
+concern n./v.
+conclude v.
+condition n./v.
+confident adj.
+conflict n./v.
+congratulation(s) n.
+connection n.
+consider v.
+consideration n.
+contact n./v.
+contain v.
+continue v.
+contract n./v.
+control n./v.
+conversation n.
+corn n.
+countryside n.
+couple n./v.
+courage n.
+court n.
+cowboy n.
+crayon n.
+cream n./adj.
+create v.
+crime n.
+crisis n.
+crow n.
+crowd n./v.
+cultural adj.
+culture n.
+cure n./v.
+curious adj.
+current adj./n.
+curtain n./v.
+custom n.
+customer n.
+cycle n./v.
+daily adj./adv./n.
+damage n./v.
+dancer n.
+danger n.
+data n.
+deaf adj.
+debate n./v.
+debt n.
+decision n.
+deer n.
+degree n.
+delay n./v.
+delicious adj.
+deliver v.
+delivery n.
+dentist n.
+deny v.
+department n.
+depend v.
+depth n.
+describe v.
+description n.
+desert n./v.
+design n./v.
+detail n./v.
+develop(ment) v./(n.)
+dial n./v.
+dialogue n.
+diamond n.
+diary n.
+diet n./v.
+difference n.
+difficulty n.
+direct adj./v./adv.
+direction n.
+director n.
+disagree(ment) v./(n.)
+disappear v.
+discover v.
+discovery n.
+discuss v.
+discussion n.
+disease n.
+display n./v.
+distance n.
+distant adj.
+divide v./n.
+division n.
+domestic adj.
+dot n./v.
+double adj./v./n./adv.
+doubt n./v.
+dove n.
+download v.
+downstairs adv./n./adj.
+dragon n.
+drama n.
+drawer n.
+drawing n.
+drug n./v.
+dryer n.
+due adj./adv./n.
+dull adj./v.
+duty n.
+eagle n.
+earn v.
+earring(s) n.
+earthquake n.
+ease n./v.
+eastern adj.
+edge n./v.
+edition n.
+高中英文參考詞彙表
+12
+education n.
+effect n./v.
+effective adj.
+effort n.
+elder n./adj.
+electric adj.
+electrical adj.
+emotion n.
+emphasize v.
+employ(ment) v./(n.)
+employee n.
+employer n.
+empty adj./v.
+encourage(ment) v./(n.)
+ending n.
+enemy n.
+energy n.
+engine n.
+entire adj.
+entrance n.
+environment n.
+environmental adj.
+equal adj./v./n.
+escape v./n.
+especially adv.
+essay n.
+eve n.
+event n.
+evil n./adj.
+exact adj.
+examination/exam n.
+examine v.
+excite(ment) v./(n.)
+excuse v./n.
+exist v.
+existence n.
+exit n./v.
+expense n.
+expert n./adj.
+express v./adj./adv./n.
+expression n.
+extra adj./adv./n.
+eyebrow/brow n.
+factor n.
+failure n.
+fair adj./n./adv.
+false adj.
+fashion n./v.
+fate n.
+fault n./v.
+favor n./v.
+favorite adj./n.
+fear n./v.
+feature n./v.
+fee n.
+feeling n.
+fellow n.
+female adj./n.
+fever n.
+field n.
+figure n./v.
+final adj./n.
+fireman/firewoman n.
+firm n./adj./v./adv.
+fisherman n.
+fit v./adj./n./adv.
+fix v./n.
+flag n.
+flat adj./adv./n.
+flight n.
+flow n./v.
+flu n.
+focus n./v.
+fog n./v.
+folk n.
+following adj./prep./n.
+foolish adj.
+football n.
+force n./v.
+forest n.
+forgive v.
+form n./v.
+formal adj.
+former adj.
+forth adv.
+forward adj./n./v.
+forward/forwards adv.
+found v.
+fox n.
+freedom n.
+friendship n.
+fries n.
+fry v./n.
+function n./v.
+furniture n.
+further adv./adj./v.
+gain v./n.
+garbage n.
+gardener n.
+garlic n.
+gather v.
+general adj./n.
+generous adj.
+gentle adj.
+gentleman n.
+giraffe n.
+glue n./v.
+goal n.
+goat n.
+gold n./adj.
+golden adj.
+goose n.
+govern v.
+government n.
+gradual adj.
+grain n.
+gram n.
+grand adj.
+grape n.
+greet v.
+依級別排序 第二級
+13
+growth n.
+guard n./v.
+guava n.
+guest n.
+guide n./v.
+gun n./v.
+gymnasium/gym n.
+haircut n.
+hall n.
+hamburger/burger n.
+handle v./n.
+handsome adj.
+hardly adv.
+heaven n.
+hero/heroine n.
+highly adv.
+highway n.
+hike n./v.
+hip n.
+hippopotamus/hippo n.
+historical adj.
+hole n.
+hop v./n.
+host/hostess n.
+huge adj.
+human adj./n.
+humble adj.
+hunt v./n.
+hunter n.
+hurry v./n.
+ideal adj./n.
+identity n.
+ignore v.
+ill adj./adv./n.
+image n.
+imagine v.
+importance n.
+impressive adj.
+improve(ment) v./(n.)
+include v.
+income n.
+increase v./n.
+indeed adv.
+independence n.
+independent adj.
+indicate v.
+individual adj./n.
+industry n.
+influence n./v.
+ink n./v.
+insist v.
+instance n.
+instant adj./n.
+instead adv.
+instruction n.
+instrument n.
+internal adj.
+international adj.
+Internet/internet n.
+introduce v.
+introduction n.
+iron n./v./adj.
+jam n./v.
+jog v./n.
+joint adj./n.
+journal n.
+judge n./v.
+judgment/judgement n.
+justice n.
+keeper n.
+ketchup n.
+kilogram n.
+lack n./v.
+lady n.
+ladybug n.
+lamb n./v.
+lane n.
+lantern n.
+lap n.
+latest adj.
+latter adj.
+law n.
+lay v.
+leadership n.
+leaf n.
+legal adj.
+lend v.
+length n.
+lens n.
+liberal adj.
+lid n.
+lift v./n.
+likely adj./adv.
+limit n./v.
+link n./v.
+liquid n.
+listener n.
+liver n.
+load n./v.
+local adj./n.
+lone adj.
+loss n.
+lower v.
+luck n.
+magazine n.
+maintain v.
+major adj./n./v.
+male adj./n.
+manage(ment) v./(n.)
+manager n.
+mango n.
+manner n.
+marriage n.
+marry v.
+mask n./v.
+mass n.
+master n./v.
+mat n.
+match n.
+mate n./v.
+高中英文參考詞彙表
+14
+material n.
+mature adj.
+meaning n.
+means n.
+measure(ment) v./(n.)
+medical adj.
+melody n.
+membership n.
+memory n.
+mention v./n.
+message n.
+metal n./adj.
+meter n.
+method n.
+midnight n.
+mile n.
+military adj./n.
+minor adj./n.
+minority n.
+mirror n./v.
+mix n./v.
+mixture n.
+model n./v.
+mood n.
+mop n./v.
+motion n.
+motorcycle n.
+mug n.
+musical adj./n.
+musician n.
+nail n.
+narrow adj./v.
+nation n.
+natural adj.
+naughty adj.
+nearby adj./adv.
+nearly adv.
+necessary adj.
+necklace n.
+needle n.
+negative adj./n.
+neighbor n.
+neither adj./adv./pron./
+conj.
+nephew n.
+nerve n.
+nervous adj.
+network n./v.
+niece n.
+nod n./v.
+none pron./adv.
+noodle n.
+nor conj.
+northern adj.
+notebook n.
+novel n./adj.
+nut n.
+obey v.
+object n./v.
+obvious adj.
+occur v.
+ocean n.
+offer v./n.
+official adj./n.
+operate v.
+operator n.
+opinion n.
+ordinary adj.
+organ n.
+organization n.
+origin n.
+owner n.
+pain n./v.
+painful adj.
+painting n.
+pajamas n.
+pale adj.
+pan n.
+panda n.
+papaya n.
+pardon n./v.
+participate v.
+particular adj.
+partner n.
+password n.
+paste n./v.
+path n.
+patient n./adj.
+pattern n./v.
+peace n.
+peaceful adj.
+peach n.
+peak n./v.
+pear n.
+per prep.
+perfect adj./v./n.
+period n.
+personal adj.
+personality n.
+phrase n./v.
+pillow n.
+pizza n.
+plain adj./n.
+platform n.
+playground n.
+pleasant adj.
+plus prep./n./adj.
+poem n.
+poet n.
+poetry n.
+poison n./v.
+policeman/cop n.
+policy n.
+pop n./adj.
+population n.
+pork n.
+port n.
+pose v./n.
+position n./v.
+positive adj./n.
+依級別排序 第二級
+15
+possibility n.
+post n./v./adv.
+postcard n.
+pound n.
+powerful adj.
+praise n./v.
+pray v.
+prayer n.
+prefer v.
+president n.
+press n./v.
+pressure n./v.
+pride n./v.
+priest n.
+primary adj.
+prince/princess n.
+principal adj./n.
+principle n.
+print n./v.
+printer n.
+prison n.
+prisoner n.
+private adj.
+prize n./v.
+produce v./n.
+production n.
+progress n./v.
+project n.
+promise n./v.
+proper adj.
+propose v.
+protect v.
+protective adj.
+prove v.
+provide v.
+pudding n.
+pumpkin n.
+punish(ment) v./(n.)
+pupil n.
+puppy n.
+purple adj./n.
+purpose n.
+puzzle n./v.
+quality n.
+quantity n.
+quiz n.
+railroad/railway n.
+raincoat n.
+range n./v.
+rapid adj.
+rare adj.
+rat n.
+rather adv.
+reality n.
+realize v.
+receive v.
+recent adj.
+record n./v.
+recover v.
+refrigerator/fridge n.
+refuse v.
+regard n./v.
+region n.
+regular adj./n.
+reject v.
+relate v.
+relation n.
+relationship n.
+religion n.
+remove v.
+rent n./v.
+repair n./v.
+reply n./v.
+require(ment) v./(n.)
+respect n./v.
+respond v.
+responsible adj.
+restroom n.
+result n./v.
+return v./n.
+review n./v.
+riches n.
+rocky adj.
+role n.
+roof n./v.
+rooster n.
+royal adj.
+rub v./n.
+rubber n.
+rude adj.
+runner n.
+safety n.
+sail v./n.
+sailor n.
+salesperson/salesman/
+saleswoman n.
+salty adj.
+sample n./v.
+sand n./v.
+sandwich n./v.
+satisfy v.
+saw v./n.
+scare v./n.
+scared adj.
+scene n.
+schedule n./v.
+scooter n.
+score n./v.
+screen n.
+seafood n.
+search n./v.
+secondary adj.
+secret adj./n.
+section n.
+seek v.
+seem v.
+seesaw n.
+seldom adv.
+select v./adj.
+selection n.
+高中英文參考詞彙表
+16
+self n.
+selfish adj.
+sense n./v.
+sensitive adj.
+separate adj./v.
+servant n.
+serve v.
+settle(ment) v./(n.)
+sex n.
+shame n./v.
+shark n.
+sheet n.
+shelf n.
+shell n.
+shine v./n.
+shock n./v.
+shoot v./n.
+shopkeeper n.
+shore n.
+shot n.
+shut v./adj.
+shy adj.
+sidewalk n.
+silence n./v.
+silent adj.
+silly adj.
+silver n./adj.
+similar adj.
+simply adv.
+single adj./n./v.
+skill n.
+skilled adj.
+skin n.
+sleepy adj.
+slide n./v.
+slip v./n.
+slipper(s) n.
+smooth adj./v.
+snack n./v.
+snail n.
+snowy adj.
+soap n./v.
+soccer n.
+social adj.
+society n.
+sock(s) n.
+soda n.
+soft adj.
+soil n.
+solution n.
+solve v.
+somewhat adv.
+sort n./v.
+soul n.
+sour adj./n./v.
+source n.
+southern adj.
+soybean n.
+speaker n.
+speech n.
+speed n./v.
+spelling n.
+spider n.
+spirit n.
+spoon n.
+sport n./v.
+spot n./v.
+spread v./n.
+stage n./v.
+stamp n./v.
+standard adj./n.
+state(ment) v./(n.)
+steak n.
+steel n./v.
+step n./v.
+stick v./n.
+stomachache n.
+stone n./v.
+storm n./v.
+stranger n.
+strawberry n.
+stream n./v.
+stress n./v.
+stretch n./v.
+strict adj.
+strike n./v.
+struggle n./v.
+style n./v.
+subway/underground/
+metro n.
+succeed v.
+success n.
+such adj./pron.
+sudden adj./n.
+suggest v.
+suit n./v.
+suitable adj.
+super adj./adv.
+supper n.
+supply n./v.
+support n./v.
+suppose v.
+surf v.
+surface n./v.
+survival n.
+survive v.
+swallow v./n.
+sweater n.
+sweep v.
+swim v./n.
+swimsuit n.
+swing n./v.
+switch n./v.
+symbol n.
+system n.
+tale n.
+target n./v.
+task n./v.
+tax n./v.
+teapot n.
+依級別排序 第三級
+17
+tear n./v.
+technology n.
+teens n.
+temperature n.
+term n./v.
+terrorism n.
+terrorist adj.
+text n.
+textbook n.
+therefore adv.
+thief n.
+thirsty adj.
+thought n.
+throughout prep./adv.
+thunder n./v.
+thus adv.
+till conj./prep.
+tiny adj.
+tire v./n.
+tissue n.
+title n./v.
+toast n./v.
+tofu n.
+tone n.
+tongue n.
+toothache n.
+toothbrush n.
+tour n./v.
+toward/towards prep.
+track n./v.
+trade n./v.
+tradition n.
+traditional adj.
+trap n./v.
+trash n./v.
+travel n./v.
+treasure n./v.
+trial n.
+triangle n.
+trick n./v.
+true adj./adv./v.
+trust v./n.
+truth n.
+tube n.
+turtle n.
+typhoon n.
+typical adj.
+ugly adj.
+umbrella n.
+unit n.
+universe n.
+university n.
+unless conj.
+upload v.
+upon prep.
+upper adj.
+upset adj./v./n.
+upstairs adv./adj./n.
+used adj.
+user n.
+usual adj.
+vacation n./v.
+valley n.
+valuable adj.
+value n./v.
+victory n.
+view n./v.
+village n.
+vote n./v.
+waist n.
+waiter/waitress n.
+wallet n.
+war n.
+wash v./n.
+waste n./v.
+watermelon n.
+wealth n.
+wedding n.
+weekday n.
+weigh v.
+weight n.
+western adj./n.
+whale n.
+whatever adj./pron.
+wheel n.
+whenever conj./adv.
+wherever adv./conj.
+whisper n./v.
+whoever pron.
+whole adj./n.
+whom pron.
+width n.
+wild adj./adv./n.
+willing adj.
+windy adj.
+wine n.
+wing n.
+wire n.
+within prep./adv.
+wolf n.
+wonder v./n.
+wood(s) n.
+wooden adj.
+wool n.
+workbook n.
+worm n./v.
+worse adj./adv./n.
+worst adj./adv./n.
+worth adj./n.
+wound n./v.
+yam n.
+youth n.
+zebra n.
+第三級
+aboard prep./adv.
+acceptable adj.
+accurate adj.
+ache n./v.
+achieve(ment) v./(n.)
+additional adj.
+高中英文參考詞彙表
+18
+admire v.
+advanced adj.
+advantage n.
+adventure n.
+advertise(ment)/ad
+v./(n.)
+advise v.
+adviser/advisor n.
+afford v.
+afterward/afterwards
+adv.
+agriculture n.
+airline n.
+alley n.
+almond n.
+alphabet n.
+amaze(ment) v./(n.)
+ambassador n.
+ambition n.
+ambulance n.
+angel n.
+announce(ment) v./(n.)
+anxious adj.
+anyhow adv.
+apart adv.
+apologize v.
+appeal n./v.
+approve v.
+apron n.
+armed adj.
+arrest n./v.
+ash n.
+aside adv.
+assist v.
+assistant n.
+assume v.
+athlete n.
+attitude n.
+attract v.
+attractive adj.
+audience n.
+automatic adj.
+automobile/auto n.
+avenue n.
+awake adj./v.
+awaken v.
+award n./v.
+aware adj.
+awful adj.
+awkward adj.
+background n.
+bacon n.
+bacteria n.
+badly adv.
+baggage n.
+bait n./v.
+bamboo n.
+bang n./v./adv.
+banker n.
+bare adj./v.
+barely adv.
+barn n.
+barrel n.
+basement n.
+bay n.
+bead n.
+beam n./v.
+beast n.
+beetle n.
+beneath prep.
+benefit n./v.
+berry n.
+besides adv./prep.
+bet v./n.
+bind v.
+bitter adj.
+bleed v.
+bless v.
+bloody adj.
+blouse n.
+bold adj.
+bomb n./v.
+bookcase n.
+boot n./v.
+bore v./n.
+bowling n.
+brake n./v.
+brass n./adj.
+bravery n.
+breast n.
+breath n.
+breathe v.
+breeze n./v.
+brick n.
+bride n.
+broadcast n./v.
+brunch n.
+bubble n./v.
+bucket n.
+bud n./v.
+budget n./v.
+buffalo n.
+buffet n.
+bulb n.
+bull n.
+bullet n.
+bump n./v.
+bunch n.
+bundle n.
+bury v.
+bush n.
+buzz n./v.
+cabin n.
+cable n./v.
+cafeteria n.
+campus n.
+canyon n.
+capable adj.
+captain n.
+capture v./n.
+依級別排序 第三級
+19
+career n.
+carpenter n.
+carpet n./v.
+carriage n.
+cart n./v.
+cast v./n.
+casual adj.
+cattle n.
+cave n./v.
+champion n.
+charm n./v.
+chat n./v.
+cheek n.
+cheerful adj.
+cherry n./adj.
+chest n.
+chill n./v./adj.
+chilly adj.
+chimney n.
+chin n.
+chip n./v.
+chop n./v.
+cigarette n.
+cinema n.
+circus n.
+citizen n.
+civil adj.
+clay n.
+cleaner n.
+client n.
+clinic n.
+clip n./v.
+closet n.
+clothe v.
+clown n./v.
+clue n.
+coach n./v.
+cock n.
+cocktail n.
+coconut n.
+collar n.
+collection n.
+colony n.
+colorful adj.
+column n.
+comfort n./v.
+comma n.
+committee n.
+communicate v.
+comparison n.
+compete v.
+complain v.
+complaint n.
+concert n.
+conclusion n.
+cone n.
+confirm v.
+confuse v.
+connect v.
+conscious adj.
+considerable adj.
+constant adj./n.
+continent n.
+controller n.
+cooker n.
+costly adj.
+cotton n.
+cough n./v.
+countable adj.
+county n.
+crab n.
+cradle n./v.
+crane n./v.
+crash n./v.
+crawl v./n.
+creative adj.
+creator n.
+creature n.
+credit n./v.
+crew n.
+cricket n.
+criminal adj./n.
+crispy adj.
+crop n./v.
+crown n./v.
+cruel adj.
+cupboard n.
+dairy n.
+dam n./v.
+dare aux./v.
+darling n./adj.
+dash n./v.
+database n.
+dawn n./v.
+dealer n.
+decade n.
+deck n.
+decorate v.
+decrease v./n.
+deed n.
+deepen v.
+definition n.
+democracy n.
+democratic adj.
+deposit n./v.
+designer n.
+desirable adj.
+desire n./v.
+dessert n.
+destroy v.
+detect v.
+determine v.
+devil n.
+dim adj./v.
+dime n.
+dine v.
+dinosaur n.
+dip v./n.
+dirt n.
+discount n./v.
+高中英文參考詞彙表
+20
+dishonest adj.
+disk/disc n.
+dislike v./n.
+ditch n./v.
+dive n./v.
+dizzy adj.
+dock n./v.
+dolphin n.
+donkey n.
+dose n./v.
+doubtful adj.
+doughnut n.
+downtown adj./adv./n.
+drag v./n.
+dragonfly n.
+drain v./n.
+dramatic adj.
+drip n./v.
+drown v.
+drugstore n.
+drunk adj./n.
+dumb adj.
+dump v./n.
+dumpling n.
+dust n./v.
+eager adj.
+echo n./v.
+edit v.
+editor n.
+educate v.
+educational adj.
+efficient adj.
+elbow n./v.
+elderly adj.
+elect v./adj.
+election n.
+electricity n.
+electronic adj.
+element n.
+elevator n.
+emergency n.
+emotional adj.
+emperor n.
+enable v.
+energetic adj.
+engage(ment) v./(n.)
+enjoyable adj.
+entry n.
+envy n./v.
+erase v.
+excellence n.
+exchange n./v.
+exhibition n.
+expectation n.
+experiment n./v.
+explode v.
+explore v.
+export n./v.
+expressive adj.
+extreme adj./n.
+fade v.
+faint adj./v./n.
+fairly adv.
+fairy n./adj.
+faith n.
+fake adj./v./n.
+familiar adj.
+fancy adj./n./v.
+fare n.
+farther adv./adj.
+fashionable adj.
+faucet n.
+fearful adj.
+feather n.
+fence n.
+fighter n.
+firework n.
+fist n./v.
+flame n./v.
+flash n./v.
+flashlight n.
+flavor n./v.
+flesh n.
+float v./n.
+flock n./v.
+flood n./v.
+flour n.
+flute n.
+foggy adj.
+fold v./n.
+follower n.
+fond adj.
+forever adv.
+fortune n.
+fountain n.
+frank adj.
+freeze v./n.
+freezer n.
+frequent adj./v.
+fright n.
+frighten v.
+fuel n./v.
+fund n./v.
+fur n.
+gallon n.
+gamble n./v.
+gang n./v.
+gap n.
+garage n.
+gasoline/gas n.
+geography n.
+gesture n./v.
+glance n./v.
+global adj.
+glory n.
+glow n./v.
+golf n./v.
+gossip n./v.
+governor n.
+grab v./n.
+依級別排序 第三級
+21
+graduate n./v.
+grasp v./n.
+grasshopper n.
+grassy adj.
+greedy adj.
+greenhouse n.
+grin n./v.
+grocery n.
+guidance n.
+gum n.
+hairdresser n.
+hallway n.
+hammer n./v.
+handful n.
+handkerchief n.
+handy adj.
+hanger n.
+harbor n./v.
+harm n./v.
+harmful adj.
+harvest n./v.
+hasty adj.
+hatch n./v.
+hateful adj.
+hay n.
+headline n./v.
+headquarters n.
+heal v.
+heap n./v.
+heater n.
+heel n./v.
+hell n.
+helmet n.
+hesitate v.
+hint n./v.
+hire v./n.
+historian n.
+historic adj.
+holder n.
+hollow adj./n./v.
+holy adj.
+homesick adj.
+hometown n.
+honesty n.
+honor n./v.
+hopeful adj.
+horn n.
+horrible adj.
+horror n.
+hourly adj./adv.
+housekeeper n.
+hug n./v.
+hum v.
+humid adj.
+humor n.
+humorous adj.
+hunger n.
+hut n.
+icy adj.
+imagination n.
+immediate adj.
+import n./v.
+impress v.
+indoor adj.
+indoors adv.
+industrial adj.
+inferior adj./n.
+inform v.
+information n.
+injury n.
+inn n.
+inner adj.
+innocent adj.
+inspect v.
+inspector n.
+intelligent adj.
+interrupt v.
+invent v.
+inventor n.
+investigate v.
+invitation n.
+ivory n./adj.
+jail n./v.
+jar n.
+jaw n.
+jazz n.
+jealous adj.
+jeep n.
+jelly n.
+jet n./v.
+jewel n.
+jewelry n.
+journey n./v.
+joyful adj.
+juicy adj.
+jungle n.
+junior adj./n.
+junk n./v.
+kangaroo n.
+keyboard n.
+kidney n.
+kilometer n.
+kindergarten n.
+kingdom n.
+kit n.
+knight n.
+knit v./n.
+knot n./v.
+koala n.
+label n./v.
+lace n./v.
+ladder n.
+lately adv.
+laughter n.
+laundry n.
+lawn n.
+leak n./v.
+leap n./v.
+learning n.
+leather n.
+高中英文參考詞彙表
+22
+leisure n.
+lemonade n.
+leopard n.
+lettuce n.
+liberty n.
+lick v./n.
+lifetime n.
+lighthouse n.
+lightning n.
+lily n.
+limb n.
+litter n./v.
+lively adj.
+loaf n.
+lobby n.
+locate v.
+location n.
+lock n./v.
+log n./v.
+lollipop n.
+loose adj.
+lord n.
+loser n.
+lover n.
+luggage n.
+lung n.
+magical adj.
+magician n.
+magnet n.
+maid n.
+majority n.
+mall n.
+mankind/humankind n.
+marble n.
+march n./v.
+marker n.
+marvelous adj.
+mathematical adj.
+mayor n.
+meadow n.
+meaningful adj.
+meanwhile n./adv.
+medal n.
+medium/media n.
+melon n.
+melt v.
+mend v.
+mental adj.
+merry adj.
+mess n./v.
+microphone/mike n.
+microwave n./v.
+mighty adj.
+minus prep./n./adj.
+miracle n.
+misery n.
+missile n.
+missing adj.
+mission n.
+mist n./v.
+mob n./v.
+mobile adj.
+moist adj.
+moisture n.
+monk n.
+monster n.
+monthly adj./adv./n.
+moral adj./n.
+mosquito n.
+mostly adv.
+motel n.
+moth n.
+motor n.
+multiply v.
+murder n./v.
+muscle n.
+mushroom n./v.
+mystery n.
+naked adj.
+nap n./v.
+napkin n.
+native adj./n.
+navy n.
+neat adj.
+necessity n.
+necktie n.
+neighborhood n.
+nest n./v.
+nickname n./v.
+normal adj.
+novelist n.
+nun n.
+oak n.
+observe v.
+occasion n.
+odd adj.
+omit v.
+ongoing adj.
+onion n.
+onto prep.
+operation n.
+opportunity n.
+opposite adj./n./prep./adv.
+optimistic adj.
+oral adj./n.
+organic adj.
+organize v.
+original adj./n.
+outdoor adj.
+outdoors adv.
+outer adj.
+outline n./v.
+oven n.
+overseas adv./adj.
+owe v.
+owl n.
+ownership n.
+ox n.
+pad n./v.
+painter n.
+依級別排序 第三級
+23
+pal n.
+palace n.
+palm n.
+pancake n.
+panic n./v.
+parade n./v.
+paradise n.
+parcel n./v.
+parrot n./v.
+passage n.
+passenger n.
+passion n.
+passport n.
+pat v./n.
+patience n.
+pause n./v.
+pave(ment) v./(n.)
+pea n.
+peanut n.
+pearl n.
+peel v./n.
+penguin n.
+penny n.
+pepper n.
+perform v.
+performance n.
+permission n.
+permit v./n.
+persuade v.
+photographer n.
+pigeon n.
+pile n./v.
+pill n.
+pilot n./v.
+pine n.
+pineapple n.
+pint n.
+pit n.
+pitch n./v.
+pity n./v.
+plastic n./adj.
+playful adj.
+plenty pron./n./adv.
+plug n./v.
+pole n.
+political adj.
+politician n.
+politics n.
+poll n./v.
+pollute v.
+pollution n.
+porcelain n.
+portion n./v.
+portrait n.
+poster n.
+postpone(ment) v./(n.)
+pottery n.
+pour v.
+poverty n.
+powder n./v.
+practical adj.
+precious adj.
+preparation n.
+presence n.
+pretend v.
+prevent v.
+previous adj.
+probable adj.
+process n./v.
+producer n.
+product n.
+professor n.
+profit n./v.
+promote v.
+pronounce v.
+proof n.
+property n.
+protection n.
+pub n.
+pump n./v.
+punch n./v.
+puppet n.
+pure adj.
+purse n.
+queer adj.
+quit v.
+quote v./n.
+racial adj.
+rag n.
+rank n./v.
+rate n./v.
+raw adj.
+ray n.
+razor n.
+react v.
+reaction n.
+reasonable adj.
+receipt n.
+receiver n.
+recognize v.
+recorder n.
+rectangle n.
+reduce v.
+regional adj.
+regret v./n.
+relax v.
+release n./v.
+reliable adj.
+relief n.
+religious adj.
+rely v.
+remain v.
+remind v.
+remote adj.
+replace(ment) v./(n.)
+represent v.
+representative adj./n.
+republic n.
+request n./v.
+reserve n./v.
+高中英文參考詞彙表
+24
+resist v.
+resource n.
+response n.
+responsibility n.
+restrict v.
+reveal v.
+ribbon n.
+rid adj./v.
+ripe adj.
+risk n./v.
+roar n./v.
+roast adj./n./v.
+rob v.
+robbery n.
+robe n.
+rocket n.
+romantic adj./n.
+rot v./n.
+rotten adj.
+rough adj./adv./n.
+roughly adv.
+routine n./adj.
+rug n.
+rumor n./v.
+rush n./v.
+rust n./v.
+sack n.
+sake n.
+salary n.
+satisfactory adj.
+sauce n.
+saucer n.
+sausage n.
+saving(s) n.
+scale(s) n.
+scarce adj.
+scarf n.
+scary adj.
+scatter v./n.
+scholar n.
+scholarship n.
+scientific adj.
+scientist n.
+scissors n.
+scout n./v.
+scream v./n.
+screw v./n.
+scrub n./v.
+seal n./v.
+security n.
+semester n.
+senior adj./n.
+sensible adj.
+separation n.
+sexual adj.
+sexy adj.
+shadow n./v.
+shallow adj.
+shampoo n./v.
+shepherd n.
+shiny adj.
+shorten v.
+shortly adv.
+shovel n./v.
+shrimp n.
+shrink v.
+sigh n./v.
+signal n./v.
+significant adj.
+silk n.
+similarity n.
+sin n./v.
+sincere adj.
+sink n./v.
+sip v./n.
+situation n.
+skate v./n.
+ski n./v.
+skillful adj.
+skinny adj.
+skip v./n.
+slave n./v.
+sleeve n.
+slender adj.
+slice n./v.
+slippery adj.
+slope n.
+snap v./n.
+solid adj.
+someday adv.
+somehow adv.
+sometime adv.
+sorrow n.
+spaghetti n.
+specific adj.
+spice n./v.
+spill v./n.
+spin n./v.
+spinach n.
+spit v./n.
+spite n.
+splash n./v.
+spoil v.
+spray n./v.
+spy n./v.
+squeeze v./n.
+squirrel n.
+stable adj.
+stadium n.
+staff n./v.
+stale adj.
+stare v./n.
+starve v.
+statue n.
+steady adj./v./adv./n.
+steal v.
+steam n./v.
+steep adj.
+sticky adj.
+stiff adj.
+依級別排序 第三級
+25
+sting n./v.
+stir v./n.
+stitch n./v.
+stomach n.
+stool n.
+stormy adj.
+stove n.
+strategy n.
+straw n.
+strength n.
+strip n./v.
+structure n.
+stubborn adj.
+studio n.
+stuff n./v.
+substance n.
+subtract v.
+suburb n.
+suck v./n.
+suffer v.
+sufficient adj.
+suicide n.
+sum n./v.
+summary n.
+summit n.
+superior adj./n.
+surround v.
+survey n./v.
+survivor n.
+suspect v./n./adj.
+suspicion n.
+swan n.
+swear v.
+sweat n./v.
+swell v./n.
+swift adj.
+sword n.
+tablet n.
+tag n./v.
+tailor n.
+talent n.
+talkative adj.
+tame adj./v.
+tangerine n.
+tank n.
+tap v./n.
+tasty adj.
+tease v.
+technical adj.
+technique n.
+teenage adj.
+temper n.
+temporary adj.
+tend v.
+tender adj.
+tent n.
+terrific adj.
+territory n.
+thankful adj.
+theory n.
+thirst n.
+thread n./v.
+threat n.
+threaten v.
+thumb n./v.
+tide n.
+tight adj./adv.
+tighten v.
+timber n.
+tobacco n.
+ton n.
+toss v./n.
+tough adj.
+tourism n.
+tourist n.
+tow n./v.
+tower n.
+trace n./v.
+trader n.
+trail n./v.
+transport n./v.
+traveler n.
+tray n.
+trend n.
+tribe n.
+tricky adj.
+troop n.
+tropical adj.
+trumpet n.
+trunk n.
+truthful adj.
+tub n.
+tug n./v.
+tune n./v.
+tunnel n./v.
+tutor n./v.
+twin n.
+twist n./v.
+underlying v.
+underwear n.
+union n.
+unique adj./n.
+unite v.
+unity n.
+urban adj.
+vacant adj.
+van n.
+vanish v.
+variety n.
+various adj.
+vary v.
+vase n.
+vehicle n.
+verse n.
+vest n.
+victim n.
+violence n.
+violent adj.
+violet adj./n.
+visible adj.
+高中英文參考詞彙表
+26
+vision n.
+vitamin n.
+vivid adj.
+vocabulary n.
+volleyball n.
+volume n.
+voter n.
+wage(s) n.
+wagon n.
+wander v./n.
+warmth n.
+warn v.
+waterfall n.
+wax n./v.
+weaken v.
+wealthy adj.
+weapon n.
+weave v./n.
+web n.
+wed v.
+weed n./v.
+weekly adj./adv./n.
+weep v.
+wheat n.
+whip n./v.
+whistle n./v.
+wicked adj.
+widen v.
+wipe v./n.
+wisdom n.
+wrap v./n.
+wrist n.
+yearly adj./adv.
+yell v./n.
+yolk n.
+youngster n.
+zipper n./v.
+zone n./v.
+第四級
+abandon v.
+absolute adj.
+absorb v.
+abstract adj.
+academic adj.
+accent n.
+acceptance n.
+access n./v.
+accidental adj.
+accompany v.
+accomplish(ment) v./(n.)
+accountant n.
+accuracy n.
+accuse v.
+acid n./adj.
+acquaintance n.
+acquire v.
+adapt v.
+addict n./v.
+adequate adj.
+adjust(ment) v./(n.)
+admirable adj.
+admiration n.
+admission n.
+adopt v.
+agency n.
+agent n.
+aggressive adj.
+agreeable adj.
+alcohol n.
+alert adj./v./n.
+allowance n.
+alternative adj./n.
+amateur adj./n.
+ambiguous adj.
+ambitious adj.
+amuse(ment) v./(n.)
+analysis n.
+analyze v.
+ancestor n.
+anniversary n.
+annoy v.
+annual adj.
+anxiety n.
+apology n.
+apparent adj.
+applicant n.
+application n.
+appoint(ment) v./(n.)
+appreciation n.
+appropriate adj.
+approval n.
+aquarium n.
+arch n./v.
+arise v.
+arms n.
+artificial adj.
+artistic adj.
+ashamed adj.
+aspect n.
+aspirin n.
+assemble v.
+assembly n.
+assign(ment) v./(n.)
+assistance n.
+associate adj./n./v.
+association n.
+assurance n.
+assure v.
+athletic adj.
+atmosphere n.
+atom n.
+atomic adj.
+attach(ment) v./(n.)
+attraction n.
+audio adj.
+authentic adj.
+authority n.
+autobiography n.
+autograph n./v.
+await v.
+依級別排序 第四級
+27
+bald adj.
+ballet n.
+bandage n./v.
+bankrupt adj./v./n.
+bargain n./v.
+barrier n.
+basin n.
+battery n.
+beggar n.
+behavior n.
+bin n.
+biography n.
+biology n.
+blade n.
+blend v./n.
+blessing n.
+blink v./n.
+bloom n./v.
+blossom n./v.
+boast v./n.
+bond n./v.
+bounce v./n.
+bracelet n.
+breed n./v.
+bridegroom/groom n.
+broke adj.
+broom n.
+brutal adj.
+bulletin n.
+burglar n.
+cabinet n.
+calculate v.
+calculation n.
+calorie n.
+campaign n./v.
+candidate n.
+cane n.
+canoe n./v.
+capacity n.
+capital(ism) n.
+capitalist n.
+cargo n.
+carrier n.
+carve v.
+catalogue n./v.
+category n.
+cease v./n.
+celebration n.
+chamber n.
+championship n.
+characteristic n./adj.
+charity n.
+chemistry n.
+cherish v.
+chew v./n.
+choke v./n.
+chorus n.
+circular adj.
+circulate v.
+circulation n.
+circumstance n.
+civilian adj./n.
+civilization n.
+clarify v.
+clash n./v.
+classification n.
+classify v.
+claw n./v.
+cliff n.
+clumsy adj.
+coarse adj.
+code n./v.
+collapse n./v.
+colleague n.
+combination n.
+comedy n.
+commander n.
+comment n./v.
+commerce n.
+commit v.
+communication n.
+community n.
+companion n.
+competition n.
+competitive adj.
+competitor n.
+complicate v.
+compose v.
+composer n.
+composition n.
+concentrate v.
+concentration n.
+concept n.
+concerning prep.
+concrete adj./n./v.
+conductor n.
+conference n.
+confess v.
+confidence n.
+confusion n.
+congratulate v.
+congress n.
+conquer v.
+conscience n.
+consequence n.
+consequent adj.
+conservative adj./n.
+consist v.
+consistent adj.
+constitute v.
+constitution n.
+construct v.
+construction n.
+constructive adj.
+consult v.
+consultant n.
+consume v.
+consumer n.
+container n.
+content n./adj.
+高中英文參考詞彙表
+28
+content(ment) v./(n.)
+contest n./v.
+context n.
+continual adj.
+continuous adj.
+contrary n./adj.
+contrast n./v.
+contribute v.
+contribution n.
+convenience n.
+convention n.
+conventional adj.
+converse v.
+convey v.
+convince v.
+cooperate v.
+cooperation n.
+cooperative adj./n.
+cope v.
+copper n./adj.
+cord n.
+correspond v.
+costume n.
+cottage n.
+council n.
+counter n./v./adj./adv.
+courageous adj.
+courtesy n.
+coward n.
+crack n./v.
+craft n.
+creation n.
+creativity n.
+creep v.
+critic n.
+critical adj.
+criticism n.
+criticize v.
+cruelty n.
+crunchy adj.
+crush n./v.
+cube n./v.
+cue n./v.
+cunning adj./n.
+curiosity n.
+curl n./v.
+curse n./v.
+curve n./v.
+cushion n./v.
+damp adj./n./v.
+deadline n.
+declare v.
+decoration n.
+defeat n./v.
+defend v.
+defense n.
+defensible adj.
+defensive adj.
+definite adj.
+delicate adj.
+delight n./v.
+delightful adj.
+demand n./v.
+demonstrate v.
+demonstration n.
+dense adj.
+depart v.
+departure n.
+dependent adj./n.
+depression n.
+deserve v.
+desperate adj.
+despite prep.
+destruction n.
+detective n./adj.
+determination n.
+device n.
+devise v.
+devote v.
+dew n.
+diagram n./v.
+differ v.
+digest n./v.
+digital adj.
+dignity n.
+diligence n.
+diligent adj.
+diploma n.
+diplomat n.
+disability n.
+disadvantage n./v.
+disappoint(ment) v./(n.)
+disaster n.
+discipline n./v.
+discourage(ment) v./(n.)
+disguise v./n.
+disgust n./v.
+dismiss v.
+disorder n./v.
+dispute n./v.
+distinct adj.
+distinguish v.
+distinguished adj.
+distribute v.
+distribution n.
+district n.
+disturb v.
+diverse adj.
+diversity n.
+divine adj.
+divorce n./v.
+dodge v./n.
+dominant adj.
+dominate v.
+draft n./v.
+dread n./v.
+drift v./n.
+drill n./v.
+drowsy adj.
+durable adj.
+依級別排序 第四級
+29
+dusty adj.
+dye n./v.
+dynamic adj.
+dynasty n.
+earnest adj./n.
+earphone n.
+economic adj.
+economical adj.
+economics n.
+economist n.
+economy n.
+efficiency n.
+elastic adj./n.
+electronics n.
+elegant adj.
+elementary adj.
+eliminate v.
+elsewhere adv.
+embarrass(ment) v./(n.)
+embassy n.
+emerge v.
+emphasis n.
+empire n.
+enclose v.
+encounter n./v.
+endanger v.
+endure v.
+enforce(ment) v./(n.)
+engineering n.
+enlarge(ment) v./(n.)
+enormous adj.
+ensure v.
+entertain(ment) v./(n.)
+enthusiasm n.
+equality n.
+equip(ment) v./(n.)
+era n.
+essential adj./n.
+establish(ment) v./(n.)
+estimate n./v.
+ethnic adj./n.
+evaluate v.
+evaluation n.
+eventual adj.
+evidence n./v.
+evident adj.
+exaggerate v.
+exception n.
+exhaust n./v.
+exhibit n./v.
+expand v.
+expansion n.
+experimental adj.
+explanation n.
+explosion n.
+explosive adj./n.
+expose v.
+exposure n.
+extend v.
+extent n.
+facial adj.
+facility n.
+faithful adj.
+fame n.
+fantastic adj.
+fantasy n.
+farewell n.
+fasten v.
+fatal adj.
+favorable adj.
+fax n./v.
+feast n./v.
+feedback n.
+ferry n./v.
+fertile adj.
+fetch v./n.
+fiction n.
+fierce adj.
+finance n./v.
+financial adj.
+fireplace n.
+flatter v.
+flea n.
+flee v.
+flexible adj.
+fluent adj.
+flush v./n.
+foam n./v.
+forbid v.
+forecast n./v.
+formation n.
+formula n.
+fort n.
+fortunate adj.
+fossil n./adj.
+foundation n.
+founder n.
+fragile adj.
+frame n./v.
+frequency n.
+freshman n.
+frost n./v.
+frown n./v.
+frustrate v.
+frustration n.
+fulfill(ment) v./(n.)
+functional adj.
+fundamental adj./n.
+funeral n.
+furious adj.
+furnish v.
+furthermore adv.
+gallery n.
+gaze n./v.
+gear n./v.
+gender n.
+gene n.
+generation n.
+generosity n.
+genius n.
+高中英文參考詞彙表
+30
+genuine adj.
+germ n.
+gifted adj.
+gigantic adj.
+giggle n./v.
+ginger n.
+glimpse n./v.
+globe n.
+glorious adj.
+goods n.
+gown n.
+grace n./v.
+graceful adj.
+gracious adj.
+graduation n.
+grammar n.
+grammatical adj.
+graph n./v.
+grateful adj.
+gratitude n.
+grave n./adj.
+greasy adj.
+greeting(s) n.
+grief n.
+grind v./n.
+guarantee v./n.
+guardian n.
+guilt n.
+guilty adj.
+gulf n.
+habitual adj.
+halt n./v.
+handwriting n.
+hardship n.
+hardware n.
+harmony n.
+harsh adj.
+haste n.
+hasten v.
+hatred n.
+hawk n.
+helicopter n.
+herd n./v.
+hesitation n.
+hive n.
+homeland n.
+honeymoon n./v.
+hook n./v.
+horizon n.
+horrify v.
+hose n./v.
+household n.
+housework n.
+humanity n.
+humidity n.
+hurricane n.
+hush n./v.
+hydrogen n.
+identical adj.
+identification n.
+identify v.
+idiom n.
+idle adj./v.
+idol n.
+ignorance n.
+ignorant adj.
+illustrate v.
+illustration n.
+imaginary adj.
+imaginative adj.
+imitate v.
+imitation n.
+immigrant n.
+immigrate v.
+immigration n.
+impact n./v.
+imply v.
+impose v.
+impression n.
+incident n.
+including prep.
+incredible adj.
+indication n.
+infant n.
+infection n.
+inflation n.
+influential adj.
+informative adj.
+ingredient n.
+initial adj./n./v.
+injure v.
+innocence n.
+input n./v.
+insert v./n.
+inspection n.
+inspiration n.
+inspire v.
+install v.
+instinct n.
+instruct v.
+instructor n.
+insult n./v.
+insurance n.
+intellectual adj./n.
+intelligence n.
+intend v.
+intense adj.
+intensity n.
+intensive adj.
+intention n.
+interact v.
+interaction n.
+interfere v.
+intermediate adj./n./v.
+interpret v.
+interruption n.
+intimate adj./n.
+intuition n.
+invade v.
+invasion n.
+依級別排序 第四級
+31
+invention n.
+invest(ment) v./(n.)
+investigation n.
+involve(ment) v./(n.)
+isolate v.
+isolation n.
+issue n./v.
+jealousy n.
+keen adj.
+kettle n.
+kneel v.
+knob n.
+labor n./v.
+laboratory/lab n.
+lag n./v.
+landmark n.
+landscape n./v.
+largely adv.
+launch v./n.
+lawful adj.
+lean v./adj.
+learned adj.
+lecture n./v.
+lecturer n.
+legend n.
+leisurely adj./adv.
+lengthen v.
+liar n.
+librarian n.
+license n./v.
+lifeguard n.
+limitation n.
+linen n.
+lipstick n.
+liquor n.
+literary adj.
+literature n.
+loan n./v.
+lobster n.
+logic n.
+logical adj.
+loosen v.
+lousy adj.
+loyal adj.
+loyalty n.
+luxurious adj.
+luxury n.
+machinery n.
+magnetic adj.
+magnificent adj.
+makeup n.
+manual n./adj.
+manufacture n./v.
+manufacturer n.
+marathon n.
+margin n.
+maturity n.
+maximum adj./n.
+measurable adj.
+measure(s) n.
+mechanic n.
+mechanical adj.
+memorable adj.
+memorial adj./n.
+memorize v.
+merchant n.
+mercy n.
+mere adj.
+merit n.
+messenger n.
+messy adj.
+microscope n.
+mild adj.
+mill n./v.
+millionaire n.
+miner n.
+mineral n.
+minimum adj./n.
+minister n.
+ministry n.
+mischief n.
+miserable adj.
+misfortune n.
+mislead v.
+misunderstand v.
+moderate adj.
+modest adj.
+modesty n.
+monitor n./v.
+monument n.
+moreover adv.
+motivate v.
+motivation n.
+mountainous adj.
+muddy adj.
+mule n.
+multiple adj.
+murderer n.
+murmur n./v.
+mutual adj.
+mysterious adj.
+namely adv.
+nationality n.
+needy adj.
+neglect n./v.
+negotiate v.
+nevertheless adv.
+nightmare n.
+noble adj./n.
+nonsense n.
+nowadays adv.
+nuclear adj.
+numerous adj.
+nursery n.
+nutritious adj.
+obedience n.
+obedient adj.
+objection n.
+objective n./adj.
+observation n.
+高中英文參考詞彙表
+32
+obstacle n.
+obtain v.
+occasional adj.
+occupation n.
+occupy v.
+offend v.
+offense n.
+offensive adj.
+opera n.
+oppose v.
+option n.
+orbit n./v.
+orchestra n.
+orientation n.
+orphan n./v.
+otherwise adv.
+outcome n.
+outstanding adj.
+oval adj./n.
+overcoat n.
+overcome v.
+overlook v.
+overnight adv./adj.
+overthrow v.
+oxygen n.
+pace n./v.
+panel n.
+parachute n./v.
+paragraph n.
+partial adj.
+participation n.
+partnership n.
+passive adj.
+pasta n.
+paw n./v.
+peculiar adj.
+peep n./v.
+peer n./v.
+penalty n.
+percent n.
+percentage n.
+perfection n.
+perfume n./v.
+permanent adj.
+persuasion n.
+persuasive adj.
+pessimistic adj.
+pest n.
+phenomenon n.
+philosopher n.
+philosophical adj.
+philosophy n.
+photography n.
+physical adj.
+physician n.
+physicist n.
+physics n.
+pickle n.
+pioneer n./v.
+plentiful adj.
+plot n./v.
+plum n.
+plumber n.
+poisonous adj.
+polish n./v.
+popularity n.
+portable adj.
+portray v.
+possess v.
+possession n.
+postage n.
+potential adj./n.
+precise adj.
+predict v.
+prediction n.
+pregnancy n.
+pregnant adj.
+presentation n.
+preservation n.
+preserve v.
+prevention n.
+prime adj./n.
+primitive adj.
+priority n.
+privacy n.
+privilege n./v.
+procedure n.
+proceed v.
+productive adj.
+profession n.
+professional adj./n.
+profitable adj.
+prominent adj.
+promising adj.
+promotion n.
+prompt v./adj./n.
+pronunciation n.
+proposal n.
+prosper v.
+prosperity n.
+prosperous adj.
+protein n.
+protest n./v.
+psychological adj.
+psychologist n.
+psychology n.
+publication n.
+publicity n.
+publish v.
+publisher n.
+pursue v.
+pursuit n.
+quarrel n./v.
+quilt n./v.
+quotation n.
+radar n.
+rage n./v.
+rainfall n.
+raisin n.
+realistic adj.
+依級別排序 第四級
+33
+rebel n./v.
+recall v./n.
+reception n.
+recipe n.
+recognition n.
+recovery n.
+recreation n.
+recycle v.
+reduction n.
+refer v.
+reference n.
+reflect v.
+reflection n.
+reform n./v.
+refugee n.
+refund n./v.
+refusal n.
+regarding prep.
+register v./n.
+registration n.
+regulate v.
+regulation n.
+rejection n.
+relaxation n.
+relevant adj.
+relieve v.
+reluctant adj.
+remark n./v.
+remarkable adj.
+remedy n./v.
+renew v.
+repetition n.
+representation n.
+reputation n.
+rescue n./v.
+research n./v.
+researcher n.
+resemble v.
+reservation n.
+resign v.
+resignation n.
+resistance n.
+resolution n.
+resolve v./n.
+respectable adj.
+respectful adj.
+restore v.
+restriction n.
+retain v.
+retire(ment) v./(n.)
+retreat n./v.
+reunion n.
+revenge n./v.
+revise v.
+revision n.
+revolution n.
+revolutionary adj./n.
+reward n./v.
+rhyme n./v.
+rhythm n.
+riddle n.
+robber n.
+romance n.
+route n./v.
+ruin v./n.
+rural adj.
+rusty adj.
+sacrifice n./v.
+satellite n.
+satisfaction n.
+scarcely adv.
+scenery n.
+scold v./n.
+scoop n./v.
+scratch n./v.
+sculpture n./v.
+secure v./adj.
+seize v.
+settler n.
+severe adj.
+sew v.
+shade n./v.
+shady adj.
+shameful adj.
+shave v./n.
+shelter n./v.
+shift n./v.
+sightseeing n.
+signature n./adj.
+significance n.
+sincerity n.
+singular adj./n.
+site n./v.
+sketch n./v.
+skyscraper n.
+slight adj./n./v.
+slogan n.
+socket n.
+software n.
+solar adj.
+spade n.
+spare adj./v./n.
+spark n./v.
+spear n./v.
+species n.
+spiritual adj.
+splendid adj.
+split v./n.
+sprinkle v./n.
+stab n./v.
+statistic(s) n.
+status n.
+stem n./v.
+stereo n.
+stingy adj.
+stocking(s) n.
+strengthen v.
+stripe n.
+strive v.
+stroke n./v.
+高中英文參考詞彙表
+34
+submarine n./adj.
+sue v.
+suggestion n.
+summarize v.
+surgeon n.
+surgery n.
+surrender v./n.
+surroundings n.
+suspicious adj.
+sway n./v.
+syllable n.
+sympathetic adj.
+sympathy n.
+systematic adj.
+technician n.
+technological adj.
+telegraph n./v.
+telescope n.
+tendency n.
+tense adj./v.
+tension n.
+terror n.
+theme n.
+thorough adj.
+thoughtful adj.
+tickle v./n.
+timetable n.
+timid adj.
+tolerable adj.
+tolerance n.
+tolerant adj.
+tolerate v.
+tomb n.
+tortoise n.
+torture n./v.
+tragedy n.
+tragic adj.
+transfer n./v.
+transform v.
+translate v.
+translation n.
+translator n.
+transportation n.
+tremble v./n.
+tremendous adj.
+tribal adj.
+triumph n./v.
+troublesome adj.
+tumble v./n.
+twig n.
+universal adj./n.
+urge n./v.
+urgent adj.
+usage n.
+vacancy n.
+vain adj.
+vast adj.
+vegetarian n.
+vessel n.
+violate v.
+violation n.
+virtue n.
+virus n.
+visual adj.
+vital adj.
+voluntary adj.
+volunteer n./v.
+voyage n./v.
+waken v.
+website n.
+welfare n.
+wink n./v.
+wit n.
+witch/wizard n.
+withdraw v.
+witness n./v.
+workout n.
+workplace n.
+wreck n./v.
+yawn n./v.
+youthful adj.
+第五級
+abnormal adj.
+abolish v.
+abortion n.
+abrupt adj.
+absurd adj.
+abundant adj.
+abuse n./v.
+accelerate v.
+accessible adj.
+accommodate v.
+accommodation n.
+accord n./v.
+accounting n.
+acknowledge(ment)
+v./(n.)
+acquaint v.
+acquisition n.
+activist n.
+acute adj.
+administration n.
+administrative adj.
+administrator n.
+adolescent adj./n.
+adore v.
+adverse adj.
+advocate n./v.
+affection n.
+agenda n.
+aggression n.
+agony n.
+agricultural adj.
+aisle n.
+alcoholic adj./n.
+alien adj./n.
+allergic adj.
+allergy n.
+alliance n.
+allocate v.
+依級別排序 第五級
+35
+ally n./v.
+alongside prep./adv.
+alter v.
+alternate adj./v./n.
+amend v.
+ample adj.
+analyst n.
+anonymous adj.
+anticipate v.
+antique adj./n.
+applause n.
+appliance n.
+apt adj.
+architect n.
+architecture n.
+arena n.
+arouse v.
+array n.
+arrogant adj.
+articulate v./adj.
+ass n.
+assault n./v.
+assert v.
+assess(ment) v./(n.)
+asset n.
+assumption n.
+astonish(ment) v./(n.)
+athletics n.
+attendance n.
+attic n.
+attorney n.
+attribute v.
+auction n./v.
+authorize v.
+autonomy n.
+awe n./v.
+backyard n.
+ballot n./v.
+ban n./v.
+banner n.
+barren adj.
+batch n.
+behalf n.
+belongings n.
+beloved adj./n.
+beneficial adj.
+betray v.
+beware v.
+bias n./v.
+bid n./v.
+biological adj.
+bizarre adj.
+blast n./v.
+blur n./v.
+blush n./v.
+bodyguard n.
+bolt n./v.
+bonus n.
+boom n./v.
+boost v./n.
+booth n.
+boredom n.
+bound v./n.
+boundary n.
+boxer n.
+breakthrough n.
+briefcase n.
+bronze n./adj.
+browse v./n.
+bruise n./v.
+bulk n.
+bully n./v.
+bureau n.
+bureaucracy n.
+burial n.
+butcher n./v.
+calcium n.
+canal n.
+canvas n./v.
+capability n.
+carbon n.
+carnival n.
+casino n.
+cathedral n.
+caution n./v.
+cautious adj.
+celebrity n.
+cemetery n.
+ceremony n.
+certainty n.
+certificate n./v.
+chaos n.
+chapel n.
+characterize v.
+chef n.
+choir n.
+chord n.
+chore n.
+chronic adj.
+chubby adj.
+chunk n.
+circuit n.
+cite v.
+citizenship n.
+civic adj.
+clarity n.
+clause n.
+cling v.
+clinical adj.
+cluster n./v.
+cocaine n.
+coffin n.
+cognitive adj.
+coherent adj.
+coincidence n.
+collaboration n.
+collective adj./n.
+collector n.
+colonial adj./n.
+columnist n.
+高中英文參考詞彙表
+36
+combat n./v.
+comedian n.
+commentary n.
+commentator n.
+commission n./v.
+commitment n.
+commodity n.
+communism n.
+communist adj./n.
+commute v.
+commuter n.
+compact adj./n./v.
+comparable adj.
+compassion n.
+compassionate adj.
+compatible adj.
+compel v.
+compensate v.
+compensation n.
+competence n.
+competent adj.
+complexity n.
+compliance n.
+complication n.
+compliment n./v.
+comply v.
+component n./adj.
+compound n./v./adj.
+comprehend v.
+comprehension n.
+comprise v.
+compromise n./v.
+compulsory adj.
+conceal v.
+concede v.
+conceive v.
+conception n.
+condemn v.
+conduct v./n.
+confession n.
+confidential adj.
+confine v.
+conform v.
+confront v.
+confrontation n.
+consecutive adj.
+consensus n.
+consent n./v.
+conservation n.
+considerate adj.
+constitutional adj./n.
+constraint n.
+consultation n.
+consumption n.
+contagious adj.
+contaminate v.
+contemplate v.
+contemporary adj./n.
+contempt n.
+contend v.
+continental adj.
+contractor n.
+contradiction n.
+controversial adj.
+controversy n.
+conversion n.
+convert v.
+convict v./n.
+conviction n.
+coordinate v./n./adj.
+copyright n./v.
+core n.
+corporate adj.
+corporation n.
+correlation n.
+correspondent n.
+corridor n.
+corrupt adj./v.
+corruption n.
+counsel n./v.
+counselor n.
+courteous adj.
+coverage n.
+credibility n.
+creek n.
+cripple v./n.
+criterion/criteria n.
+crucial adj.
+crude adj.
+cruise n./v.
+crystal n./adj.
+cuisine n.
+currency n.
+curriculum n.
+custody n.
+customs n.
+deadly adj./adv.
+debris n.
+debut n.
+decay n./v.
+deceive v.
+decent adj.
+declaration n.
+decline n./v.
+dedicate v.
+defendant n.
+deficit n.
+defy v.
+delegate n./v.
+delegation n.
+deliberate adj./v.
+democrat n.
+denial n.
+density n.
+depict v.
+deploy v.
+depress v.
+deputy n.
+derive v.
+descend v.
+依級別排序 第五級
+37
+descriptive adj.
+despair n./v.
+destination n.
+destiny n.
+destructive adj.
+devotion n.
+diagnose v.
+diagnosis n.
+dialect n.
+diameter n.
+diaper n.
+digestion n.
+dilemma n.
+dimension n.
+diminish v.
+diplomatic adj.
+directory n.
+disapprove v.
+disclose v.
+disconnect v.
+discourse n.
+discriminate v.
+discrimination n.
+disrupt v.
+dissolve v.
+distinction n.
+distinctive adj.
+distract v.
+doctrine n.
+document n./v.
+documentary n./adj.
+domain n.
+dome n./v.
+donate v.
+donation n.
+donor n.
+doorway n.
+dough n.
+dreadful adj.
+driveway n.
+drought n.
+ecological adj.
+ecology n.
+ecosystem n.
+ego n.
+elaborate adj./v.
+eligible adj.
+eloquent adj.
+embrace v./n.
+emission n.
+endorse(ment) v./(n.)
+enterprise n.
+enthusiastic adj.
+entitle v.
+entity n.
+entrepreneur n.
+envious adj.
+envision v.
+epidemic n./adj.
+episode n.
+equation n.
+equity n.
+equivalent n./adj.
+erect v./adj.
+errand n.
+erupt v.
+escalator n.
+essence n.
+estate n.
+eternal adj.
+ethic(s) n.
+ethical adj.
+evolution n.
+evolve v.
+exaggeration n.
+exceed v.
+exceptional adj.
+excessive adj.
+exclaim v.
+exclude v.
+exclusive adj.
+execute v.
+execution n.
+executive n./adj.
+exile n./v.
+exotic adj./n.
+expedition n.
+expertise n.
+explicit adj.
+exploit v./n.
+exploration n.
+extension n.
+extensive adj.
+exterior n./adj.
+external adj./n.
+extinct adj.
+extraordinary adj.
+fabric n.
+fabulous adj.
+facilitate v.
+faculty n.
+fascinate v.
+fatigue n./v.
+federal adj.
+fiber n.
+filter n./v.
+fiscal adj.
+fleet n.
+flexibility n.
+flip v./n.
+fluency n.
+fluid n./adj.
+forge v.
+format n./v.
+forum n.
+foster adj./v.
+foul adj./n./v./adv.
+fraction n.
+fragment n./v.
+framework n.
+高中英文參考詞彙表
+38
+franchise n.
+fraud n.
+freight n./v.
+frontier n.
+galaxy n.
+gasp n./v.
+gathering n.
+generate v.
+generator n.
+genetic adj.
+genetics n.
+genre n.
+glare n./v.
+gloomy adj.
+gorgeous adj.
+grant n./v.
+graphic adj./n.
+gravity n.
+greed n.
+grieve v.
+grill n./v.
+grim adj.
+grip n./v.
+gross adj./v./n.
+guideline n.
+gut n./v.
+habitat n.
+haul v./n.
+hazard n./v.
+heir n.
+hence adv.
+herb n.
+heritage n.
+highlight v./n.
+hockey n.
+honorable adj.
+horizontal adj./n.
+hormone n.
+hostage n.
+hostile adj.
+hostility n.
+housing n.
+howl n./v.
+hypothesis n.
+icon n.
+ideology n.
+idiot n.
+illusion n.
+immense adj.
+immune adj.
+implement v./n.
+implication n.
+impulse n.
+incentive n./adj.
+incorporate v.
+index n./v.
+indifferent adj.
+indigenous adj.
+indispensable adj.
+indulge v.
+inevitable adj.
+infect v.
+infinite adj.
+infrastructure n.
+inherent adj.
+inherit v.
+initiate v./adj./n.
+initiative n./adj.
+inject v.
+injection n.
+inning n.
+innovation n.
+innovative adj.
+inquiry n.
+insane adj.
+insight n.
+installation n.
+institute n./v.
+institution n.
+intact adj.
+integrate v.
+integration n.
+integrity n.
+intensify v.
+intent n./adj.
+interference n.
+interior adj./n.
+interpretation n.
+interval n.
+intervention n.
+investigator n.
+irony n.
+journalism n.
+journalist n.
+judicial adj.
+jug n./v.
+jury n.
+justify v.
+juvenile adj./n.
+kidnap v.
+landlord n.
+laser n.
+lawmaker n.
+lawsuit n.
+layer n./v.
+league n./v.
+legacy n.
+legendary adj.
+legislation n.
+legislative adj.
+legitimate adj./v.
+lest conj.
+liability n.
+likelihood n.
+likewise adv.
+loop n.
+lounge n./v.
+lump n./v.
+mainstream n.
+maintenance n.
+依級別排序 第五級
+39
+mammal n.
+mandate n.
+manifest v./adj.
+manipulate v.
+mansion n.
+marine adj./n.
+masculine adj./n.
+massage n./v.
+massive adj.
+masterpiece n.
+mattress n.
+meantime n./adv.
+mechanism n.
+medication n.
+mentor n.
+merge v.
+metaphor n.
+metropolitan adj./n.
+midst n./prep.
+migration n.
+milestone n.
+miniature adj./n.
+minimal adj.
+minimize v.
+mint n.
+missionary n./adj.
+moan n./v.
+mock adj./v./n.
+mode n.
+modify v.
+molecule n.
+monopoly n.
+morality n.
+mortality n.
+mortgage n.
+motive n.
+mount n./v.
+mumble v./n.
+municipal adj.
+muscular adj.
+mustard n.
+myth n.
+naive adj.
+narrative n./adj.
+nasty adj.
+negotiation n.
+neutral adj./n.
+nominate v.
+nomination n.
+nominee n.
+nonprofit adj.
+norm n.
+noticeable adj.
+notify v.
+notion n.
+nowhere adv./pron.
+nutrient n./adj.
+nutrition n.
+obligation n.
+obscure adj./v.
+observer n.
+odds n.
+offering n.
+olive adj./n.
+operational adj.
+opponent n.
+opposition n.
+opt v.
+optimism n.
+optional adj.
+orchard n.
+organism n.
+originality n.
+outfit n./v.
+outlet n.
+output n./v.
+outsider n.
+overall adj./adv./n.
+overhead adv./adj./n.
+oversee v.
+overtake v.
+overturn v./n.
+overwhelm v.
+parallel adj./n./v.
+participant n.
+particle n.
+partly adv.
+passionate adj.
+pastry n.
+patch n./v.
+patent n./adj./v.
+pathetic adj.
+patrol n./v.
+patron n.
+peasant n.
+pedal n./v.
+pedestrian n./adj.
+penetrate v.
+pension n./v.
+perceive v.
+perception n.
+performer n.
+persist v.
+personnel n.
+perspective n./adj.
+pessimism n.
+petition n.
+petty adj.
+phase n./v.
+photographic adj.
+pickup n.
+pier n.
+pillar n.
+pipeline n.
+pirate n./v.
+pitcher n.
+placement n.
+plea n.
+plead v.
+pledge n./v.
+高中英文參考詞彙表
+40
+plunge n./v.
+plural adj./n.
+poetic adj.
+poke v./n.
+porch n.
+portfolio n.
+practitioner n.
+precaution n.
+predator n.
+preference n.
+prejudice n./v.
+preliminary adj./n.
+premature adj.
+premier adj./n.
+premise n.
+premium n.
+prescribe v.
+prescription n.
+presidency n.
+presidential adj.
+presumably adv.
+presume v.
+prevail v.
+prey n./v.
+prior adj./adv./n.
+proclaim v.
+productivity n.
+profile n./v.
+profound adj.
+progressive adj./n.
+prohibit v.
+projection n.
+prolong v.
+prone adj.
+propaganda n.
+prophet n.
+proportion n./v.
+prosecution n.
+prospect n./v.
+province n.
+provision n.
+provoke v.
+pulse n./v.
+purchase n./v.
+pyramid n.
+qualify v.
+quest n.
+questionnaire n.
+quiver n./v.
+quota n.
+racism n.
+rack n./v.
+radiation n.
+radical adj./n.
+ragged adj.
+raid n./v.
+rail n.
+rally n./v.
+ranch n./v.
+random adj.
+ratio n.
+rational adj.
+rattle v./n.
+realism n.
+realm n.
+rear adj./n.
+reassure v.
+rebellion n.
+recession n.
+recipient n./adj.
+recite v.
+recommend v.
+recommendation n.
+recruit v./n.
+refuge n.
+regardless adj./adv.
+regime n.
+rehearsal n.
+reinforce v.
+reminder n.
+removal n.
+render v.
+rental n.
+repay v.
+republican n./adj.
+resemblance n.
+reservoir n.
+residence n.
+resident n./adj.
+residential adj.
+resort n./v.
+respondent n.
+resume v./n.
+retail n./adj./adv./v.
+revenue n.
+reverse v./adj./n.
+rhetoric n.
+rib n./v.
+ridge n./v.
+ridiculous adj.
+rifle n./v.
+rigid adj.
+rim n./v.
+riot n./v.
+rip v./n.
+risky adj.
+ritual n./adj.
+rival adj./n./v.
+rod n.
+sacred adj.
+saddle n./v.
+saint n./v.
+salmon n./adj.
+salon n.
+sandal n.
+scan n./v.
+scandal n.
+scar n./v.
+scenario n.
+scent n./v.
+依級別排序 第五級
+41
+scheme n./v.
+scope n.
+scramble v./n.
+scrap n./v.
+script n./v.
+sector n.
+segment n./v.
+seminar n.
+senator n.
+sensation n.
+sensitivity n.
+sensor n.
+sentiment n.
+sentimental adj.
+sequence n./v.
+series n.
+server n.
+session n.
+setting n.
+shareholder n.
+shatter v.
+shed v./n.
+sheer adj./adv.
+sheriff n.
+shield n./v.
+shiver n./v.
+shortage n.
+shove v./n.
+shrug n./v.
+shuttle n./v.
+sibling n.
+siege n.
+skeleton n.
+skull n.
+slam n./v.
+slap n./v./adv.
+slavery n.
+slot n./v.
+smash v./n.
+smog n.
+snatch v./n.
+sneak v./n.
+sniff v./n.
+soak v./n.
+soar v.
+sob n./v.
+sober adj./v.
+soften v.
+sole adj./n./v.
+solo n./adv./adj.
+sophisticated adj.
+sophomore n.
+souvenir n.
+sovereignty n.
+sow v.
+spacious adj.
+sparkle v./n.
+specialist n.
+specialize v.
+specialty n.
+specify v.
+specimen n.
+spectacular adj./n.
+spectator n.
+spectrum n.
+speculate v.
+sphere n.
+spicy adj.
+spine n.
+sponge n./v.
+sponsor n./v.
+sponsorship n.
+spouse n.
+squad n.
+squash n./v.
+squat adj./n./v.
+stability n.
+stack n./v.
+stain n./v.
+stake n./v.
+stall n./v.
+stance n.
+startle v.
+statistical adj.
+steer v./n.
+stereotype n./v.
+stew n./v.
+stimulate v.
+stimulus n.
+stink n./v.
+stock n.
+storage n.
+straighten v.
+straightforward adj.
+strain n./v.
+strand v./n.
+strap n./v.
+strategic adj.
+striking adj.
+structural adj.
+stumble v./n.
+sturdy adj.
+submit v.
+subsequent adj.
+subsidy n.
+substantial adj.
+substitute n./v.
+subtle adj.
+suburban adj.
+successor n.
+suite n.
+superb adj.
+superstition n.
+supervise v.
+supervision n.
+supervisor n.
+supposedly adv.
+supreme adj.
+surplus n./adj.
+surveillance n.
+高中英文參考詞彙表
+42
+suspend v.
+sustain v.
+sustainable adj.
+swap v./n.
+symbolic adj.
+symptom n.
+syndrome n.
+tackle v.
+tactic(s) n.
+tangle n./v.
+tempt v.
+temptation n.
+terminal n./adj.
+terrify v.
+testify v.
+texture n./v.
+theft n.
+theology n.
+theoretical adj.
+therapist n.
+therapy n.
+thereby adv.
+thesis n.
+thigh n.
+threshold n.
+thrill n./v.
+thriller n.
+thrive v.
+throne n.
+thrust v./n.
+tick n./v.
+tile n./v.
+tin n./v.
+toll n./v.
+torch n./v.
+torment n./v.
+tournament n.
+toxic adj.
+trait n.
+traitor n.
+transaction n.
+transformation n.
+transit n./v.
+transition n.
+transmission n.
+transparent adj.
+trauma n.
+treaty n.
+tribute n.
+trigger n./v.
+trim v./n./adj.
+triple adj./v./n.
+trivial adj.
+trophy n.
+tuition n.
+tumor n.
+tuna n.
+ultimate adj./n.
+uncover v.
+undergo v.
+undergraduate n.
+underline v./n.
+undermine v.
+undertake v.
+undo v.
+undoubtedly adv.
+unemployment n.
+unfold v.
+unlock v.
+unprecedented adj.
+update n./v.
+upgrade v./n.
+utility n.
+utilize v.
+vacuum n./v.
+vague adj.
+valid adj.
+variable n./adj.
+variation n.
+vein n.
+vendor n.
+venture n./v.
+venue n.
+verbal adj./n.
+verdict n.
+version n.
+versus prep.
+vertical adj./n.
+veteran n.
+via prep.
+viable adj.
+vicious adj.
+viewer n.
+viewpoint n.
+vinegar n.
+virtual adj.
+visa n.
+vocal adj./n.
+volcano n.
+vomit n./v.
+voucher n.
+vow n./v.
+vulnerable adj.
+warehouse n./v.
+warrior n.
+wary adj.
+weird adj.
+whatsoever adj./pron.
+wheelchair n.
+whereabouts n./adv.
+whereas conj.
+whine n./v.
+widespread adj.
+wig n.
+wilderness n.
+wildlife n.
+windshield n.
+wither v.
+witty adj.
+workshop n.
+依級別排序 第六級
+43
+worship n./v.
+worthwhile adj.
+worthy adj.
+yacht n./v.
+yield v./n.
+第六級
+abbreviate v.
+abide v.
+aboriginal adj./n.
+abound v.
+abstraction n.
+abundance n.
+academy n.
+accessory n./adj.
+acclaim n./v.
+accordance n.
+accordingly adv.
+accountable adj.
+accumulate v.
+accumulation n.
+accusation n.
+accustom v.
+acne n.
+acre n.
+adaptation n.
+addiction n.
+administer/administrate
+v.
+admiral n.
+adolescence n.
+advisory adj.
+aesthetic adj.
+affectionate adj.
+affiliate n.
+affirm v.
+airtight adj.
+airway n.
+algebra n.
+alienate v.
+align v.
+allege v.
+alligator n.
+altitude n.
+aluminum n.
+ambiguity n.
+amid/amidst prep.
+amplify v.
+analogy n.
+analytical adj.
+anchor n./v.
+animate v./adj.
+annoyance n.
+anthem n.
+antibiotic n./adj.
+anticipation n.
+antonym n.
+applaud v.
+applicable adj.
+apprentice n.
+approximate adj./v.
+archaeology n.
+archive n.
+arithmetic n./adj.
+ascend v.
+aspire v.
+assassinate v.
+asthma n.
+astray adv./adj.
+astronaut n.
+astronomer n.
+astronomy n.
+attain(ment) v./(n.)
+attendant n.
+audit n.
+auditorium n.
+avert v.
+aviation n.
+awesome adj.
+awhile adv.
+bachelor n.
+backbone n.
+badge n.
+banquet n./v.
+barbarian adj./n.
+bass n./adj.
+batter n./v.
+beautify v.
+beep n./v.
+beforehand adv.
+beverage n.
+bilateral adj.
+blaze n./v.
+bleach n./v.
+blond/blonde n./adj.
+blot v./n.
+blunt adj./v.
+bodily adj./adv.
+booklet n.
+bosom n.
+boulevard n.
+boxing n.
+boycott n./v.
+brace n./v.
+brassiere/bra n.
+breadth n.
+breakdown n.
+breakup n.
+bribe n./v.
+brink n.
+broaden v.
+brochure n.
+broil v.
+brook n.
+broth n.
+brotherhood n.
+bulky adj.
+bureaucrat n.
+bypass n./v.
+caffeine n.
+calculator n.
+高中英文參考詞彙表
+44
+calligraphy n.
+cape n.
+capsule n.
+caption n./v.
+captive adj./n.
+captivity n.
+cardboard n.
+cardinal n./adj.
+carefree adj.
+caretaker n.
+carton n.
+cashier n.
+casualty n.
+catastrophe n.
+cater v.
+caterpillar n.
+cavity n.
+celery n.
+cellular adj.
+Celsius n.
+cement n./v.
+census n.
+ceramic adj./n.
+certify v.
+chairperson/chair/
+chairman/
+chairwoman n.
+champagne n.
+chant n./v.
+charitable adj.
+checkup n.
+chemist n.
+chestnut n./adj.
+chili n.
+chimpanzee n.
+chirp n./v.
+cholesterol n.
+cigar n.
+civilize v.
+clam n.
+clasp v./n.
+clearance n.
+climax n./v.
+clockwise adv./adj.
+clone n./v.
+closure n.
+coalition n.
+coastline n.
+collision n.
+colloquial adj.
+comet n.
+commonplace adj./n.
+commonwealth n.
+communicative adj.
+comparative adj.
+compass n./v.
+compile v.
+complement v./n.
+complexion n.
+comprehensive adj.
+compute v.
+computerize v.
+comrade n.
+concession n.
+concise adj.
+condense v.
+confederation n.
+congressman/
+congresswoman n.
+conquest n.
+conscientious adj.
+conserve v./n.
+consolation n.
+console n./v.
+consonant n.
+conspiracy n.
+contention n.
+contestant n.
+continuity n.
+contradict v.
+convene v.
+coral n./adj.
+corpse n.
+correspondence n.
+cosmetic adj.
+cosmetics n.
+counterpart n.
+coupon n.
+courtyard n.
+cowardly adj.
+cozy adj.
+crackdown n.
+cracker n.
+cram v.
+cramp n./v.
+crater n./v.
+credible adj.
+crocodile n.
+crossing n.
+crutch n.
+cub n.
+cucumber n.
+cultivate v.
+cumulative adj.
+curb n./v.
+curfew n.
+curry n.
+customary adj.
+cynical adj.
+dazzle v./n.
+deafen v.
+decisive adj.
+dedication n.
+deduct v.
+deem v.
+default n./v.
+defect n./v.
+defiance n.
+definitive adj.
+dental adj.
+依級別排序 第六級
+45
+deplete v.
+deprive v.
+descent n.
+despise v.
+destined adj.
+detach v.
+detain v.
+detention n.
+deter v.
+detergent n.
+devour v.
+diabetes n.
+dictate v.
+dictation n.
+dictator n.
+dictatorship n.
+diesel n.
+differentiate v.
+diplomacy n.
+directive n.
+disable v.
+disastrous adj.
+disbelief n.
+discard v./n.
+discharge n./v.
+disciple n.
+disciplinary adj.
+disclosure n.
+discomfort n./v.
+discreet adj.
+disgrace n./v.
+dismay n./v.
+dispensable adj.
+dispense v.
+disposable adj./n.
+disposal n.
+dispose v.
+dissent n.
+distraction n.
+distress n./v.
+disturbance n.
+diversify v.
+diversion n.
+divert v.
+dividend n.
+doom n./v.
+dormitory/dorm n.
+downward adj.
+downward/downwards
+adv.
+doze v./n.
+drastic adj.
+draught n.
+dresser n.
+dressing n.
+dual adj.
+dubious adj.
+duration n.
+dusk n.
+dwarf n./v.
+dwell v.
+dwelling n.
+eccentric adj./n.
+eclipse n./v.
+edible adj.
+editorial adj./n.
+electrician n.
+elevate v.
+emigrant n.
+emigrate v.
+emigration n.
+encyclopedia n.
+endeavor n./v.
+endowment n.
+endurance n.
+enhance(ment) v./(n.)
+enlighten(ment) v./(n.)
+enrich(ment) v./(n.)
+enroll(ment) v./(n.)
+equalize v.
+equate v.
+escort n./v.
+esteem n./v.
+eternity n.
+evacuate v.
+evergreen adj./n.
+evoke v.
+examinee n.
+examiner n.
+excel v.
+excerpt n./v.
+excess adj./n.
+exclusion n.
+exempt adj.
+exert v.
+expenditure n.
+expiration n.
+expire v.
+extract n./v.
+extracurricular adj.
+eyelash/lash n.
+eyelid n.
+eyesight n.
+fable n.
+faction n.
+Fahrenheit n.
+falter v.
+familiarity n.
+fascination n.
+feasible adj.
+feeble adj.
+feminine adj./n.
+fertility n.
+fertilizer n.
+fiancé/fiance n.
+fin n.
+finite adj.
+firecracker n.
+fireproof adj.
+fishery n.
+高中英文參考詞彙表
+46
+flake n./v.
+flaw n./v.
+flourish v./n.
+flunk v./n.
+foe n.
+folklore n.
+formidable adj.
+formulate v.
+forsake v.
+forthcoming adj.
+fortify v.
+fowl n.
+fracture n./v.
+fragrance n.
+fragrant adj.
+frantic adj.
+freak n./v.
+freeway n.
+friction n.
+fume v./n.
+fury n.
+fuse n./v.
+fuss n./v.
+gallop n./v.
+gangster n.
+garment n.
+gauge n./v.
+gay adj./n.
+geographical adj.
+geometry n.
+glacier n.
+glamorous adj.
+glamour n.
+gleam n./v.
+glide v./n.
+glitter n./v.
+gloom n./v.
+goalkeeper n.
+goodwill n.
+gorilla n.
+gospel n.
+grapefruit n.
+graze v.
+grease n./v.
+groan n./v.
+growl n./v.
+grumble v./n.
+hacker n.
+hail n./v.
+hamper v.
+handicap n./v.
+handicraft n.
+harass(ment) v./(n.)
+harden v.
+harmonica n.
+harness n./v.
+haunt v./n.
+headphone(s) n.
+healthful adj.
+hearty adj.
+hedge n./v.
+heighten v.
+hemisphere n.
+heroic adj./n.
+heroin n.
+heterosexual adj./n.
+hierarchy n.
+hijack v./n.
+hoarse adj.
+homosexual adj./n.
+honorary adj.
+hospitable adj.
+hospitality n.
+hospitalize v.
+hostel n.
+hover v./n.
+humiliate v.
+hunch n./v.
+hurdle n./v.
+hybrid adj./n.
+hygiene n.
+hypocrite n.
+iceberg n.
+illuminate v.
+imminent adj.
+imperative adj./n.
+imperial adj.
+implicit adj.
+imposing adj.
+imprison(ment) v./(n.)
+incline v./n.
+inclusive adj.
+incur v.
+indifference n.
+indignant adj.
+induce v.
+industrialize v.
+infectious adj.
+infer v.
+inflict v.
+inhabit v.
+inhabitant n.
+injustice n.
+inland adj./adv./n.
+innumerable adj.
+inquire v.
+insistence n.
+instinctive adj.
+intake n.
+intellect n.
+interpreter n.
+intersection n.
+intervene v.
+intimacy n.
+intimidate v.
+intonation n.
+intrigue n./v.
+intrude v.
+intruder n.
+invaluable adj.
+依級別排序 第六級
+47
+invariably adv.
+inventory n./v.
+ironic adj.
+irritable adj.
+irritate v.
+isle n.
+itch n./v.
+ivy n.
+jade n.
+janitor n.
+jasmine n.
+jingle n./v.
+jockey n./v.
+jolly adj./adv./v./n.
+joyous adj.
+junction n.
+kin n./adj.
+kindle v.
+knowledgeable adj.
+lad n.
+landlady n.
+landslide n.
+latitude n.
+lavish adj.
+layman n.
+layout n.
+lease n.
+legislator n.
+lengthy adj.
+lesbian adj.
+lessen v.
+lethal adj.
+liable adj.
+liberate v.
+liberation n.
+lieutenant n.
+lifelong adj.
+lighten v.
+limp n./v.
+liner n.
+linger v.
+lining n.
+liter n.
+literacy n.
+literal adj.
+literate adj./n.
+livestock n.
+lizard n.
+locker n.
+lodge n./v.
+lofty adj.
+logo n.
+lonesome adj.
+longevity n.
+longitude n.
+lotion n.
+lottery n.
+lotus n.
+loudspeaker n.
+lucrative adj.
+lullaby n.
+lunar adj.
+lure n./v.
+lush adj.
+madam/ma’am n.
+magnify v.
+maiden adj./n.
+mainland n.
+majestic adj.
+majesty n.
+manuscript n.
+maple n.
+mar v.
+marginal adj.
+martial adj.
+marvel n./v.
+mastery n.
+mediate v.
+medieval adj.
+meditate v.
+meditation n.
+melancholy n./adj.
+mentality n.
+merchandise n./v.
+mermaid n.
+migrant n./adj.
+mimic v./n.
+mingle v.
+miraculous adj.
+miscellaneous adj.
+mischievous adj.
+mistress n.
+mobilize v.
+modernization n.
+modernize v.
+momentum n.
+monarch n.
+monetary adj.
+monotony n.
+monstrous adj.
+moody adj.
+morale n.
+mortal adj./n.
+motherhood n.
+motto n.
+mound n./v.
+mourn v.
+mournful adj.
+mow v.
+muse n.
+mustache n.
+mute adj./v./n.
+nag v./n.
+narrate v.
+narrator n.
+nationalism n.
+navigate v.
+navigation n.
+nearsighted adj.
+nickel n./v.
+高中英文參考詞彙表
+48
+nostril n.
+notable adj./n.
+notorious adj.
+nourish(ment) v./(n.)
+novice n.
+nucleus n.
+nude adj./n.
+nurture v./n.
+oasis n.
+oath n.
+oatmeal n.
+oblige v.
+obsess v.
+obstinate adj.
+occurrence n.
+octopus n.
+odor n.
+offshore adj.
+offspring n.
+operative adj.
+oppress v.
+oppression n.
+ordeal n.
+orderly adj./n.
+organizer n.
+orient n./v.
+oriental adj./n.
+originate v.
+ornament n./v.
+orphanage n.
+orthodox adj.
+ounce n.
+outbreak n.
+outgoing adj.
+outing n.
+outlaw n./v.
+outlook n.
+outnumber v.
+outrage n./v.
+outrageous adj.
+outright adj./adv.
+outset n.
+outskirts n.
+outward adj.
+outward/outwards adv.
+overdo v.
+overflow n./v.
+overhear v.
+overlap n./v.
+overwork n./v.
+oyster n.
+ozone n.
+packet n.
+paddle n./v.
+paperback n.
+paradox n.
+paralyze v.
+parliament n.
+pastime n.
+patriot n.
+patriotic adj.
+peacock n.
+pebble n.
+peek n./v.
+pending adj.
+peninsula n.
+perch n./v.
+peril n./v.
+perish v.
+permissible adj.
+persevere v.
+persistence n.
+persistent adj.
+petrol n.
+petroleum n.
+pharmacist n.
+pharmacy n.
+pianist n.
+pickpocket n.
+pilgrim n.
+pimple n.
+pinch n./v.
+plague n.
+plantation n.
+playwright n.
+plow n./v.
+pneumonia n.
+polar adj.
+ponder v.
+pony n.
+populate v.
+porter n.
+posture n./v.
+potent adj.
+poultry n.
+preach v.
+precede v.
+precedent n.
+precision n.
+predecessor n.
+prehistoric adj.
+premiere n.
+preside v.
+prestige n.
+preventive adj./n.
+preview n./v.
+priceless adj.
+privatize v.
+probe n.
+procession n.
+proficiency n.
+prohibition n.
+propel v.
+prose n.
+prosecute v.
+prospective adj.
+prototype n.
+proverb n.
+provincial adj./n.
+provisional adj.
+依級別排序 第六級
+49
+psychiatry n.
+psychic adj.
+psychotherapy n.
+publicize v.
+puff n./v.
+punctual adj.
+purify v.
+purity n.
+quake v./n.
+qualification n.
+radiant adj./n.
+radiate v./adj.
+radioactive adj.
+radish n.
+radius n.
+rap n.
+rash n./adj.
+ratify v.
+realization n.
+reap v.
+reckless adj.
+reckon v.
+reconcile v.
+recreational adj.
+redundancy n.
+reef n.
+referee n./v.
+referendum n.
+refine(ment) v./(n.)
+reflective adj.
+refresh(ment) v./(n.)
+refreshment(s) n.
+refute v.
+rehabilitate v.
+rehearse v.
+reign n./v.
+rejoice v.
+relay n./v.
+relentless adj.
+reliance n.
+reliant adj.
+relic n.
+remainder n.
+reminiscent adj.
+renowned adj.
+reproduce v.
+reptile n./adj.
+resent(ment) v./(n.)
+reside v.
+resistant adj.
+respective adj.
+restoration n.
+restrain v.
+restraint n.
+retort n./v.
+retrieve v.
+revelation n.
+revival n.
+revive v.
+revolt n./v.
+revolve v.
+rigorous adj.
+ripple n./v.
+rivalry n.
+roam v./n.
+robust adj.
+rotate v.
+rotation n.
+royalty n.
+rubbish n.
+rugged adj.
+ruthless adj.
+salute n./v.
+salvage v.
+sanitation n.
+savage adj./n./v.
+scenic adj.
+scorn n./v.
+scrape v./n.
+screwdriver n.
+scroll n./v.
+scrutiny n.
+sculptor n.
+seagull/gull n.
+seduce v.
+selective adj.
+serene adj.
+sergeant n.
+serial adj.
+sermon n.
+serving n.
+setback n.
+shabby adj.
+sharpen v.
+shaver n.
+shortcoming n.
+shortsighted adj.
+shred n./v.
+shriek n./v.
+shrub n.
+shuffle v.
+shutter n./v.
+simplicity n.
+simplify v.
+simultaneous adj.
+skeptical adj.
+skim v./n.
+slang n./v.
+slash v./n.
+slaughter n./v.
+slay v.
+sloppy adj.
+slum n./v.
+slump n./v.
+sly adj.
+smuggle v.
+sneaker(s) n.
+sneaky adj.
+sneeze n./v.
+snore v./n.
+高中英文參考詞彙表
+50
+sociable adj.
+socialism n.
+socialist n.
+socialize v.
+sociology n.
+solemn adj.
+solidarity n.
+solitary adj./n.
+solitude n.
+soothe v.
+sorrowful adj.
+sovereign adj./n.
+spacecraft/spaceship n.
+span n./v.
+sparrow n.
+spectacle n.
+spiral adj./n./v.
+splendor n.
+spokesperson/
+spokesman/
+spokeswoman n.
+spontaneous adj.
+sportsman/sportswoma
+n n.
+sportsmanship n.
+spotlight n./v.
+spur v./n.
+stabilize v.
+stagger v./n.
+staple n./v.
+starvation n.
+statesman n.
+stationary adj.
+stationery n.
+stature n.
+statute n.
+stepchild n.
+stepfather n.
+stepmother n.
+stimulation n.
+strait n.
+strangle v.
+stray adj./v./n.
+stride n./v.
+stroll n./v.
+stun v.
+stutter n./v.
+stylish adj.
+subjective adj./n.
+subordinate adj./n./v.
+subscribe v.
+subscription n.
+subsidize v.
+succession n.
+successive adj.
+suffocate v.
+suitcase n.
+summon v.
+superficial adj.
+superintendent n.
+superiority n.
+superstitious adj.
+supplement n./v.
+suppress v./n.
+surge n./v.
+surgical adj.
+surname n.
+surpass v.
+suspense n.
+suspension n.
+swamp n./v.
+swarm n./v.
+symbolize v.
+symmetry n.
+sympathize v.
+symphony n.
+synonym n.
+synthetic adj./n.
+syrup n.
+tan n./adj./v.
+tedious adj.
+telecommunications n.
+teller n.
+tempo n.
+tenant n./v.
+tentative adj.
+terrace n./v.
+textile n./adj.
+thereafter adv.
+thermometer n.
+tilt n./v.
+tiptoe n./v.
+tiresome adj.
+token n.
+tornado n.
+torrent n.
+trademark n.
+transcript n.
+transmit v.
+transplant n./v.
+treasury n.
+trek n./v.
+trifle n./v.
+trillion n.
+tropic n./adj.
+trout n.
+trustee n.
+tuck v./n.
+turmoil n.
+twilight n.
+twinkle n./v.
+unanimous adj.
+unconditional adj.
+underestimate v./n.
+underneath
+prep./adv./n./adj.
+underpass n.
+underway adv.
+unification n.
+unify v.
+unveil v.
+依級別排序 第六級
+51
+upright adv./adj./n.
+uprising n.
+upward adj.
+upward/upwards adv.
+urgency n.
+usher v./n.
+utensil n.
+utter adj./v.
+vaccine n.
+vanilla n.
+vanity n.
+vapor n.
+veil n./v.
+velvet n./adj.
+versatile adj.
+veterinarian/vet n.
+veto n./v.
+vibrate v.
+vibration n.
+vice n.
+victor n.
+vigor n.
+vigorous adj.
+villa n.
+villain n.
+vine n.
+vineyard n.
+violinist n.
+virgin n./adj.
+vitality n.
+vocation n.
+vocational adj.
+vowel n.
+wag v./n.
+walnut n.
+ward n./v.
+wardrobe n.
+warrant n.
+warranty n.
+waterproof adj./v.
+weary adj./v.
+wharf n./v.
+whiskey/whisky n.
+wholesale adj./adv./n./v.
+wholesome adj.
+widow/widower n.
+withhold v.
+woe n.
+woodpecker n.
+workforce n.
+wrestle v./n.
+wrinkle n./v.
+yearn v.
+yoga n.
+yogurt n.
+zoom v./n.
+
+依字母排序
+A
+53
+依字母排序 A
+a/an art.
+1
+abandon v.
+4
+abbreviate v.
+6
+abide v.
+6
+ability n.
+1
+able adj.
+1
+abnormal adj.
+5
+aboard prep./adv.
+3
+abolish v.
+5
+aboriginal adj./n.
+6
+abortion n.
+5
+abound v.
+6
+about prep./adv.
+1
+above prep./adv./adj.
+1
+abroad adv.
+1
+abrupt adj.
+5
+absence n.
+2
+absent adj./v.
+2
+absolute adj.
+4
+absorb v.
+4
+abstract adj.
+4
+abstraction n.
+6
+absurd adj.
+5
+abundance n.
+6
+abundant adj.
+5
+abuse n./v.
+5
+academic adj.
+4
+academy n.
+6
+accelerate v.
+5
+accent n.
+4
+accept v.
+2
+acceptable adj.
+3
+acceptance n.
+4
+access n./v.
+4
+accessible adj.
+5
+accessory n./adj.
+6
+accident n.
+2
+accidental adj.
+4
+acclaim n./v.
+6
+accommodate v.
+5
+accommodation n.
+5
+accompany v.
+4
+accomplish(ment) v./(n.) 4
+accord n./v.
+5
+accordance n.
+6
+accordingly adv.
+6
+account n./v.
+2
+accountable adj.
+6
+accountant n.
+4
+accounting n.
+5
+accumulate v.
+6
+accumulation n.
+6
+accuracy n.
+4
+accurate adj.
+3
+accusation n.
+6
+accuse v.
+4
+accustom v.
+6
+ache n./v.
+3
+achieve(ment) v./(n.)
+3
+acid n./adj.
+4
+acknowledge(ment)
+v./(n.)
+5
+acne n.
+6
+acquaint v.
+5
+acquaintance n.
+4
+acquire v.
+4
+acquisition n.
+5
+acre n.
+6
+across prep./adv.
+1
+act n./v.
+1
+action n.
+1
+active adj.
+2
+activist n.
+5
+activity n.
+2
+actor/actress n.
+1
+actual adj.
+2
+acute adj.
+5
+adapt v.
+4
+adaptation n.
+6
+add v.
+1
+addict n./v.
+4
+addiction n.
+6
+addition n.
+2
+additional adj.
+3
+address v./n.
+2
+adequate adj.
+4
+adjust(ment) v./(n.)
+4
+administer/administrate
+v.
+6
+administration n.
+5
+administrative adj.
+5
+administrator n.
+5
+admirable adj.
+4
+admiral n.
+6
+admiration n.
+4
+admire v.
+3
+admission n.
+4
+admit v.
+2
+adolescence n.
+6
+adolescent adj./n.
+5
+adopt v.
+4
+adore v.
+5
+adult n./adj.
+2
+advance n./v.
+2
+advanced adj.
+3
+advantage n.
+3
+adventure n.
+3
+adverse adj.
+5
+advertise(ment)/ad
+v./(n.)
+3
+advice n.
+2
+advise v.
+3
+adviser/advisor n.
+3
+advisory adj.
+6
+advocate n./v.
+5
+aesthetic adj.
+6
+高中英文參考詞彙表
+54
+affair n. 2
+affect v. 2
+affection n. 5
+affectionate adj. 6
+affiliate n. 6
+affirm v. 6
+afford v. 3
+afraid adj. 1
+after prep./conj./adv. 1
+afternoon n. 1
+afterward/afterwards
+adv. 3
+again adv. 1
+against prep. 2
+age n./v. 1
+agency n. 4
+agenda n. 5
+agent n. 4
+aggression n. 5
+aggressive adj. 4
+ago adv. 1
+agony n. 5
+agree(ment) v./(n.) 1
+agreeable adj. 4
+agricultural adj. 5
+agriculture n. 3
+ahead adv. 2
+aid n./v. 2
+aim n./v. 2
+air n. 1
+aircraft n. 2
+airline n. 3
+airplane/plane n. 1
+airport n. 1
+airtight adj. 6
+airway n. 6
+aisle n. 5
+alarm n./v. 2
+album n. 2
+alcohol n. 4
+alcoholic adj./n. 5
+alert adj./v./n. 4
+algebra n. 6
+alien adj./n. 5
+alienate v. 6
+align v. 6
+alike adv./adj. 2
+alive adj. 2
+all adj./adv./pron./n. 1
+allege v. 6
+allergic adj. 5
+allergy n. 5
+alley n. 3
+alliance n. 5
+alligator n. 6
+allocate v. 5
+allow v. 1
+allowance n. 4
+ally n./v. 5
+almond n. 3
+almost adv. 1
+alone adv./adj. 2
+along prep./adv. 1
+alongside prep./adv. 5
+aloud adv. 2
+alphabet n. 3
+already adv. 1
+also adv. 1
+alter v. 5
+alternate adj./v./n. 5
+alternative adj./n. 4
+although conj. 1
+altitude n. 6
+altogether adv. 2
+aluminum n. 6
+always adv. 1
+am/a.m. adv. 1
+amateur adj./n. 4
+amaze(ment) v./(n.) 3
+ambassador n. 3
+ambiguity n. 6
+ambiguous adj. 4
+ambition n. 3
+ambitious adj. 4
+ambulance n. 3
+amend v. 5
+amid/amidst prep. 6
+among prep. 2
+amount n./v. 2
+ample adj. 5
+amplify v. 6
+amuse(ment) v./(n.) 4
+analogy n. 6
+analysis n. 4
+analyst n. 5
+analytical adj. 6
+analyze v. 4
+ancestor n. 4
+anchor n./v. 6
+ancient adj. 2
+and conj. 1
+angel n. 3
+anger n. 2
+angle n. 2
+angry adj. 1
+animal n. 1
+animate v./adj. 6
+ankle n. 2
+anniversary n. 4
+announce(ment) v./(n.) 3
+annoy v. 4
+annoyance n. 6
+annual adj. 4
+anonymous adj. 5
+another adj./pron. 1
+answer n./v. 1
+ant n. 1
+anthem n. 6
+antibiotic n./adj. 6
+anticipate v. 5
+依字母排序 A
+55
+anticipation n. 6
+antique adj./n. 5
+antonym n. 6
+anxiety n. 4
+anxious adj. 3
+any pron./adj./adv. 1
+anybody/anyone pron. 1
+anyhow adv. 3
+anything pron. 1
+anytime adv. 2
+anyway adv. 2
+anywhere/anyplace adv.
+2
+apart adv. 3
+apartment n. 1
+ape n. 2
+apologize v. 3
+apology n. 4
+apparent adj. 4
+appeal n./v. 3
+appear v. 1
+appearance n. 2
+appetite n. 2
+applaud v. 6
+applause n. 5
+apple n. 1
+appliance n. 5
+applicable adj. 6
+applicant n. 4
+application n. 4
+apply v. 2
+appoint(ment) v./(n.) 4
+appreciate v. 2
+appreciation n. 4
+apprentice n. 6
+approach n./v. 2
+appropriate adj. 4
+approval n. 4
+approve v. 3
+approximate adj./v. 6
+apron n. 3
+apt adj. 5
+aquarium n. 4
+arch n./v. 4
+archaeology n. 6
+architect n. 5
+architecture n. 5
+archive n. 6
+area n. 1
+arena n. 5
+argue(argument) v./(n.) 2
+arise v. 4
+arithmetic n./adj. 6
+arm n./v. 1
+armed adj. 3
+arms n. 4
+army n. 2
+around prep./adv. 1
+arouse v. 5
+arrange(ment) v./(n.) 2
+array n. 5
+arrest n./v. 3
+arrival n. 2
+arrive v. 1
+arrogant adj. 5
+arrow n. 2
+art n. 1
+article n. 2
+articulate v./adj. 5
+artificial adj. 4
+artist n. 2
+artistic adj. 4
+as conj./adv./prep. 1
+ascend v. 6
+ash n. 3
+ashamed adj. 4
+aside adv. 3
+ask v. 1
+asleep adj. 2
+aspect n. 4
+aspire v. 6
+aspirin n. 4
+ass n. 5
+assassinate v. 6
+assault n./v. 5
+assemble v. 4
+assembly n. 4
+assert v. 5
+assess(ment) v./(n.) 5
+asset n. 5
+assign(ment) v./(n.) 4
+assist v. 3
+assistance n. 4
+assistant n. 3
+associate adj./n./v. 4
+association n. 4
+assume v. 3
+assumption n. 5
+assurance n. 4
+assure v. 4
+asthma n. 6
+astonish(ment) v./(n.) 5
+astray adv./adj. 6
+astronaut n. 6
+astronomer n. 6
+astronomy n. 6
+at prep. 1
+athlete n. 3
+athletic adj. 4
+athletics n. 5
+atmosphere n. 4
+atom n. 4
+atomic adj. 4
+attach(ment) v./(n.) 4
+attack n./v. 1
+attain(ment) v./(n.) 6
+attempt n./v. 2
+attend v. 2
+attendance n. 5
+attendant n. 6
+高中英文參考詞彙表
+56
+attention n. 2
+attic n. 5
+attitude n. 3
+attorney n. 5
+attract v. 3
+attraction n. 4
+attractive adj. 3
+attribute v. 5
+auction n./v. 5
+audience n. 3
+audio adj. 4
+audit n. 6
+auditorium n. 6
+aunt n. 1
+authentic adj. 4
+author n./v. 2
+authority n. 4
+authorize v. 5
+autobiography n. 4
+autograph n./v. 4
+automatic adj. 3
+automobile/auto n. 3
+autonomy n. 5
+available adj. 2
+avenue n. 3
+average adj./n./v. 2
+avert v. 6
+aviation n. 6
+avoid v. 2
+await v. 4
+awake adj./v. 3
+awaken v. 3
+award n./v. 3
+aware adj. 3
+away adv. 1
+awe n./v. 5
+awesome adj. 6
+awful adj. 3
+awhile adv. 6
+awkward adj. 3
+B
+baby n. 1
+bachelor n. 6
+back adv./n./v./adj. 1
+backbone n. 6
+background n. 3
+backpack n./v. 2
+backward adj. 2
+backward/backwards
+adv. 2
+backyard n. 5
+bacon n. 3
+bacteria n. 3
+bad adj. 1
+badge n. 6
+badly adv. 3
+badminton n. 2
+bag n. 1
+baggage n. 3
+bait n./v. 3
+bake v. 2
+bakery n. 2
+balance n./v. 2
+balcony n. 2
+bald adj. 4
+ball n./v. 1
+ballet n. 4
+balloon n. 2
+ballot n./v. 5
+bamboo n. 3
+ban n./v. 5
+banana n. 1
+band n. 1
+bandage n./v. 4
+bang n./v./adv. 3
+bank n./v. 1
+banker n. 3
+bankrupt adj./v./n. 4
+banner n. 5
+banquet n./v. 6
+bar n./v. 2
+barbarian adj./n. 6
+barbecue n./v. 2
+barber n. 2
+bare adj./v. 3
+barely adv. 3
+bargain n./v. 4
+bark n./v. 2
+barn n. 3
+barrel n. 3
+barren adj. 5
+barrier n. 4
+base n./v. 2
+baseball n. 1
+basement n. 3
+basic adj. 2
+basics n. 2
+basin n. 4
+basis n. 2
+basket n. 1
+basketball n. 1
+bass n./adj. 6
+bat n./v. 1
+batch n. 5
+bath n. 1
+bathe v. 2
+bathroom n. 1
+batter n./v. 6
+battery n. 4
+battle n./v. 2
+bay n. 3
+be v./aux. 1
+beach n./v. 1
+bead n. 3
+beam n./v. 3
+bean n. 1
+bear v./n. 1
+beard n. 2
+beast n. 3
+beat v./n. 2
+依字母排序 B
+57
+beautiful adj. 1
+beautify v. 6
+beauty n. 2
+because conj. 1
+become v. 1
+bed n. 1
+bedroom n. 1
+bee n. 1
+beef n. 1
+beep n./v. 6
+beer n. 2
+beetle n. 3
+before prep./conj./adv. 1
+beforehand adv. 6
+beg v. 2
+beggar n. 4
+begin v. 1
+beginner n. 2
+behalf n. 5
+behave v. 2
+behavior n. 4
+behind prep./adv. 1
+being n. 2
+belief n. 2
+believe v. 1
+bell n. 1
+belong v. 1
+belongings n. 5
+beloved adj./n. 5
+below adv./prep. 1
+belt n./v. 1
+bench n. 1
+bend v./n. 2
+beneath prep. 3
+beneficial adj. 5
+benefit n./v. 3
+berry n. 3
+beside prep. 1
+besides adv./prep. 3
+best adj./adv./v./n. 1
+bet v./n. 3
+betray v. 5
+better adj./adv./n./v. 2
+between prep./adv. 1
+beverage n. 6
+beware v. 5
+beyond prep./adv. 2
+bias n./v. 5
+bicycle/bike n. 1
+bid n./v. 5
+big adj. 1
+bilateral adj. 6
+bill n./v. 2
+billion n. 2
+bin n. 4
+bind v. 3
+biography n. 4
+biological adj. 5
+biology n. 4
+bird n. 1
+birth n. 2
+biscuit n. 2
+bit n. 2
+bite n./v. 1
+bitter adj. 3
+bizarre adj. 5
+black adj./n. 1
+blackboard n. 2
+blade n. 4
+blame v./n. 2
+blank adj./n. 2
+blanket n./v. 2
+blast n./v. 5
+blaze n./v. 6
+bleach n./v. 6
+bleed v. 3
+blend v./n. 4
+bless v. 3
+blessing n. 4
+blind adj./v. 1
+blink v./n. 4
+block n./v. 1
+blond/blonde n./adj. 6
+blood n. 2
+bloody adj. 3
+bloom n./v. 4
+blossom n./v. 4
+blot v./n. 6
+blouse n. 3
+blow v. 1
+blue adj./n. 1
+blunt adj./v. 6
+blur n./v. 5
+blush n./v. 5
+board n./v. 2
+boast v./n. 4
+boat n. 1
+bodily adj./adv. 6
+body n. 1
+bodyguard n. 5
+boil n./v. 2
+bold adj. 3
+bolt n./v. 5
+bomb n./v. 3
+bond n./v. 4
+bone n. 2
+bonus n. 5
+book n./v. 1
+bookcase n. 3
+booklet n. 6
+bookstore n. 2
+boom n./v. 5
+boost v./n. 5
+boot n./v. 3
+booth n. 5
+border n./v. 2
+bore v./n. 3
+bored adj. 1
+boredom n. 5
+boring adj. 1
+高中英文參考詞彙表
+58
+born adj. 1
+borrow v. 1
+bosom n. 6
+boss n./v. 1
+both pron./adv./adj. 1
+bother v./n. 2
+bottle n./v. 1
+bottom n./adj./v. 1
+boulevard n. 6
+bounce v./n. 4
+bound v./n. 5
+boundary n. 5
+bow n./v. 1
+bowl n. 1
+bowling n. 3
+box n./v. 1
+boxer n. 5
+boxing n. 6
+boy n. 1
+boycott n./v. 6
+brace n./v. 6
+bracelet n. 4
+brain n. 2
+brake n./v. 3
+branch n./v. 2
+brand n. 2
+brass n./adj. 3
+brassiere/bra n. 6
+brave adj. 1
+bravery n. 3
+bread n. 1
+breadth n. 6
+break n./v. 1
+breakdown n. 6
+breakfast n./v. 1
+breakthrough n. 5
+breakup n. 6
+breast n. 3
+breath n. 3
+breathe v. 3
+breed n./v. 4
+breeze n./v. 3
+bribe n./v. 6
+brick n. 3
+bride n. 3
+bridegroom/groom n. 4
+bridge n./v. 1
+brief adj./n./v. 2
+briefcase n. 5
+bright adj./adv. 1
+brilliant adj. 2
+bring v. 1
+brink n. 6
+broad adj. 2
+broadcast n./v. 3
+broaden v. 6
+brochure n. 6
+broil v. 6
+broke adj. 4
+bronze n./adj. 5
+brook n. 6
+broom n. 4
+broth n. 6
+brother n. 1
+brotherhood n. 6
+brown adj./v./n. 1
+browse v./n. 5
+bruise n./v. 5
+brunch n. 3
+brush n./v. 2
+brutal adj. 4
+bubble n./v. 3
+bucket n. 3
+bud n./v. 3
+budget n./v. 3
+buffalo n. 3
+buffet n. 3
+bug n./v. 1
+build v. 1
+building n. 2
+bulb n. 3
+bulk n. 5
+bulky adj. 6
+bull n. 3
+bullet n. 3
+bulletin n. 4
+bully n./v. 5
+bump n./v. 3
+bun n. 2
+bunch n. 3
+bundle n. 3
+burden n./v. 2
+bureau n. 5
+bureaucracy n. 5
+bureaucrat n. 6
+burglar n. 4
+burial n. 5
+burn v./n. 2
+burst n./v. 2
+bury v. 3
+bus n. 1
+bush n. 3
+business n. 1
+businessman n. 2
+busy adj. 1
+but conj./prep./adv. 1
+butcher n./v. 5
+butter n./v. 1
+butterfly n. 1
+button n./v. 1
+buy v./n. 1
+buzz n./v. 3
+by prep./adv. 1
+bypass n./v. 6
+C
+cabbage n. 2
+cabin n. 3
+cabinet n. 4
+cable n./v. 3
+café/cafe n. 2
+依字母排序
+C
+59
+cafeteria n.
+3
+caffeine n.
+6
+cage n./v.
+2
+cake n.
+1
+calcium n.
+5
+calculate v.
+4
+calculation n.
+4
+calculator n.
+6
+calendar n.
+2
+call v./n.
+1
+calligraphy n.
+6
+calm v./adj./n
+2
+calorie n.
+4
+camel n.
+2
+camera n.
+1
+camp n./v.
+1
+campaign n./v.
+4
+campus n.
+3
+can aux./n./v.
+1
+canal n.
+5
+cancel v.
+2
+cancer n.
+2
+candidate n.
+4
+candle n.
+2
+cane n.
+4
+canoe n./v.
+4
+canvas n./v.
+5
+canyon n.
+3
+cap n./v.
+1
+capability n.
+5
+capable adj.
+3
+capacity n.
+4
+cape n.
+6
+capital n./adj.
+2
+capital(ism) n.
+4
+capitalist n.
+4
+capsule n.
+6
+captain n.
+3
+caption n./v.
+6
+captive adj./n.
+6
+captivity n.
+6
+capture v./n.
+3
+car n.
+1
+carbon n.
+5
+card n.
+1
+cardboard n.
+6
+cardinal n./adj.
+6
+care n./v.
+1
+career n.
+3
+carefree adj.
+6
+careful adj.
+1
+caretaker n.
+6
+cargo n.
+4
+carnival n.
+5
+carpenter n.
+3
+carpet n./v.
+3
+carriage n.
+3
+carrier n.
+4
+carrot n.
+1
+carry v.
+1
+cart n./v.
+3
+carton n.
+6
+cartoon n./v.
+2
+carve v.
+4
+case n./v.
+1
+cash n./v.
+2
+cashier n.
+6
+casino n.
+5
+cast v./n.
+3
+castle n.
+2
+casual adj.
+3
+casualty n.
+6
+cat n.
+1
+catalogue n./v.
+4
+catastrophe n.
+6
+catch v./n.
+1
+category n.
+4
+cater v.
+6
+caterpillar n.
+6
+cathedral n.
+5
+cattle n.
+3
+cause n./v.
+2
+caution n./v.
+5
+cautious adj.
+5
+cave n./v.
+3
+cavity n.
+6
+cease v./n.
+4
+ceiling n.
+2
+celebrate v.
+1
+celebration n.
+4
+celebrity n.
+5
+celery n.
+6
+cell n.
+2
+cellphone n.
+1
+cellular adj.
+6
+Celsius n.
+6
+cement n./v.
+6
+cemetery n.
+5
+census n.
+6
+cent n.
+1
+center n.
+1
+centimeter n.
+2
+central adj.
+2
+century n.
+2
+ceramic adj./n.
+6
+cereal n.
+2
+ceremony n.
+5
+certain adj./pron.
+1
+certainty n.
+5
+certificate n./v.
+5
+certify v.
+6
+chain n./v.
+2
+chair n./v.
+1
+chairperson/chair/
+chairman/
+chairwoman n.
+6
+chalk n./v.
+2
+challenge n./v.
+2
+chamber n.
+4
+champagne n.
+6
+高中英文參考詞彙表
+60
+champion n. 3
+championship n. 4
+chance n./v. 1
+change n./v. 1
+channel n./v. 2
+chant n./v. 6
+chaos n. 5
+chapel n. 5
+chapter n. 2
+character n. 2
+characteristic n./adj. 4
+characterize v. 5
+charge n./v. 2
+charitable adj. 6
+charity n. 4
+charm n./v. 3
+chart n. 2
+chase n./v. 2
+chat n./v. 3
+cheap adj./adv. 1
+cheat v./n. 2
+check v./n. 1
+checkup n. 6
+cheek n. 3
+cheer v./n. 2
+cheerful adj. 3
+cheese n. 1
+chef n. 5
+chemical adj./n. 2
+chemist n. 6
+chemistry n. 4
+cherish v. 4
+cherry n./adj. 3
+chess n. 2
+chest n. 3
+chestnut n./adj. 6
+chew v./n. 4
+chicken n. 1
+chief adj./n. 2
+child n. 1
+childhood n. 2
+childish adj. 2
+chili n. 6
+chill n./v./adj. 3
+chilly adj. 3
+chimney n. 3
+chimpanzee n. 6
+chin n. 3
+china n. 2
+chip n./v. 3
+chirp n./v. 6
+chocolate n. 1
+choice n./adj. 1
+choir n. 5
+choke v./n. 4
+cholesterol n. 6
+choose v. 1
+chop n./v. 3
+chopstick(s) n. 2
+chord n. 5
+chore n. 5
+chorus n. 4
+chronic adj. 5
+chubby adj. 5
+chunk n. 5
+church n. 1
+cigar n. 6
+cigarette n. 3
+cinema n. 3
+circle n./v. 1
+circuit n. 5
+circular adj. 4
+circulate v. 4
+circulation n. 4
+circumstance n. 4
+circus n. 3
+cite v. 5
+citizen n. 3
+citizenship n. 5
+city n. 1
+civic adj. 5
+civil adj. 3
+civilian adj./n. 4
+civilization n. 4
+civilize v. 6
+claim n./v. 2
+clam n. 6
+clap v./n. 2
+clarify v. 4
+clarity n. 5
+clash n./v. 4
+clasp v./n. 6
+class n./v. 1
+classic adj./n. 2
+classical adj. 2
+classification n. 4
+classify v. 4
+classmate n. 2
+clause n. 5
+claw n./v. 4
+clay n. 3
+clean adj./v./adv./n. 1
+cleaner n. 3
+clear adj./v./adv. 1
+clearance n. 6
+clerk n. 1
+clever adj. 2
+click v./n. 2
+client n. 3
+cliff n. 4
+climate n. 2
+climax n./v. 6
+climb v./n. 1
+cling v. 5
+clinic n. 3
+clinical adj. 5
+clip n./v. 3
+clock n. 1
+clockwise adv./adj. 6
+clone n./v. 6
+依字母排序 C
+61
+close adj./adv./v./n. 1
+closet n. 3
+closure n. 6
+cloth n. 2
+clothe v. 3
+clothes n. 1
+clothing n. 2
+cloud n. 1
+cloudy adj. 2
+clown n./v. 3
+club n./v. 1
+clue n. 3
+clumsy adj. 4
+cluster n./v. 5
+coach n./v. 3
+coal n. 2
+coalition n. 6
+coarse adj. 4
+coast n. 2
+coastline n. 6
+coat n./v. 1
+cocaine n. 5
+cock n. 3
+cockroach/roach n. 2
+cocktail n. 3
+cocoa n. 2
+coconut n. 3
+code n./v. 4
+coffee n. 1
+coffin n. 5
+cognitive adj. 5
+coherent adj. 5
+coin n./v. 2
+coincidence n. 5
+cola/Coke n. 2
+cold adj./n. 1
+collaboration n. 5
+collapse n./v. 4
+collar n. 3
+colleague n. 4
+collect v. 1
+collection n. 3
+collective adj./n. 5
+collector n. 5
+college n. 2
+collision n. 6
+colloquial adj. 6
+colonial adj./n. 5
+colony n. 3
+color n./v. 1
+colorful adj. 3
+column n. 3
+columnist n. 5
+comb n./v. 2
+combat n./v. 5
+combination n. 4
+combine v. 2
+come v. 1
+comedian n. 5
+comedy n. 4
+comet n. 6
+comfort n./v. 3
+comfortable adj. 1
+comic(s) adj./n. 2
+comma n. 3
+command n./v. 2
+commander n. 4
+comment n./v. 4
+commentary n. 5
+commentator n. 5
+commerce n. 4
+commercial adj./n. 2
+commission n./v. 5
+commit v. 4
+commitment n. 5
+committee n. 3
+commodity n. 5
+common adj./n. 1
+commonplace adj./n. 6
+commonwealth n. 6
+communicate v. 3
+communication n. 4
+communicative adj. 6
+communism n. 5
+communist adj./n. 5
+community n. 4
+commute v. 5
+commuter n. 5
+compact adj./n./v. 5
+companion n. 4
+company n. 2
+comparable adj. 5
+comparative adj. 6
+compare v. 2
+comparison n. 3
+compass n./v. 6
+compassion n. 5
+compassionate adj. 5
+compatible adj. 5
+compel v. 5
+compensate v. 5
+compensation n. 5
+compete v. 3
+competence n. 5
+competent adj. 5
+competition n. 4
+competitive adj. 4
+competitor n. 4
+compile v. 6
+complain v. 3
+complaint n. 3
+complement v./n. 6
+complete adj./v. 2
+complex adj./n. 2
+complexion n. 6
+complexity n. 5
+compliance n. 5
+complicate v. 4
+complication n. 5
+compliment n./v. 5
+高中英文參考詞彙表
+62
+comply v. 5
+component n./adj. 5
+compose v. 4
+composer n. 4
+composition n. 4
+compound n./v./adj. 5
+comprehend v. 5
+comprehension n. 5
+comprehensive adj. 6
+comprise v. 5
+compromise n./v. 5
+compulsory adj. 5
+compute v. 6
+computer n. 1
+computerize v. 6
+comrade n. 6
+conceal v. 5
+concede v. 5
+conceive v. 5
+concentrate v. 4
+concentration n. 4
+concept n. 4
+conception n. 5
+concern n./v. 2
+concerning prep. 4
+concert n. 3
+concession n. 6
+concise adj. 6
+conclude v. 2
+conclusion n. 3
+concrete adj./n./v. 4
+condemn v. 5
+condense v. 6
+condition n./v. 2
+conduct v./n. 5
+conductor n. 4
+cone n. 3
+confederation n. 6
+conference n. 4
+confess v. 4
+confession n. 5
+confidence n. 4
+confident adj. 2
+confidential adj. 5
+confine v. 5
+confirm v. 3
+conflict n./v. 2
+conform v. 5
+confront v. 5
+confrontation n. 5
+confuse v. 3
+confusion n. 4
+congratulate v. 4
+congratulation(s) n. 2
+congress n. 4
+congressman/
+congresswoman n. 6
+connect v. 3
+connection n. 2
+conquer v. 4
+conquest n. 6
+conscience n. 4
+conscientious adj. 6
+conscious adj. 3
+consecutive adj. 5
+consensus n. 5
+consent n./v. 5
+consequence n. 4
+consequent adj. 4
+conservation n. 5
+conservative adj./n. 4
+conserve v./n. 6
+consider v. 2
+considerable adj. 3
+considerate adj. 5
+consideration n. 2
+consist v. 4
+consistent adj. 4
+consolation n. 6
+console n./v. 6
+consonant n. 6
+conspiracy n. 6
+constant adj./n. 3
+constitute v. 4
+constitution n. 4
+constitutional adj./n. 5
+constraint n. 5
+construct v. 4
+construction n. 4
+constructive adj. 4
+consult v. 4
+consultant n. 4
+consultation n. 5
+consume v. 4
+consumer n. 4
+consumption n. 5
+contact n./v. 2
+contagious adj. 5
+contain v. 2
+container n. 4
+contaminate v. 5
+contemplate v. 5
+contemporary adj./n. 5
+contempt n. 5
+contend v. 5
+content n./adj. 4
+content(ment) v./(n.) 4
+contention n. 6
+contest n./v. 4
+contestant n. 6
+context n. 4
+continent n. 3
+continental adj. 5
+continual adj. 4
+continue v. 2
+continuity n. 6
+continuous adj. 4
+contract n./v. 2
+contractor n. 5
+contradict v. 6
+依字母排序 C
+63
+contradiction n. 5
+contrary n./adj. 4
+contrast n./v. 4
+contribute v. 4
+contribution n. 4
+control n./v. 2
+controller n. 3
+controversial adj. 5
+controversy n. 5
+convene v. 6
+convenience n. 4
+convenient adj. 1
+convention n. 4
+conventional adj. 4
+conversation n. 2
+converse v. 4
+conversion n. 5
+convert v. 5
+convey v. 4
+convict v./n. 5
+conviction n. 5
+convince v. 4
+cook v./n. 1
+cooker n. 3
+cookie n. 1
+cool adj./v./n. 1
+cooperate v. 4
+cooperation n. 4
+cooperative adj./n. 4
+coordinate v./n./adj. 5
+cope v. 4
+copper n./adj. 4
+copy n./v. 1
+copyright n./v. 5
+coral n./adj. 6
+cord n. 4
+core n. 5
+corn n. 2
+corner n. 1
+corporate adj. 5
+corporation n. 5
+corpse n. 6
+correct adj./v. 1
+correlation n. 5
+correspond v. 4
+correspondence n. 6
+correspondent n. 5
+corridor n. 5
+corrupt adj./v. 5
+corruption n. 5
+cosmetic adj. 6
+cosmetics n. 6
+cost n./v. 1
+costly adj. 3
+costume n. 4
+cottage n. 4
+cotton n. 3
+couch n./v. 1
+cough n./v. 3
+council n. 4
+counsel n./v. 5
+counselor n. 5
+count v./n. 1
+countable adj. 3
+counter n./v./adj./adv. 4
+counterpart n. 6
+country n. 1
+countryside n. 2
+county n. 3
+couple n./v. 2
+coupon n. 6
+courage n. 2
+courageous adj. 4
+course n./v. 1
+court n. 2
+courteous adj. 5
+courtesy n. 4
+courtyard n. 6
+cousin n. 1
+cover v./n. 1
+coverage n. 5
+cow n. 1
+coward n. 4
+cowardly adj. 6
+cowboy n. 2
+cozy adj. 6
+crab n. 3
+crack n./v. 4
+crackdown n. 6
+cracker n. 6
+cradle n./v. 3
+craft n. 4
+cram v. 6
+cramp n./v. 6
+crane n./v. 3
+crash n./v. 3
+crater n./v. 6
+crawl v./n. 3
+crayon n. 2
+crazy adj. 1
+cream n./adj. 2
+create v. 2
+creation n. 4
+creative adj. 3
+creativity n. 4
+creator n. 3
+creature n. 3
+credibility n. 5
+credible adj. 6
+credit n./v. 3
+creek n. 5
+creep v. 4
+crew n. 3
+cricket n. 3
+crime n. 2
+criminal adj./n. 3
+cripple v./n. 5
+crisis n. 2
+crispy adj. 3
+criterion/criteria n. 5
+高中英文參考詞彙表
+64
+critic n.
+4
+critical adj.
+4
+criticism n.
+4
+criticize v.
+4
+crocodile n.
+6
+crop n./v.
+3
+cross n./v.
+1
+crossing n.
+6
+crow n.
+2
+crowd n./v.
+2
+crown n./v.
+3
+crucial adj.
+5
+crude adj.
+5
+cruel adj.
+3
+cruelty n.
+4
+cruise n./v.
+5
+crunchy adj.
+4
+crush n./v.
+4
+crutch n.
+6
+cry v./n.
+1
+crystal n./adj.
+5
+cub n.
+6
+cube n./v.
+4
+cucumber n.
+6
+cue n./v.
+4
+cuisine n.
+5
+cultivate v.
+6
+cultural adj.
+2
+culture n.
+2
+cumulative adj.
+6
+cunning adj./n.
+4
+cup n.
+1
+cupboard n.
+3
+curb n./v.
+6
+cure n./v.
+2
+curfew n.
+6
+curiosity n.
+4
+curious adj.
+2
+curl n./v.
+4
+currency n.
+5
+current adj./n.
+2
+curriculum n.
+5
+curry n.
+6
+curse n./v.
+4
+curtain n./v.
+2
+curve n./v.
+4
+cushion n./v.
+4
+custody n.
+5
+custom n.
+2
+customary adj.
+6
+customer n.
+2
+customs n.
+5
+cut v./n.
+1
+cute adj.
+1
+cycle n./v.
+2
+cynical adj.
+6
+D
+daily adj./adv./n.
+2
+dairy n.
+3
+dam n./v.
+3
+damage n./v.
+2
+damp adj./n./v.
+4
+dance n./v.
+1
+dancer n.
+2
+danger n.
+2
+dangerous adj.
+1
+dare aux./v.
+3
+dark adj./n.
+1
+darling n./adj.
+3
+dash n./v.
+3
+data n.
+2
+database n.
+3
+date n./v.
+1
+daughter n.
+1
+dawn n./v.
+3
+day n.
+1
+dazzle v./n.
+6
+dead adj.
+1
+deadline n.
+4
+deadly adj./adv.
+5
+deaf adj.
+2
+deafen v.
+6
+deal n./v.
+1
+dealer n.
+3
+dear adj./n./adv.
+1
+death n.
+1
+debate n./v.
+2
+debris n.
+5
+debt n.
+2
+debut n.
+5
+decade n.
+3
+decay n./v.
+5
+deceive v.
+5
+decent adj.
+5
+decide v.
+1
+decision n.
+2
+decisive adj.
+6
+deck n.
+3
+declaration n.
+5
+declare v.
+4
+decline n./v.
+5
+decorate v.
+3
+decoration n.
+4
+decrease v./n.
+3
+dedicate v.
+5
+dedication n.
+6
+deduct v.
+6
+deed n.
+3
+deem v.
+6
+deep adj./adv.
+1
+deepen v.
+3
+deer n.
+2
+default n./v.
+6
+defeat n./v.
+4
+defect n./v.
+6
+defend v.
+4
+defendant n.
+5
+defense n.
+4
+defensible adj.
+4
+defensive adj.
+4
+依字母排序 D
+65
+defiance n. 6
+deficit n. 5
+define v. 1
+definite adj. 4
+definition n. 3
+definitive adj. 6
+defy v. 5
+degree n. 2
+delay n./v. 2
+delegate n./v. 5
+delegation n. 5
+deliberate adj./v. 5
+delicate adj. 4
+delicious adj. 2
+delight n./v. 4
+delightful adj. 4
+deliver v. 2
+delivery n. 2
+demand n./v. 4
+democracy n. 3
+democrat n. 5
+democratic adj. 3
+demonstrate v. 4
+demonstration n. 4
+denial n. 5
+dense adj. 4
+density n. 5
+dental adj. 6
+dentist n. 2
+deny v. 2
+depart v. 4
+department n. 2
+departure n. 4
+depend v. 2
+dependent adj./n. 4
+depict v. 5
+deplete v. 6
+deploy v. 5
+deposit n./v. 3
+depress v. 5
+depression n. 4
+deprive v. 6
+depth n. 2
+deputy n. 5
+derive v. 5
+descend v. 5
+descent n. 6
+describe v. 2
+description n. 2
+descriptive adj. 5
+desert n./v. 2
+deserve v. 4
+design n./v. 2
+designer n. 3
+desirable adj. 3
+desire n./v. 3
+desk n. 1
+despair n./v. 5
+desperate adj. 4
+despise v. 6
+despite prep. 4
+dessert n. 3
+destination n. 5
+destined adj. 6
+destiny n. 5
+destroy v. 3
+destruction n. 4
+destructive adj. 5
+detach v. 6
+detail n./v. 2
+detain v. 6
+detect v. 3
+detective n./adj. 4
+detention n. 6
+deter v. 6
+detergent n. 6
+determination n. 4
+determine v. 3
+develop(ment) v./(n.) 2
+device n. 4
+devil n. 3
+devise v. 4
+devote v. 4
+devotion n. 5
+devour v. 6
+dew n. 4
+diabetes n. 6
+diagnose v. 5
+diagnosis n. 5
+diagram n./v. 4
+dial n./v. 2
+dialect n. 5
+dialogue n. 2
+diameter n. 5
+diamond n. 2
+diaper n. 5
+diary n. 2
+dictate v. 6
+dictation n. 6
+dictator n. 6
+dictatorship n. 6
+dictionary n. 1
+die v. 1
+diesel n. 6
+diet n./v. 2
+differ v. 4
+difference n. 2
+different adj. 1
+differentiate v. 6
+difficult adj. 1
+difficulty n. 2
+dig v./n. 1
+digest n./v. 4
+digestion n. 5
+digital adj. 4
+dignity n. 4
+dilemma n. 5
+diligence n. 4
+diligent adj. 4
+dim adj./v. 3
+高中英文參考詞彙表
+66
+dime n. 3
+dimension n. 5
+diminish v. 5
+dine v. 3
+dinner n. 1
+dinosaur n. 3
+dip v./n. 3
+diploma n. 4
+diplomacy n. 6
+diplomat n. 4
+diplomatic adj. 5
+direct adj./v./adv. 2
+direction n. 2
+directive n. 6
+director n. 2
+directory n. 5
+dirt n. 3
+dirty adj./v. 1
+disability n. 4
+disable v. 6
+disadvantage n./v. 4
+disagree(ment) v./(n.) 2
+disappear v. 2
+disappoint(ment) v./(n.) 4
+disapprove v. 5
+disaster n. 4
+disastrous adj. 6
+disbelief n. 6
+discard v./n. 6
+discharge n./v. 6
+disciple n. 6
+disciplinary adj. 6
+discipline n./v. 4
+disclose v. 5
+disclosure n. 6
+discomfort n./v. 6
+disconnect v. 5
+discount n./v. 3
+discourage(ment) v./(n.)
+4
+discourse n. 5
+discover v. 2
+discovery n. 2
+discreet adj. 6
+discriminate v. 5
+discrimination n. 5
+discuss v. 2
+discussion n. 2
+disease n. 2
+disgrace n./v. 6
+disguise v./n. 4
+disgust n./v. 4
+dish n./v. 1
+dishonest adj. 3
+disk/disc n. 3
+dislike v./n. 3
+dismay n./v. 6
+dismiss v. 4
+disorder n./v. 4
+dispensable adj. 6
+dispense v. 6
+display n./v. 2
+disposable adj./n. 6
+disposal n. 6
+dispose v. 6
+dispute n./v. 4
+disrupt v. 5
+dissent n. 6
+dissolve v. 5
+distance n. 2
+distant adj. 2
+distinct adj. 4
+distinction n. 5
+distinctive adj. 5
+distinguish v. 4
+distinguished adj. 4
+distract v. 5
+distraction n. 6
+distress n./v. 6
+distribute v. 4
+distribution n. 4
+district n. 4
+disturb v. 4
+disturbance n. 6
+ditch n./v. 3
+dive n./v. 3
+diverse adj. 4
+diversify v. 6
+diversion n. 6
+diversity n. 4
+divert v. 6
+divide v./n. 2
+dividend n. 6
+divine adj. 4
+division n. 2
+divorce n./v. 4
+dizzy adj. 3
+do aux./v. 1
+dock n./v. 3
+doctor/doc n. 1
+doctrine n. 5
+document n./v. 5
+documentary n./adj. 5
+dodge v./n. 4
+dog n. 1
+doll n. 1
+dollar n. 1
+dolphin n. 3
+domain n. 5
+dome n./v. 5
+domestic adj. 2
+dominant adj. 4
+dominate v. 4
+donate v. 5
+donation n. 5
+donkey n. 3
+donor n. 5
+doom n./v. 6
+door n. 1
+doorway n. 5
+依字母排序 E
+67
+dormitory/dorm n. 6
+dose n./v. 3
+dot n./v. 2
+double adj./v./n./adv. 2
+doubt n./v. 2
+doubtful adj. 3
+dough n. 5
+doughnut n. 3
+dove n. 2
+down adv./prep./adj./n./v. 1
+download v. 2
+downstairs adv./n./adj. 2
+downtown adj./adv./n. 3
+downward adj. 6
+downward/downwards
+adv. 6
+doze v./n. 6
+dozen n. 1
+draft n./v. 4
+drag v./n. 3
+dragon n. 2
+dragonfly n. 3
+drain v./n. 3
+drama n. 2
+dramatic adj. 3
+drastic adj. 6
+draught n. 6
+draw v./n. 1
+drawer n. 2
+drawing n. 2
+dread n./v. 4
+dreadful adj. 5
+dream n./v. 1
+dress n./v. 1
+dresser n. 6
+dressing n. 6
+drift v./n. 4
+drill n./v. 4
+drink v./n. 1
+drip n./v. 3
+drive v./n. 1
+driver n. 1
+driveway n. 5
+drop v./n. 1
+drought n. 5
+drown v. 3
+drowsy adj. 4
+drug n./v. 2
+drugstore n. 3
+drum n./v. 1
+drunk adj./n. 3
+dry adj./v. 1
+dryer n. 2
+dual adj. 6
+dubious adj. 6
+duck n./v. 1
+due adj./adv./n. 2
+dull adj./v. 2
+dumb adj. 3
+dump v./n. 3
+dumpling n. 3
+durable adj. 4
+duration n. 6
+during prep. 1
+dusk n. 6
+dust n./v. 3
+dusty adj. 4
+duty n. 2
+dwarf n./v. 6
+dwell v. 6
+dwelling n. 6
+dye n./v. 4
+dynamic adj. 4
+dynasty n. 4
+E
+each pron./adj./adv. 1
+eager adj. 3
+eagle n. 2
+ear n. 1
+early adj./adv. 1
+earn v. 2
+earnest adj./n. 4
+earphone n. 4
+earring(s) n. 2
+earth n. 1
+earthquake n. 2
+ease n./v. 2
+east n./adj./adv. 1
+eastern adj. 2
+easy adj. 1
+eat v. 1
+eccentric adj./n. 6
+echo n./v. 3
+eclipse n./v. 6
+ecological adj. 5
+ecology n. 5
+economic adj. 4
+economical adj. 4
+economics n. 4
+economist n. 4
+economy n. 4
+ecosystem n. 5
+edge n./v. 2
+edible adj. 6
+edit v. 3
+edition n. 2
+editor n. 3
+editorial adj./n. 6
+educate v. 3
+education n. 2
+educational adj. 3
+effect n./v. 2
+effective adj. 2
+efficiency n. 4
+efficient adj. 3
+effort n. 2
+egg n. 1
+ego n. 5
+either adv./pron./adj./conj. 1
+elaborate adj./v. 5
+高中英文參考詞彙表
+68
+elastic adj./n. 4
+elbow n./v. 3
+elder n./adj. 2
+elderly adj. 3
+elect v./adj. 3
+election n. 3
+electric adj. 2
+electrical adj. 2
+electrician n. 6
+electricity n. 3
+electronic adj. 3
+electronics n. 4
+elegant adj. 4
+element n. 3
+elementary adj. 4
+elephant n. 1
+elevate v. 6
+elevator n. 3
+eligible adj. 5
+eliminate v. 4
+eloquent adj. 5
+else adv. 1
+elsewhere adv. 4
+email n./v. 1
+embarrass(ment) v./(n.) 4
+embassy n. 4
+embrace v./n. 5
+emerge v. 4
+emergency n. 3
+emigrant n. 6
+emigrate v. 6
+emigration n. 6
+emission n. 5
+emotion n. 2
+emotional adj. 3
+emperor n. 3
+emphasis n. 4
+emphasize v. 2
+empire n. 4
+employ(ment) v./(n.) 2
+employee n. 2
+employer n. 2
+empty adj./v. 2
+enable v. 3
+enclose v. 4
+encounter n./v. 4
+encourage(ment) v./(n.) 2
+encyclopedia n. 6
+end n./v. 1
+endanger v. 4
+endeavor n./v. 6
+ending n. 2
+endorse(ment) v./(n.) 5
+endowment n. 6
+endurance n. 6
+endure v. 4
+enemy n. 2
+energetic adj. 3
+energy n. 2
+enforce(ment) v./(n.) 4
+engage(ment) v./(n.) 3
+engine n. 2
+engineer n. 1
+engineering n. 4
+enhance(ment) v./(n.) 6
+enjoy(ment) v./(n.) 1
+enjoyable adj. 3
+enlarge(ment) v./(n.) 4
+enlighten(ment) v./(n.) 6
+enormous adj. 4
+enough adv./adj./n. 1
+enrich(ment) v./(n.) 6
+enroll(ment) v./(n.) 6
+ensure v. 4
+enter v. 1
+enterprise n. 5
+entertain(ment) v./(n.) 4
+enthusiasm n. 4
+enthusiastic adj. 5
+entire adj. 2
+entitle v. 5
+entity n. 5
+entrance n. 2
+entrepreneur n. 5
+entry n. 3
+envelope n. 1
+envious adj. 5
+environment n. 2
+environmental adj. 2
+envision v. 5
+envy n./v. 3
+epidemic n./adj. 5
+episode n. 5
+equal adj./v./n. 2
+equality n. 4
+equalize v. 6
+equate v. 6
+equation n. 5
+equip(ment) v./(n.) 4
+equity n. 5
+equivalent n./adj. 5
+era n. 4
+erase v. 3
+eraser n. 1
+erect v./adj. 5
+errand n. 5
+error n. 1
+erupt v. 5
+escalator n. 5
+escape v./n. 2
+escort n./v. 6
+especially adv. 2
+essay n. 2
+essence n. 5
+essential adj./n. 4
+establish(ment) v./(n.) 4
+estate n. 5
+esteem n./v. 6
+estimate n./v. 4
+eternal adj. 5
+依字母排序 F
+69
+eternity n. 6
+ethic(s) n. 5
+ethical adj. 5
+ethnic adj./n. 4
+evacuate v. 6
+evaluate v. 4
+evaluation n. 4
+eve n. 2
+even adv./adj./v. 1
+evening n. 1
+event n. 2
+eventual adj. 4
+ever adv. 1
+evergreen adj./n. 6
+every adj. 1
+everyone/everybody
+pron. 1
+everything pron. 1
+evidence n./v. 4
+evident adj. 4
+evil n./adj. 2
+evoke v. 6
+evolution n. 5
+evolve v. 5
+exact adj. 2
+exaggerate v. 4
+exaggeration n. 5
+examination/exam n. 2
+examine v. 2
+examinee n. 6
+examiner n. 6
+example n. 1
+exceed v. 5
+excel v. 6
+excellence n. 3
+excellent adj. 1
+except prep./conj. 1
+exception n. 4
+exceptional adj. 5
+excerpt n./v. 6
+excess adj./n. 6
+excessive adj. 5
+exchange n./v. 3
+excite(ment) v./(n.) 2
+excited adj. 1
+exciting adj. 1
+exclaim v. 5
+exclude v. 5
+exclusion n. 6
+exclusive adj. 5
+excuse v./n. 2
+execute v. 5
+execution n. 5
+executive n./adj. 5
+exempt adj. 6
+exercise n./v. 1
+exert v. 6
+exhaust n./v. 4
+exhibit n./v. 4
+exhibition n. 3
+exile n./v. 5
+exist v. 2
+existence n. 2
+exit n./v. 2
+exotic adj./n. 5
+expand v. 4
+expansion n. 4
+expect v. 1
+expectation n. 3
+expedition n. 5
+expenditure n. 6
+expense n. 2
+expensive adj. 1
+experience n./v. 1
+experiment n./v. 3
+experimental adj. 4
+expert n./adj. 2
+expertise n. 5
+expiration n. 6
+expire v. 6
+explain v. 1
+explanation n. 4
+explicit adj. 5
+explode v. 3
+exploit v./n. 5
+exploration n. 5
+explore v. 3
+explosion n. 4
+explosive adj./n. 4
+export n./v. 3
+expose v. 4
+exposure n. 4
+express v./adj./adv./n. 2
+expression n. 2
+expressive adj. 3
+extend v. 4
+extension n. 5
+extensive adj. 5
+extent n. 4
+exterior n./adj. 5
+external adj./n. 5
+extinct adj. 5
+extra adj./adv./n. 2
+extract n./v. 6
+extracurricular adj. 6
+extraordinary adj. 5
+extreme adj./n. 3
+eye n. 1
+eyebrow/brow n. 2
+eyelash/lash n. 6
+eyelid n. 6
+eyesight n. 6
+F
+fable n. 6
+fabric n. 5
+fabulous adj. 5
+face n./v. 1
+facial adj. 4
+facilitate v. 5
+facility n. 4
+高中英文參考詞彙表
+70
+fact n. 1
+faction n. 6
+factor n. 2
+factory n. 1
+faculty n. 5
+fade v. 3
+Fahrenheit n. 6
+fail v./n. 1
+failure n. 2
+faint adj./v./n. 3
+fair adj./n./adv. 2
+fairly adv. 3
+fairy n./adj. 3
+faith n. 3
+faithful adj. 4
+fake adj./v./n. 3
+fall n./v. 1
+false adj. 2
+falter v. 6
+fame n. 4
+familiar adj. 3
+familiarity n. 6
+family n. 1
+famous adj. 1
+fan n./v. 1
+fancy adj./n./v. 3
+fantastic adj. 4
+fantasy n. 4
+far adv./adj. 1
+fare n. 3
+farewell n. 4
+farm n./v. 1
+farmer n. 1
+farther adv./adj. 3
+fascinate v. 5
+fascination n. 6
+fashion n./v. 2
+fashionable adj. 3
+fast adv./adj. 1
+fasten v. 4
+fat n./adj. 1
+fatal adj. 4
+fate n. 2
+father n. 1
+fatigue n./v. 5
+faucet n. 3
+fault n./v. 2
+favor n./v. 2
+favorable adj. 4
+favorite adj./n. 2
+fax n./v. 4
+fear n./v. 2
+fearful adj. 3
+feasible adj. 6
+feast n./v. 4
+feather n. 3
+feature n./v. 2
+federal adj. 5
+fee n. 2
+feeble adj. 6
+feed v./n. 1
+feedback n. 4
+feel v./n. 1
+feeling n. 2
+fellow n. 2
+female adj./n. 2
+feminine adj./n. 6
+fence n. 3
+ferry n./v. 4
+fertile adj. 4
+fertility n. 6
+fertilizer n. 6
+festival n. 1
+fetch v./n. 4
+fever n. 2
+few adj./pron. 1
+fiancé/fiance n. 6
+fiber n. 5
+fiction n. 4
+field n. 2
+fierce adj. 4
+fight v./n. 1
+fighter n. 3
+figure n./v. 2
+file n./v. 1
+fill v./n. 1
+filter n./v. 5
+fin n. 6
+final adj./n. 2
+finally adv. 1
+finance n./v. 4
+financial adj. 4
+find v./n. 1
+fine adj./adv./v./n. 1
+finger n./v. 1
+finish v./n. 1
+finite adj. 6
+fire n./v. 1
+firecracker n. 6
+fireman/firewoman n. 2
+fireplace n. 4
+fireproof adj. 6
+firework n. 3
+firm n./adj./v./adv. 2
+first n./adv./adj. 1
+fiscal adj. 5
+fish n./v. 1
+fisherman n. 2
+fishery n. 6
+fist n./v. 3
+fit v./adj./n./adv. 2
+fix v./n. 2
+flag n. 2
+flake n./v. 6
+flame n./v. 3
+flash n./v. 3
+flashlight n. 3
+flat adj./adv./n. 2
+flatter v. 4
+flavor n./v. 3
+依字母排序 F
+71
+flaw n./v. 6
+flea n. 4
+flee v. 4
+fleet n. 5
+flesh n. 3
+flexibility n. 5
+flexible adj. 4
+flight n. 2
+flip v./n. 5
+float v./n. 3
+flock n./v. 3
+flood n./v. 3
+floor n./v. 1
+flour n. 3
+flourish v./n. 6
+flow n./v. 2
+flower n./v. 1
+flu n. 2
+fluency n. 5
+fluent adj. 4
+fluid n./adj. 5
+flunk v./n. 6
+flush v./n. 4
+flute n. 3
+fly v./n. 1
+foam n./v. 4
+focus n./v. 2
+foe n. 6
+fog n./v. 2
+foggy adj. 3
+fold v./n. 3
+folk n. 2
+folklore n. 6
+follow v. 1
+follower n. 3
+following adj./prep./n. 2
+fond adj. 3
+food n. 1
+fool n./v. 1
+foolish adj. 2
+foot n./v. 1
+football n. 2
+for prep./conj. 1
+forbid v. 4
+force n./v. 2
+forecast n./v. 4
+foreign adj. 1
+foreigner n. 1
+forest n. 2
+forever adv. 3
+forge v. 5
+forget v. 1
+forgive v. 2
+fork n. 1
+form n./v. 2
+formal adj. 2
+format n./v. 5
+formation n. 4
+former adj. 2
+formidable adj. 6
+formula n. 4
+formulate v. 6
+forsake v. 6
+fort n. 4
+forth adv. 2
+forthcoming adj. 6
+fortify v. 6
+fortunate adj. 4
+fortune n. 3
+forum n. 5
+forward adj./n./v. 2
+forward/forwards adv. 2
+fossil n./adj. 4
+foster adj./v. 5
+foul adj./n./v./adv. 5
+found v. 2
+foundation n. 4
+founder n. 4
+fountain n. 3
+fowl n. 6
+fox n. 2
+fraction n. 5
+fracture n./v. 6
+fragile adj. 4
+fragment n./v. 5
+fragrance n. 6
+fragrant adj. 6
+frame n./v. 4
+framework n. 5
+franchise n. 5
+frank adj. 3
+frantic adj. 6
+fraud n. 5
+freak n./v. 6
+free adj./v./adv. 1
+freedom n. 2
+freeway n. 6
+freeze v./n. 3
+freezer n. 3
+freight n./v. 5
+frequency n. 4
+frequent adj./v. 3
+fresh adj. 1
+freshman n. 4
+friction n. 6
+friend n. 1
+friendly adj. 1
+friendship n. 2
+fries n. 2
+fright n. 3
+frighten v. 3
+frog n. 1
+from prep. 1
+front adj./n. 1
+frontier n. 5
+frost n./v. 4
+frown n./v. 4
+fruit n. 1
+frustrate v. 4
+frustration n. 4
+高中英文參考詞彙表
+72
+fry v./n.
+2
+fuel n./v.
+3
+fulfill(ment) v./(n.)
+4
+full adj.
+1
+fume v./n.
+6
+fun n.
+1
+function n./v.
+2
+functional adj.
+4
+fund n./v.
+3
+fundamental adj./n.
+4
+funeral n.
+4
+funny adj.
+1
+fur n.
+3
+furious adj.
+4
+furnish v.
+4
+furniture n.
+2
+further adv./adj./v.
+2
+furthermore adv.
+4
+fury n.
+6
+fuse n./v.
+6
+fuss n./v.
+6
+future n./adj.
+1
+G
+gain v./n.
+2
+galaxy n.
+5
+gallery n.
+4
+gallon n.
+3
+gallop n./v.
+6
+gamble n./v.
+3
+game n.
+1
+gang n./v.
+3
+gangster n.
+6
+gap n.
+3
+garage n.
+3
+garbage n.
+2
+garden n./v.
+1
+gardener n.
+2
+garlic n.
+2
+garment n.
+6
+gasoline/gas n.
+3
+gasp n./v.
+5
+gate n.
+1
+gather v.
+2
+gathering n.
+5
+gauge n./v.
+6
+gay adj./n.
+6
+gaze n./v.
+4
+gear n./v.
+4
+gender n.
+4
+gene n.
+4
+general adj./n.
+2
+generate v.
+5
+generation n.
+4
+generator n.
+5
+generosity n.
+4
+generous adj.
+2
+genetic adj.
+5
+genetics n.
+5
+genius n.
+4
+genre n.
+5
+gentle adj.
+2
+gentleman n.
+2
+genuine adj.
+4
+geographical adj.
+6
+geography n.
+3
+geometry n.
+6
+germ n.
+4
+gesture n./v.
+3
+get v.
+1
+ghost n.
+1
+giant adj./n.
+1
+gift n.
+1
+gifted adj.
+4
+gigantic adj.
+4
+giggle n./v.
+4
+ginger n.
+4
+giraffe n.
+2
+girl n.
+1
+give v.
+1
+glacier n.
+6
+glad adj.
+1
+glamorous adj.
+6
+glamour n.
+6
+glance n./v.
+3
+glare n./v.
+5
+glass n.
+1
+glasses n.
+1
+gleam n./v.
+6
+glide v./n.
+6
+glimpse n./v.
+4
+glitter n./v.
+6
+global adj.
+3
+globe n.
+4
+gloom n./v.
+6
+gloomy adj.
+5
+glorious adj.
+4
+glory n.
+3
+glove(s) n.
+1
+glow n./v.
+3
+glue n./v.
+2
+go v./n.
+1
+goal n.
+2
+goalkeeper n.
+6
+goat n.
+2
+god/goddess n.
+1
+gold n./adj.
+2
+golden adj.
+2
+golf n./v.
+3
+good adj./adv./n.
+1
+goodbye n.
+1
+goods n.
+4
+goodwill n.
+6
+goose n.
+2
+gorgeous adj.
+5
+gorilla n.
+6
+gospel n.
+6
+gossip n./v.
+3
+govern v.
+2
+government n.
+2
+governor n.
+3
+依字母排序 H
+73
+gown n. 4
+grab v./n. 3
+grace n./v. 4
+graceful adj. 4
+gracious adj. 4
+grade n./v. 1
+gradual adj. 2
+graduate n./v. 3
+graduation n. 4
+grain n. 2
+gram n. 2
+grammar n. 4
+grammatical adj. 4
+grand adj. 2
+grandfather n. 1
+grandmother n. 1
+grant n./v. 5
+grape n. 2
+grapefruit n. 6
+graph n./v. 4
+graphic adj./n. 5
+grasp v./n. 3
+grass n. 1
+grasshopper n. 3
+grassy adj. 3
+grateful adj. 4
+gratitude n. 4
+grave n./adj. 4
+gravity n. 5
+gray adj./n./v. 1
+graze v. 6
+grease n./v. 6
+greasy adj. 4
+great adj./n. 1
+greed n. 5
+greedy adj. 3
+green adj./n./v. 1
+greenhouse n. 3
+greet v. 2
+greeting(s) n. 4
+grief n. 4
+grieve v. 5
+grill n./v. 5
+grim adj. 5
+grin n./v. 3
+grind v./n. 4
+grip n./v. 5
+groan n./v. 6
+grocery n. 3
+gross adj./v./n. 5
+ground n./v. 1
+group n./v. 1
+grow v. 1
+growl n./v. 6
+growth n. 2
+grumble v./n. 6
+guarantee v./n. 4
+guard n./v. 2
+guardian n. 4
+guava n. 2
+guess v./n. 1
+guest n. 2
+guidance n. 3
+guide n./v. 2
+guideline n. 5
+guilt n. 4
+guilty adj. 4
+guitar n. 1
+gulf n. 4
+gum n. 3
+gun n./v. 2
+gut n./v. 5
+guy n. 1
+gymnasium/gym n. 2
+H
+habit n. 1
+habitat n. 5
+habitual adj. 4
+hacker n. 6
+hail n./v. 6
+hair n. 1
+haircut n. 2
+hairdresser n. 3
+half n./adv./adj. 1
+hall n. 2
+hallway n. 3
+halt n./v. 4
+ham n. 1
+hamburger/burger n. 2
+hammer n./v. 3
+hamper v. 6
+hand n./v. 1
+handful n. 3
+handicap n./v. 6
+handicraft n. 6
+handkerchief n. 3
+handle v./n. 2
+handsome adj. 2
+handwriting n. 4
+handy adj. 3
+hang v. 1
+hanger n. 3
+happen v. 1
+happy adj. 1
+harass(ment) v./(n.) 6
+harbor n./v. 3
+hard adj./adv. 1
+harden v. 6
+hardly adv. 2
+hardship n. 4
+hardware n. 4
+harm n./v. 3
+harmful adj. 3
+harmonica n. 6
+harmony n. 4
+harness n./v. 6
+harsh adj. 4
+harvest n./v. 3
+haste n. 4
+hasten v. 4
+高中英文參考詞彙表
+74
+hasty adj. 3
+hat n. 1
+hatch n./v. 3
+hate v./n. 1
+hateful adj. 3
+hatred n. 4
+haul v./n. 5
+haunt v./n. 6
+have aux./v. 1
+hawk n. 4
+hay n. 3
+hazard n./v. 5
+he (him, his, himself)
+pron. 1
+head n./v. 1
+headache n. 1
+headline n./v. 3
+headphone(s) n. 6
+headquarters n. 3
+heal v. 3
+health n. 1
+healthful adj. 6
+healthy adj. 1
+heap n./v. 3
+hear v. 1
+heart n. 1
+hearty adj. 6
+heat n./v. 1
+heater n. 3
+heaven n. 2
+heavy adj. 1
+hedge n./v. 6
+heel n./v. 3
+height n. 1
+heighten v. 6
+heir n. 5
+helicopter n. 4
+hell n. 3
+hello n. 1
+helmet n. 3
+help v./n. 1
+helpful adj. 1
+hemisphere n. 6
+hen n. 1
+hence adv. 5
+herb n. 5
+herd n./v. 4
+here adv./n. 1
+heritage n. 5
+hero/heroine n. 2
+heroic adj./n. 6
+heroin n. 6
+hesitate v. 3
+hesitation n. 4
+heterosexual adj./n. 6
+hide v. 1
+hierarchy n. 6
+high adj./adv./n. 1
+highlight v./n. 5
+highly adv. 2
+highway n. 2
+hijack v./n. 6
+hike n./v. 2
+hill n. 1
+hint n./v. 3
+hip n. 2
+hippopotamus/hippo n.
+2
+hire v./n. 3
+historian n. 3
+historic adj. 3
+historical adj. 2
+history n. 1
+hit v./n. 1
+hive n. 4
+hoarse adj. 6
+hobby n. 1
+hockey n. 5
+hold v./n. 1
+holder n. 3
+hole n. 2
+holiday n. 1
+hollow adj./n./v. 3
+holy adj. 3
+home n./adv./v./adj. 1
+homeland n. 4
+homesick adj. 3
+hometown n. 3
+homework n. 1
+homosexual adj./n. 6
+honest adj. 1
+honesty n. 3
+honey n. 1
+honeymoon n./v. 4
+honor n./v. 3
+honorable adj. 5
+honorary adj. 6
+hook n./v. 4
+hop v./n. 2
+hope v./n. 1
+hopeful adj. 3
+horizon n. 4
+horizontal adj./n. 5
+hormone n. 5
+horn n. 3
+horrible adj. 3
+horrify v. 4
+horror n. 3
+horse n. 1
+hose n./v. 4
+hospitable adj. 6
+hospital n. 1
+hospitality n. 6
+hospitalize v. 6
+host/hostess n. 2
+hostage n. 5
+hostel n. 6
+hostile adj. 5
+hostility n. 5
+hot adj. 1
+依字母排序 I
+75
+hotel n. 1
+hour n. 1
+hourly adj./adv. 3
+house n./v. 1
+household n. 4
+housekeeper n. 3
+housewife n. 1
+housework n. 4
+housing n. 5
+hover v./n. 6
+how adv. 1
+however adv. 1
+howl n./v. 5
+hug n./v. 3
+huge adj. 2
+hum v. 3
+human adj./n. 2
+humanity n. 4
+humble adj. 2
+humid adj. 3
+humidity n. 4
+humiliate v. 6
+humor n. 3
+humorous adj. 3
+hunch n./v. 6
+hundred n./adj. 1
+hunger n. 3
+hungry adj. 1
+hunt v./n. 2
+hunter n. 2
+hurdle n./v. 6
+hurricane n. 4
+hurry v./n. 2
+hurt v./n. 1
+husband n. 1
+hush n./v. 4
+hut n. 3
+hybrid adj./n. 6
+hydrogen n. 4
+hygiene n. 6
+hypocrite n. 6
+hypothesis n. 5
+I
+I (me, my, mine, myself)
+pron. 1
+ice n. 1
+iceberg n. 6
+icon n. 5
+icy adj. 3
+idea n. 1
+ideal adj./n. 2
+identical adj. 4
+identification n. 4
+identify v. 4
+identity n. 2
+ideology n. 5
+idiom n. 4
+idiot n. 5
+idle adj./v. 4
+idol n. 4
+if conj. 1
+ignorance n. 4
+ignorant adj. 4
+ignore v. 2
+ill adj./adv./n. 2
+illuminate v. 6
+illusion n. 5
+illustrate v. 4
+illustration n. 4
+image n. 2
+imaginary adj. 4
+imagination n. 3
+imaginative adj. 4
+imagine v. 2
+imitate v. 4
+imitation n. 4
+immediate adj. 3
+immense adj. 5
+immigrant n. 4
+immigrate v. 4
+immigration n. 4
+imminent adj. 6
+immune adj. 5
+impact n./v. 4
+imperative adj./n. 6
+imperial adj. 6
+implement v./n. 5
+implication n. 5
+implicit adj. 6
+imply v. 4
+import n./v. 3
+importance n. 2
+important adj. 1
+impose v. 4
+imposing adj. 6
+impress v. 3
+impression n. 4
+impressive adj. 2
+imprison(ment) v./(n.) 6
+improve(ment) v./(n.) 2
+impulse n. 5
+in prep./adv./adj. 1
+incentive n./adj. 5
+inch n. 1
+incident n. 4
+incline v./n. 6
+include v. 2
+including prep. 4
+inclusive adj. 6
+income n. 2
+incorporate v. 5
+increase v./n. 2
+incredible adj. 4
+incur v. 6
+indeed adv. 2
+independence n. 2
+independent adj. 2
+index n./v. 5
+indicate v. 2
+indication n. 4
+高中英文參考詞彙表
+76
+indifference n. 6
+indifferent adj. 5
+indigenous adj. 5
+indignant adj. 6
+indispensable adj. 5
+individual adj./n. 2
+indoor adj. 3
+indoors adv. 3
+induce v. 6
+indulge v. 5
+industrial adj. 3
+industrialize v. 6
+industry n. 2
+inevitable adj. 5
+infant n. 4
+infect v. 5
+infection n. 4
+infectious adj. 6
+infer v. 6
+inferior adj./n. 3
+infinite adj. 5
+inflation n. 4
+inflict v. 6
+influence n./v. 2
+influential adj. 4
+inform v. 3
+information n. 3
+informative adj. 4
+infrastructure n. 5
+ingredient n. 4
+inhabit v. 6
+inhabitant n. 6
+inherent adj. 5
+inherit v. 5
+initial adj./n./v. 4
+initiate v./adj./n. 5
+initiative n./adj. 5
+inject v. 5
+injection n. 5
+injure v. 4
+injury n. 3
+injustice n. 6
+ink n./v. 2
+inland adj./adv./n. 6
+inn n. 3
+inner adj. 3
+inning n. 5
+innocence n. 4
+innocent adj. 3
+innovation n. 5
+innovative adj. 5
+innumerable adj. 6
+input n./v. 4
+inquire v. 6
+inquiry n. 5
+insane adj. 5
+insect n. 1
+insert v./n. 4
+inside prep./adv./n./adj. 1
+insight n. 5
+insist v. 2
+insistence n. 6
+inspect v. 3
+inspection n. 4
+inspector n. 3
+inspiration n. 4
+inspire v. 4
+install v. 4
+installation n. 5
+instance n. 2
+instant adj./n. 2
+instead adv. 2
+instinct n. 4
+instinctive adj. 6
+institute n./v. 5
+institution n. 5
+instruct v. 4
+instruction n. 2
+instructor n. 4
+instrument n. 2
+insult n./v. 4
+insurance n. 4
+intact adj. 5
+intake n. 6
+integrate v. 5
+integration n. 5
+integrity n. 5
+intellect n. 6
+intellectual adj./n. 4
+intelligence n. 4
+intelligent adj. 3
+intend v. 4
+intense adj. 4
+intensify v. 5
+intensity n. 4
+intensive adj. 4
+intent n./adj. 5
+intention n. 4
+interact v. 4
+interaction n. 4
+interest n./v. 1
+interested adj. 1
+interesting adj. 1
+interfere v. 4
+interference n. 5
+interior adj./n. 5
+intermediate adj./n./v. 4
+internal adj. 2
+international adj. 2
+Internet/internet n. 2
+interpret v. 4
+interpretation n. 5
+interpreter n. 6
+interrupt v. 3
+interruption n. 4
+intersection n. 6
+interval n. 5
+intervene v. 6
+intervention n. 5
+interview n./v. 1
+依字母排序
+J
+77
+intimacy n.
+6
+intimate adj./n.
+4
+intimidate v.
+6
+into prep.
+1
+intonation n.
+6
+intrigue n./v.
+6
+introduce v.
+2
+introduction n.
+2
+intrude v.
+6
+intruder n.
+6
+intuition n.
+4
+invade v.
+4
+invaluable adj.
+6
+invariably adv.
+6
+invasion n.
+4
+invent v.
+3
+invention n.
+4
+inventor n.
+3
+inventory n./v.
+6
+invest(ment) v./(n.)
+4
+investigate v.
+3
+investigation n.
+4
+investigator n.
+5
+invitation n.
+3
+invite v.
+1
+involve(ment) v./(n.)
+4
+iron n./v./adj.
+2
+ironic adj.
+6
+irony n.
+5
+irritable adj.
+6
+irritate v.
+6
+island n.
+1
+isle n.
+6
+isolate v.
+4
+isolation n.
+4
+issue n./v.
+4
+it (its, itself) pron.
+1
+itch n./v.
+6
+item n.
+1
+ivory n./adj.
+3
+ivy n.
+6
+J
+jacket n.
+1
+jade n.
+6
+jail n./v.
+3
+jam n./v.
+2
+janitor n.
+6
+jar n.
+3
+jasmine n.
+6
+jaw n.
+3
+jazz n.
+3
+jealous adj.
+3
+jealousy n.
+4
+jeans n.
+1
+jeep n.
+3
+jelly n.
+3
+jet n./v.
+3
+jewel n.
+3
+jewelry n.
+3
+jingle n./v.
+6
+job n.
+1
+jockey n./v.
+6
+jog v./n.
+2
+join v./n.
+1
+joint adj./n.
+2
+joke n./v.
+1
+jolly adj./adv./v./n.
+6
+journal n.
+2
+journalism n.
+5
+journalist n.
+5
+journey n./v.
+3
+joy n.
+1
+joyful adj.
+3
+joyous adj.
+6
+judge n./v.
+2
+judgment/judgement n. 2
+judicial adj.
+5
+jug n./v.
+5
+juice n.
+1
+juicy adj.
+3
+jump v./n.
+1
+junction n.
+6
+jungle n.
+3
+junior adj./n.
+3
+junk n./v.
+3
+jury n.
+5
+just adv./adj.
+1
+justice n.
+2
+justify v.
+5
+juvenile adj./n.
+5
+K
+kangaroo n.
+3
+keen adj.
+4
+keep v./n.
+1
+keeper n.
+2
+ketchup n.
+2
+kettle n.
+4
+key adj./n./v.
+1
+keyboard n.
+3
+kick v./n.
+1
+kid n./v.
+1
+kidnap v.
+5
+kidney n.
+3
+kill v./n.
+1
+kilogram n.
+2
+kilometer n.
+3
+kin n./adj.
+6
+kind adj./n.
+1
+kindergarten n.
+3
+kindle v.
+6
+king n.
+1
+kingdom n.
+3
+kiss n./v.
+1
+kit n.
+3
+kitchen n.
+1
+kite n.
+1
+knee n./v.
+1
+kneel v.
+4
+knife n./v.
+1
+高中英文參考詞彙表
+78
+knight n.
+3
+knit v./n.
+3
+knob n.
+4
+knock v./n.
+1
+knot n./v.
+3
+know v.
+1
+knowledge n.
+1
+knowledgeable adj.
+6
+koala n.
+3
+L
+label n./v.
+3
+labor n./v.
+4
+laboratory/lab n.
+4
+lace n./v.
+3
+lack n./v.
+2
+lad n.
+6
+ladder n.
+3
+lady n.
+2
+ladybug n.
+2
+lag n./v.
+4
+lake n.
+1
+lamb n./v.
+2
+lamp n.
+1
+land n./v.
+1
+landlady n.
+6
+landlord n.
+5
+landmark n.
+4
+landscape n./v.
+4
+landslide n.
+6
+lane n.
+2
+language n.
+1
+lantern n.
+2
+lap n.
+2
+large adj.
+1
+largely adv.
+4
+laser n.
+5
+last n./v./adv./adj.
+1
+late adj./adv.
+1
+lately adv.
+3
+later adv.
+1
+latest adj.
+2
+latitude n.
+6
+latter adj.
+2
+laugh v./n.
+1
+laughter n.
+3
+launch v./n.
+4
+laundry n.
+3
+lavish adj.
+6
+law n.
+2
+lawful adj.
+4
+lawmaker n.
+5
+lawn n.
+3
+lawsuit n.
+5
+lawyer n.
+1
+lay v.
+2
+layer n./v.
+5
+layman n.
+6
+layout n.
+6
+lazy adj.
+1
+lead v./n.
+1
+leader n.
+1
+leadership n.
+2
+leaf n.
+2
+league n./v.
+5
+leak n./v.
+3
+lean v./adj.
+4
+leap n./v.
+3
+learn v.
+1
+learned adj.
+4
+learning n.
+3
+lease n.
+6
+least adv./pron./adj.
+1
+leather n.
+3
+leave v./n.
+1
+lecture n./v.
+4
+lecturer n.
+4
+left adj./n./adv.
+1
+leg n.
+1
+legacy n.
+5
+legal adj.
+2
+legend n.
+4
+legendary adj.
+5
+legislation n.
+5
+legislative adj.
+5
+legislator n.
+6
+legitimate adj./v.
+5
+leisure n.
+3
+leisurely adj./adv.
+4
+lemon n.
+1
+lemonade n.
+3
+lend v.
+2
+length n.
+2
+lengthen v.
+4
+lengthy adj.
+6
+lens n.
+2
+leopard n.
+3
+lesbian adj.
+6
+less pron./adv./adj./prep.
+1
+lessen v.
+6
+lesson n.
+1
+lest conj.
+5
+let v.
+1
+lethal adj.
+6
+letter n.
+1
+lettuce n.
+3
+level n./adj.
+1
+liability n.
+5
+liable adj.
+6
+liar n.
+4
+liberal adj.
+2
+liberate v.
+6
+liberation n.
+6
+liberty n.
+3
+librarian n.
+4
+library n.
+1
+license n./v.
+4
+lick v./n.
+3
+lid n.
+2
+lie v./n.
+1
+lieutenant n.
+6
+依字母排序
+M
+79
+life n.
+1
+lifeguard n.
+4
+lifelong adj.
+6
+lifetime n.
+3
+lift v./n.
+2
+light n./adj./v./adv.
+1
+lighten v.
+6
+lighthouse n.
+3
+lightning n.
+3
+like prep./v./n.
+1
+likelihood n.
+5
+likely adj./adv.
+2
+likewise adv.
+5
+lily n.
+3
+limb n.
+3
+limit n./v.
+2
+limitation n.
+4
+limp n./v.
+6
+line n./v.
+1
+linen n.
+4
+liner n.
+6
+linger v.
+6
+lining n.
+6
+link n./v.
+2
+lion n.
+1
+lip n.
+1
+lipstick n.
+4
+liquid n.
+2
+liquor n.
+4
+list n./v.
+1
+listen v.
+1
+listener n.
+2
+liter n.
+6
+literacy n.
+6
+literal adj.
+6
+literary adj.
+4
+literate adj./n.
+6
+literature n.
+4
+litter n./v.
+3
+little adj./adv./n.
+1
+live v./adj.
+1
+lively adj.
+3
+liver n.
+2
+livestock n.
+6
+lizard n.
+6
+load n./v.
+2
+loaf n.
+3
+loan n./v.
+4
+lobby n.
+3
+lobster n.
+4
+local adj./n.
+2
+locate v.
+3
+location n.
+3
+lock n./v.
+3
+locker n.
+6
+lodge n./v.
+6
+lofty adj.
+6
+log n./v.
+3
+logic n.
+4
+logical adj.
+4
+logo n.
+6
+lollipop n.
+3
+lone adj.
+2
+lonely adj.
+1
+lonesome adj.
+6
+long adj./adv./v.
+1
+longevity n.
+6
+longitude n.
+6
+look v./n.
+1
+loop n.
+5
+loose adj.
+3
+loosen v.
+4
+lord n.
+3
+lose v.
+1
+loser n.
+3
+loss n.
+2
+lot n.
+1
+lotion n.
+6
+lottery n.
+6
+lotus n.
+6
+loud adv./adj.
+1
+loudspeaker n.
+6
+lounge n./v.
+5
+lousy adj.
+4
+love n./v.
+1
+lovely adj.
+1
+lover n.
+3
+low adj./adv./n.
+1
+lower v.
+2
+loyal adj.
+4
+loyalty n.
+4
+luck n.
+2
+lucky adj.
+1
+lucrative adj.
+6
+luggage n.
+3
+lullaby n.
+6
+lump n./v.
+5
+lunar adj.
+6
+lunch n./v.
+1
+lung n.
+3
+lure n./v.
+6
+lush adj.
+6
+luxurious adj.
+4
+luxury n.
+4
+M
+machine n./v.
+1
+machinery n.
+4
+mad adj.
+1
+madam/ma’am n.
+6
+magazine n.
+2
+magic adj./n.
+1
+magical adj.
+3
+magician n.
+3
+magnet n.
+3
+magnetic adj.
+4
+magnificent adj.
+4
+magnify v.
+6
+maid n.
+3
+maiden adj./n.
+6
+mail n./v.
+1
+高中英文參考詞彙表
+80
+main adj./n. 1
+mainland n. 6
+mainstream n. 5
+maintain v. 2
+maintenance n. 5
+majestic adj. 6
+majesty n. 6
+major adj./n./v. 2
+majority n. 3
+make v. 1
+makeup n. 4
+male adj./n. 2
+mall n. 3
+mammal n. 5
+man n./v. 1
+manage(ment) v./(n.) 2
+manager n. 2
+mandate n. 5
+mango n. 2
+manifest v./adj. 5
+manipulate v. 5
+mankind/humankind n.
+3
+manner n. 2
+mansion n. 5
+manual n./adj. 4
+manufacture n./v. 4
+manufacturer n. 4
+manuscript n. 6
+many adj./pron. 1
+map n./v. 1
+maple n. 6
+mar v. 6
+marathon n. 4
+marble n. 3
+march n./v. 3
+margin n. 4
+marginal adj. 6
+marine adj./n. 5
+mark n./v. 1
+marker n. 3
+market n./v. 1
+marriage n. 2
+married adj. 1
+marry v. 2
+martial adj. 6
+marvel n./v. 6
+marvelous adj. 3
+masculine adj./n. 5
+mask n./v. 2
+mass n. 2
+massage n./v. 5
+massive adj. 5
+master n./v. 2
+masterpiece n. 5
+mastery n. 6
+mat n. 2
+match n. 2
+mate n./v. 2
+material n. 2
+mathematical adj. 3
+mathematics/math n. 1
+matter n./v. 1
+mattress n. 5
+mature adj. 2
+maturity n. 4
+maximum adj./n. 4
+may aux. 1
+maybe adv. 1
+mayor n. 3
+meadow n. 3
+meal n. 1
+mean v./adj. 1
+meaning n. 2
+meaningful adj. 3
+means n. 2
+meantime n./adv. 5
+meanwhile n./adv. 3
+measurable adj. 4
+measure(ment) v./(n.) 2
+measure(s) n. 4
+meat n. 1
+mechanic n. 4
+mechanical adj. 4
+mechanism n. 5
+medal n. 3
+media n. 1
+mediate v. 6
+medical adj. 2
+medication n. 5
+medicine n. 1
+medieval adj. 6
+meditate v. 6
+meditation n. 6
+medium adj. 1
+medium/media n. 3
+meet v. 1
+meeting n. 1
+melancholy n./adj. 6
+melody n. 2
+melon n. 3
+melt v. 3
+member n. 1
+membership n. 2
+memorable adj. 4
+memorial adj./n. 4
+memorize v. 4
+memory n. 2
+mend v. 3
+mental adj. 3
+mentality n. 6
+mention v./n. 2
+mentor n. 5
+menu n. 1
+merchandise n./v. 6
+merchant n. 4
+mercy n. 4
+mere adj. 4
+merge v. 5
+merit n. 4
+依字母排序 M
+81
+mermaid n. 6
+merry adj. 3
+mess n./v. 3
+message n. 2
+messenger n. 4
+messy adj. 4
+metal n./adj. 2
+metaphor n. 5
+meter n. 2
+method n. 2
+metropolitan adj./n. 5
+microphone/mike n. 3
+microscope n. 4
+microwave n./v. 3
+middle adj./n. 1
+midnight n. 2
+midst n./prep. 5
+mighty adj. 3
+migrant n./adj. 6
+migration n. 5
+mild adj. 4
+mile n. 2
+milestone n. 5
+military adj./n. 2
+milk n. 1
+mill n./v. 4
+million n. 1
+millionaire n. 4
+mimic v./n. 6
+mind n./v. 1
+mine n./v. 1
+miner n. 4
+mineral n. 4
+mingle v. 6
+miniature adj./n. 5
+minimal adj. 5
+minimize v. 5
+minimum adj./n. 4
+minister n. 4
+ministry n. 4
+minor adj./n. 2
+minority n. 2
+mint n. 5
+minus prep./n./adj. 3
+minute n. 1
+miracle n. 3
+miraculous adj. 6
+mirror n./v. 2
+miscellaneous adj. 6
+mischief n. 4
+mischievous adj. 6
+miserable adj. 4
+misery n. 3
+misfortune n. 4
+mislead v. 4
+miss v./n. 1
+missile n. 3
+missing adj. 3
+mission n. 3
+missionary n./adj. 5
+mist n./v. 3
+mistake n./v. 1
+mistress n. 6
+misunderstand v. 4
+mix n./v. 2
+mixture n. 2
+moan n./v. 5
+mob n./v. 3
+mobile adj. 3
+mobilize v. 6
+mock adj./v./n. 5
+mode n. 5
+model n./v. 2
+moderate adj. 4
+modern adj. 1
+modernization n. 6
+modernize v. 6
+modest adj. 4
+modesty n. 4
+modify v. 5
+moist adj. 3
+moisture n. 3
+molecule n. 5
+moment n. 1
+momentum n. 6
+monarch n. 6
+monetary adj. 6
+money n. 1
+monitor n./v. 4
+monk n. 3
+monkey n. 1
+monopoly n. 5
+monotony n. 6
+monster n. 3
+monstrous adj. 6
+month n. 1
+monthly adj./adv./n. 3
+monument n. 4
+mood n. 2
+moody adj. 6
+moon n. 1
+mop n./v. 2
+moral adj./n. 3
+morale n. 6
+morality n. 5
+more adj./pron./adv. 1
+moreover adv. 4
+morning n. 1
+mortal adj./n. 6
+mortality n. 5
+mortgage n. 5
+mosquito n. 3
+most adv./pron./adj. 1
+mostly adv. 3
+motel n. 3
+moth n. 3
+mother n. 1
+motherhood n. 6
+motion n. 2
+motivate v. 4
+高中英文參考詞彙表
+82
+motivation n.
+4
+motive n.
+5
+motor n.
+3
+motorcycle n.
+2
+motto n.
+6
+mound n./v.
+6
+mount n./v.
+5
+mountain n.
+1
+mountainous adj.
+4
+mourn v.
+6
+mournful adj.
+6
+mouse n.
+1
+mouth n./v.
+1
+move(ment) v./(n.)
+1
+movie/film n.
+1
+mow v.
+6
+Mr./Mister n.
+1
+Mrs. n.
+1
+Ms. n.
+1
+much adj./pron./adv.
+1
+mud n.
+1
+muddy adj.
+4
+mug n.
+2
+mule n.
+4
+multiple adj.
+4
+multiply v.
+3
+mumble v./n.
+5
+municipal adj.
+5
+murder n./v.
+3
+murderer n.
+4
+murmur n./v.
+4
+muscle n.
+3
+muscular adj.
+5
+muse n.
+6
+museum n.
+1
+mushroom n./v.
+3
+music n.
+1
+musical adj./n.
+2
+musician n.
+2
+must aux./n.
+1
+mustache n.
+6
+mustard n.
+5
+mute adj./v./n.
+6
+mutual adj.
+4
+mysterious adj.
+4
+mystery n.
+3
+myth n.
+5
+N
+nag v./n.
+6
+nail n.
+2
+naive adj.
+5
+naked adj.
+3
+name n./v.
+1
+namely adv.
+4
+nap n./v.
+3
+napkin n.
+3
+narrate v.
+6
+narrative n./adj.
+5
+narrator n.
+6
+narrow adj./v.
+2
+nasty adj.
+5
+nation n.
+2
+national adj.
+1
+nationalism n.
+6
+nationality n.
+4
+native adj./n.
+3
+natural adj.
+2
+nature n.
+1
+naughty adj.
+2
+navigate v.
+6
+navigation n.
+6
+navy n.
+3
+near prep./adj./adv./v.
+1
+nearby adj./adv.
+2
+nearly adv.
+2
+nearsighted adj.
+6
+neat adj.
+3
+necessary adj.
+2
+necessity n.
+3
+neck n.
+1
+necklace n.
+2
+necktie n.
+3
+need v./n./aux.
+1
+needle n.
+2
+needy adj.
+4
+negative adj./n.
+2
+neglect n./v.
+4
+negotiate v.
+4
+negotiation n.
+5
+neighbor n.
+2
+neighborhood n.
+3
+neither adj./adv./pron./
+conj.
+2
+nephew n.
+2
+nerve n.
+2
+nervous adj.
+2
+nest n./v.
+3
+net n./v.
+1
+network n./v.
+2
+neutral adj./n.
+5
+never adv.
+1
+nevertheless adv.
+4
+new adj.
+1
+news n.
+1
+newspaper n.
+1
+next adj./adv.
+1
+nice adj.
+1
+nickel n./v.
+6
+nickname n./v.
+3
+niece n.
+2
+night n.
+1
+nightmare n.
+4
+no/nope adj./adv./n.
+1
+noble adj./n.
+4
+nobody pron./n.
+1
+nod n./v.
+2
+noise n.
+1
+noisy adj.
+1
+nominate v.
+5
+nomination n.
+5
+依字母排序 O
+83
+nominee n. 5
+none pron./adv. 2
+nonprofit adj. 5
+nonsense n. 4
+noodle n. 2
+noon n. 1
+nor conj. 2
+norm n. 5
+normal adj. 3
+north n./adj./adv. 1
+northern adj. 2
+nose n. 1
+nostril n. 6
+not adv. 1
+notable adj./n. 6
+note n./v. 1
+notebook n. 2
+nothing pron./n. 1
+notice v./n. 1
+noticeable adj. 5
+notify v. 5
+notion n. 5
+notorious adj. 6
+nourish(ment) v./(n.) 6
+novel n./adj. 2
+novelist n. 3
+novice n. 6
+now adv./n. 1
+nowadays adv. 4
+nowhere adv./pron. 5
+nuclear adj. 4
+nucleus n. 6
+nude adj./n. 6
+number n./v. 1
+numerous adj. 4
+nun n. 3
+nurse n./v. 1
+nursery n. 4
+nurture v./n. 6
+nut n. 2
+nutrient n./adj. 5
+nutrition n. 5
+nutritious adj. 4
+O
+O.K./OK/okay
+adj./adv./n./v. 1
+o’clock adv. 1
+oak n. 3
+oasis n. 6
+oath n. 6
+oatmeal n. 6
+obedience n. 4
+obedient adj. 4
+obey v. 2
+object n./v. 2
+objection n. 4
+objective n./adj. 4
+obligation n. 5
+oblige v. 6
+obscure adj./v. 5
+observation n. 4
+observe v. 3
+observer n. 5
+obsess v. 6
+obstacle n. 4
+obstinate adj. 6
+obtain v. 4
+obvious adj. 2
+occasion n. 3
+occasional adj. 4
+occupation n. 4
+occupy v. 4
+occur v. 2
+occurrence n. 6
+ocean n. 2
+octopus n. 6
+odd adj. 3
+odds n. 5
+odor n. 6
+of prep. 1
+off adv./prep./adj. 1
+offend v. 4
+offense n. 4
+offensive adj. 4
+offer v./n. 2
+offering n. 5
+office n. 1
+officer n. 1
+official adj./n. 2
+offshore adj. 6
+offspring n. 6
+often adv. 1
+oil n./v. 1
+old adj. 1
+olive adj./n. 5
+omit v. 3
+on prep./adv. 1
+once adv./conj./n. 1
+ongoing adj. 3
+onion n. 3
+online adj. 1
+only adv./adj./conj. 1
+onto prep. 3
+open adj./v. 1
+opera n. 4
+operate v. 2
+operation n. 3
+operational adj. 5
+operative adj. 6
+operator n. 2
+opinion n. 2
+opponent n. 5
+opportunity n. 3
+oppose v. 4
+opposite adj./n./prep./adv.
+3
+opposition n. 5
+oppress v. 6
+oppression n. 6
+opt v. 5
+高中英文參考詞彙表
+84
+optimism n.
+5
+optimistic adj.
+3
+option n.
+4
+optional adj.
+5
+or conj.
+1
+oral adj./n.
+3
+orange adj./n.
+1
+orbit n./v.
+4
+orchard n.
+5
+orchestra n.
+4
+ordeal n.
+6
+order n./v.
+1
+orderly adj./n.
+6
+ordinary adj.
+2
+organ n.
+2
+organic adj.
+3
+organism n.
+5
+organization n.
+2
+organize v.
+3
+organizer n.
+6
+orient n./v.
+6
+oriental adj./n.
+6
+orientation n.
+4
+origin n.
+2
+original adj./n.
+3
+originality n.
+5
+originate v.
+6
+ornament n./v.
+6
+orphan n./v.
+4
+orphanage n.
+6
+orthodox adj.
+6
+other adj./pron.
+1
+otherwise adv.
+4
+ounce n.
+6
+out adv./prep./adj./n./v.
+1
+outbreak n.
+6
+outcome n.
+4
+outdoor adj.
+3
+outdoors adv.
+3
+outer adj.
+3
+outfit n./v.
+5
+outgoing adj.
+6
+outing n.
+6
+outlaw n./v.
+6
+outlet n.
+5
+outline n./v.
+3
+outlook n.
+6
+outnumber v.
+6
+output n./v.
+5
+outrage n./v.
+6
+outrageous adj.
+6
+outright adj./adv.
+6
+outset n.
+6
+outside prep./adv./adj./n.
+1
+outsider n.
+5
+outskirts n.
+6
+outstanding adj.
+4
+outward adj.
+6
+outward/outwards adv.
+6
+oval adj./n.
+4
+oven n.
+3
+over prep./adv.
+1
+overall adj./adv./n.
+5
+overcoat n.
+4
+overcome v.
+4
+overdo v.
+6
+overflow n./v.
+6
+overhead adv./adj./n.
+5
+overhear v.
+6
+overlap n./v.
+6
+overlook v.
+4
+overnight adv./adj.
+4
+overseas adv./adj.
+3
+oversee v.
+5
+overtake v.
+5
+overthrow v.
+4
+overturn v./n.
+5
+overwhelm v.
+5
+overwork n./v.
+6
+owe v.
+3
+owl n.
+3
+own adj./pron./v.
+1
+owner n.
+2
+ownership n.
+3
+ox n.
+3
+oxygen n.
+4
+oyster n.
+6
+ozone n.
+6
+P
+pace n./v.
+4
+pack n./v.
+1
+package n.
+1
+packet n.
+6
+pad n./v.
+3
+paddle n./v.
+6
+page n.
+1
+pain n./v.
+2
+painful adj.
+2
+paint n./v.
+1
+painter n.
+3
+painting n.
+2
+pair n.
+1
+pajamas n.
+2
+pal n.
+3
+palace n.
+3
+pale adj.
+2
+palm n.
+3
+pan n.
+2
+pancake n.
+3
+panda n.
+2
+panel n.
+4
+panic n./v.
+3
+pants n.
+1
+papaya n.
+2
+paper n./v.
+1
+paperback n.
+6
+parachute n./v.
+4
+parade n./v.
+3
+paradise n.
+3
+paradox n.
+6
+依字母排序 P
+85
+paragraph n. 4
+parallel adj./n./v. 5
+paralyze v. 6
+parcel n./v. 3
+pardon n./v. 2
+parent(s) n. 1
+park n./v. 1
+parliament n. 6
+parrot n./v. 3
+part n./v. 1
+partial adj. 4
+participant n. 5
+participate v. 2
+participation n. 4
+particle n. 5
+particular adj. 2
+partly adv. 5
+partner n. 2
+partnership n. 4
+party n./v. 1
+pass v./n. 1
+passage n. 3
+passenger n. 3
+passion n. 3
+passionate adj. 5
+passive adj. 4
+passport n. 3
+password n. 2
+past adj./n./prep./adv. 1
+pasta n. 4
+paste n./v. 2
+pastime n. 6
+pastry n. 5
+pat v./n. 3
+patch n./v. 5
+patent n./adj./v. 5
+path n. 2
+pathetic adj. 5
+patience n. 3
+patient n./adj. 2
+patriot n. 6
+patriotic adj. 6
+patrol n./v. 5
+patron n. 5
+pattern n./v. 2
+pause n./v. 3
+pave(ment) v./(n.) 3
+paw n./v. 4
+pay(ment) v./(n.) 1
+pea n. 3
+peace n. 2
+peaceful adj. 2
+peach n. 2
+peacock n. 6
+peak n./v. 2
+peanut n. 3
+pear n. 2
+pearl n. 3
+peasant n. 5
+pebble n. 6
+peculiar adj. 4
+pedal n./v. 5
+pedestrian n./adj. 5
+peek n./v. 6
+peel v./n. 3
+peep n./v. 4
+peer n./v. 4
+pen n./v. 1
+penalty n. 4
+pencil n. 1
+pending adj. 6
+penetrate v. 5
+penguin n. 3
+peninsula n. 6
+penny n. 3
+pension n./v. 5
+people n./v. 1
+pepper n. 3
+per prep. 2
+perceive v. 5
+percent n. 4
+percentage n. 4
+perception n. 5
+perch n./v. 6
+perfect adj./v./n. 2
+perfection n. 4
+perform v. 3
+performance n. 3
+performer n. 5
+perfume n./v. 4
+perhaps adv. 1
+peril n./v. 6
+period n. 2
+perish v. 6
+permanent adj. 4
+permissible adj. 6
+permission n. 3
+permit v./n. 3
+persevere v. 6
+persist v. 5
+persistence n. 6
+persistent adj. 6
+person n. 1
+personal adj. 2
+personality n. 2
+personnel n. 5
+perspective n./adj. 5
+persuade v. 3
+persuasion n. 4
+persuasive adj. 4
+pessimism n. 5
+pessimistic adj. 4
+pest n. 4
+pet n./v. 1
+petition n. 5
+petrol n. 6
+petroleum n. 6
+petty adj. 5
+pharmacist n. 6
+pharmacy n. 6
+高中英文參考詞彙表
+86
+phase n./v. 5
+phenomenon n. 4
+philosopher n. 4
+philosophical adj. 4
+philosophy n. 4
+photograph/photo n./v. 1
+photographer n. 3
+photographic adj. 5
+photography n. 4
+phrase n./v. 2
+physical adj. 4
+physician n. 4
+physicist n. 4
+physics n. 4
+pianist n. 6
+piano n. 1
+pick v./n. 1
+pickle n. 4
+pickpocket n. 6
+pickup n. 5
+picnic n./v. 1
+picture n./v. 1
+pie n. 1
+piece n./v. 1
+pier n. 5
+pig n./v. 1
+pigeon n. 3
+pile n./v. 3
+pilgrim n. 6
+pill n. 3
+pillar n. 5
+pillow n. 2
+pilot n./v. 3
+pimple n. 6
+pin n./v. 1
+pinch n./v. 6
+pine n. 3
+pineapple n. 3
+pink adj./n. 1
+pint n. 3
+pioneer n./v. 4
+pipe n./v. 1
+pipeline n. 5
+pirate n./v. 5
+pit n. 3
+pitch n./v. 3
+pitcher n. 5
+pity n./v. 3
+pizza n. 2
+place n./v. 1
+placement n. 5
+plague n. 6
+plain adj./n. 2
+plan n./v. 1
+planet n. 1
+plant n./v. 1
+plantation n. 6
+plastic n./adj. 3
+plate n. 1
+platform n. 2
+play v./n. 1
+player n. 1
+playful adj. 3
+playground n. 2
+playwright n. 6
+plea n. 5
+plead v. 5
+pleasant adj. 2
+please v. 1
+pleasure n. 1
+pledge n./v. 5
+plentiful adj. 4
+plenty pron./n./adv. 3
+plot n./v. 4
+plow n./v. 6
+plug n./v. 3
+plum n. 4
+plumber n. 4
+plunge n./v. 5
+plural adj./n. 5
+plus prep./n./adj. 2
+pm/p.m. adv. 1
+pneumonia n. 6
+pocket n./v. 1
+poem n. 2
+poet n. 2
+poetic adj. 5
+poetry n. 2
+point n./v. 1
+poison n./v. 2
+poisonous adj. 4
+poke v./n. 5
+polar adj. 6
+pole n. 3
+police n./v. 1
+policeman/cop n. 2
+policy n. 2
+polish n./v. 4
+polite adj. 1
+political adj. 3
+politician n. 3
+politics n. 3
+poll n./v. 3
+pollute v. 3
+pollution n. 3
+pond n. 1
+ponder v. 6
+pony n. 6
+pool n./v. 1
+poor adj. 1
+pop n./adj. 2
+popcorn n. 1
+popular adj. 1
+popularity n. 4
+populate v. 6
+population n. 2
+porcelain n. 3
+porch n. 5
+pork n. 2
+port n. 2
+依字母排序 P
+87
+portable adj. 4
+porter n. 6
+portfolio n. 5
+portion n./v. 3
+portrait n. 3
+portray v. 4
+pose v./n. 2
+position n./v. 2
+positive adj./n. 2
+possess v. 4
+possession n. 4
+possibility n. 2
+possible adj. 1
+post n./v./adv. 2
+postage n. 4
+postcard n. 2
+poster n. 3
+postpone(ment) v./(n.) 3
+posture n./v. 6
+pot n./v. 1
+potato n. 1
+potent adj. 6
+potential adj./n. 4
+pottery n. 3
+poultry n. 6
+pound n. 2
+pour v. 3
+poverty n. 3
+powder n./v. 3
+power n./v. 1
+powerful adj. 2
+practical adj. 3
+practice n./v. 1
+practitioner n. 5
+praise n./v. 2
+pray v. 2
+prayer n. 2
+preach v. 6
+precaution n. 5
+precede v. 6
+precedent n. 6
+precious adj. 3
+precise adj. 4
+precision n. 6
+predator n. 5
+predecessor n. 6
+predict v. 4
+prediction n. 4
+prefer v. 2
+preference n. 5
+pregnancy n. 4
+pregnant adj. 4
+prehistoric adj. 6
+prejudice n./v. 5
+preliminary adj./n. 5
+premature adj. 5
+premier adj./n. 5
+premiere n. 6
+premise n. 5
+premium n. 5
+preparation n. 3
+prepare v. 1
+prescribe v. 5
+prescription n. 5
+presence n. 3
+present adj./n./v. 1
+presentation n. 4
+preservation n. 4
+preserve v. 4
+preside v. 6
+presidency n. 5
+president n. 2
+presidential adj. 5
+press n./v. 2
+pressure n./v. 2
+prestige n. 6
+presumably adv. 5
+presume v. 5
+pretend v. 3
+pretty adv./adj. 1
+prevail v. 5
+prevent v. 3
+prevention n. 4
+preventive adj./n. 6
+preview n./v. 6
+previous adj. 3
+prey n./v. 5
+price n./v. 1
+priceless adj. 6
+pride n./v. 2
+priest n. 2
+primary adj. 2
+prime adj./n. 4
+primitive adj. 4
+prince/princess n. 2
+principal adj./n. 2
+principle n. 2
+print n./v. 2
+printer n. 2
+prior adj./adv./n. 5
+priority n. 4
+prison n. 2
+prisoner n. 2
+privacy n. 4
+private adj. 2
+privatize v. 6
+privilege n./v. 4
+prize n./v. 2
+probable adj. 3
+probably adv. 1
+probe n. 6
+problem n. 1
+procedure n. 4
+proceed v. 4
+process n./v. 3
+procession n. 6
+proclaim v. 5
+produce v./n. 2
+producer n. 3
+product n. 3
+高中英文參考詞彙表
+88
+production n.
+2
+productive adj.
+4
+productivity n.
+5
+profession n.
+4
+professional adj./n.
+4
+professor n.
+3
+proficiency n.
+6
+profile n./v.
+5
+profit n./v.
+3
+profitable adj.
+4
+profound adj.
+5
+program n./v.
+1
+progress n./v.
+2
+progressive adj./n.
+5
+prohibit v.
+5
+prohibition n.
+6
+project n.
+2
+projection n.
+5
+prolong v.
+5
+prominent adj.
+4
+promise n./v.
+2
+promising adj.
+4
+promote v.
+3
+promotion n.
+4
+prompt v./adj./n.
+4
+prone adj.
+5
+pronounce v.
+3
+pronunciation n.
+4
+proof n.
+3
+propaganda n.
+5
+propel v.
+6
+proper adj.
+2
+property n.
+3
+prophet n.
+5
+proportion n./v.
+5
+proposal n.
+4
+propose v.
+2
+prose n.
+6
+prosecute v.
+6
+prosecution n.
+5
+prospect n./v.
+5
+prospective adj.
+6
+prosper v.
+4
+prosperity n.
+4
+prosperous adj.
+4
+protect v.
+2
+protection n.
+3
+protective adj.
+2
+protein n.
+4
+protest n./v.
+4
+prototype n.
+6
+proud adj.
+1
+prove v.
+2
+proverb n.
+6
+provide v.
+2
+province n.
+5
+provincial adj./n.
+6
+provision n.
+5
+provisional adj.
+6
+provoke v.
+5
+psychiatry n.
+6
+psychic adj.
+6
+psychological adj.
+4
+psychologist n.
+4
+psychology n.
+4
+psychotherapy n.
+6
+pub n.
+3
+public adj./n.
+1
+publication n.
+4
+publicity n.
+4
+publicize v.
+6
+publish v.
+4
+publisher n.
+4
+pudding n.
+2
+puff n./v.
+6
+pull v./n.
+1
+pulse n./v.
+5
+pump n./v.
+3
+pumpkin n.
+2
+punch n./v.
+3
+punctual adj.
+6
+punish(ment) v./(n.)
+2
+pupil n.
+2
+puppet n.
+3
+puppy n.
+2
+purchase n./v.
+5
+pure adj.
+3
+purify v.
+6
+purity n.
+6
+purple adj./n.
+2
+purpose n.
+2
+purse n.
+3
+pursue v.
+4
+pursuit n.
+4
+push v./n.
+1
+put v.
+1
+puzzle n./v.
+2
+pyramid n.
+5
+Q
+quake v./n.
+6
+qualification n.
+6
+qualify v.
+5
+quality n.
+2
+quantity n.
+2
+quarrel n./v.
+4
+quarter n.
+1
+queen n.
+1
+queer adj.
+3
+quest n.
+5
+question n./v.
+1
+questionnaire n.
+5
+quick adj./adv.
+1
+quiet adj./n./v.
+1
+quilt n./v.
+4
+quit v.
+3
+quite adv.
+1
+quiver n./v.
+5
+quiz n.
+2
+quota n.
+5
+quotation n.
+4
+依字母排序
+R
+89
+quote v./n.
+3
+R
+rabbit n.
+1
+race n./v.
+1
+racial adj.
+3
+racism n.
+5
+rack n./v.
+5
+radar n.
+4
+radiant adj./n.
+6
+radiate v./adj.
+6
+radiation n.
+5
+radical adj./n.
+5
+radio n./v.
+1
+radioactive adj.
+6
+radish n.
+6
+radius n.
+6
+rag n.
+3
+rage n./v.
+4
+ragged adj.
+5
+raid n./v.
+5
+rail n.
+5
+railroad/railway n.
+2
+rain n./v.
+1
+rainbow n.
+1
+raincoat n.
+2
+rainfall n.
+4
+rainy adj.
+1
+raise v./n.
+1
+raisin n.
+4
+rally n./v.
+5
+ranch n./v.
+5
+random adj.
+5
+range n./v.
+2
+rank n./v.
+3
+rap n.
+6
+rapid adj.
+2
+rare adj.
+2
+rash n./adj.
+6
+rat n.
+2
+rate n./v.
+3
+rather adv.
+2
+ratify v.
+6
+ratio n.
+5
+rational adj.
+5
+rattle v./n.
+5
+raw adj.
+3
+ray n.
+3
+razor n.
+3
+reach v./n.
+1
+react v.
+3
+reaction n.
+3
+read v.
+1
+ready adj./v.
+1
+real adj.
+1
+realism n.
+5
+realistic adj.
+4
+reality n.
+2
+realization n.
+6
+realize v.
+2
+really adv.
+1
+realm n.
+5
+reap v.
+6
+rear adj./n.
+5
+reason n./v.
+1
+reasonable adj.
+3
+reassure v.
+5
+rebel n./v.
+4
+rebellion n.
+5
+recall v./n.
+4
+receipt n.
+3
+receive v.
+2
+receiver n.
+3
+recent adj.
+2
+reception n.
+4
+recession n.
+5
+recipe n.
+4
+recipient n./adj.
+5
+recite v.
+5
+reckless adj.
+6
+reckon v.
+6
+recognition n.
+4
+recognize v.
+3
+recommend v.
+5
+recommendation n.
+5
+reconcile v.
+6
+record n./v.
+2
+recorder n.
+3
+recover v.
+2
+recovery n.
+4
+recreation n.
+4
+recreational adj.
+6
+recruit v./n.
+5
+rectangle n.
+3
+recycle v.
+4
+red adj./n.
+1
+reduce v.
+3
+reduction n.
+4
+redundancy n.
+6
+reef n.
+6
+refer v.
+4
+referee n./v.
+6
+reference n.
+4
+referendum n.
+6
+refine(ment) v./(n.)
+6
+reflect v.
+4
+reflection n.
+4
+reflective adj.
+6
+reform n./v.
+4
+refresh(ment) v./(n.)
+6
+refreshment(s) n.
+6
+refrigerator/fridge n.
+2
+refuge n.
+5
+refugee n.
+4
+refund n./v.
+4
+refusal n.
+4
+refuse v.
+2
+refute v.
+6
+regard n./v.
+2
+regarding prep.
+4
+regardless adj./adv.
+5
+高中英文參考詞彙表
+90
+regime n. 5
+region n. 2
+regional adj. 3
+register v./n. 4
+registration n. 4
+regret v./n. 3
+regular adj./n. 2
+regulate v. 4
+regulation n. 4
+rehabilitate v. 6
+rehearsal n. 5
+rehearse v. 6
+reign n./v. 6
+reinforce v. 5
+reject v. 2
+rejection n. 4
+rejoice v. 6
+relate v. 2
+relation n. 2
+relationship n. 2
+relative adj./n. 1
+relax v. 3
+relaxation n. 4
+relay n./v. 6
+release n./v. 3
+relentless adj. 6
+relevant adj. 4
+reliable adj. 3
+reliance n. 6
+reliant adj. 6
+relic n. 6
+relief n. 3
+relieve v. 4
+religion n. 2
+religious adj. 3
+reluctant adj. 4
+rely v. 3
+remain v. 3
+remainder n. 6
+remark n./v. 4
+remarkable adj. 4
+remedy n./v. 4
+remember v. 1
+remind v. 3
+reminder n. 5
+reminiscent adj. 6
+remote adj. 3
+removal n. 5
+remove v. 2
+render v. 5
+renew v. 4
+renowned adj. 6
+rent n./v. 2
+rental n. 5
+repair n./v. 2
+repay v. 5
+repeat v. 1
+repetition n. 4
+replace(ment) v./(n.) 3
+reply n./v. 2
+report n./v. 1
+reporter n. 1
+represent v. 3
+representation n. 4
+representative adj./n. 3
+reproduce v. 6
+reptile n./adj. 6
+republic n. 3
+republican n./adj. 5
+reputation n. 4
+request n./v. 3
+require(ment) v./(n.) 2
+rescue n./v. 4
+research n./v. 4
+researcher n. 4
+resemblance n. 5
+resemble v. 4
+resent(ment) v./(n.) 6
+reservation n. 4
+reserve n./v. 3
+reservoir n. 5
+reside v. 6
+residence n. 5
+resident n./adj. 5
+residential adj. 5
+resign v. 4
+resignation n. 4
+resist v. 3
+resistance n. 4
+resistant adj. 6
+resolution n. 4
+resolve v./n. 4
+resort n./v. 5
+resource n. 3
+respect n./v. 2
+respectable adj. 4
+respectful adj. 4
+respective adj. 6
+respond v. 2
+respondent n. 5
+response n. 3
+responsibility n. 3
+responsible adj. 2
+rest n./v. 1
+restaurant n. 1
+restoration n. 6
+restore v. 4
+restrain v. 6
+restraint n. 6
+restrict v. 3
+restriction n. 4
+restroom n. 2
+result n./v. 2
+resume v./n. 5
+retail n./adj./adv./v. 5
+retain v. 4
+retire(ment) v./(n.) 4
+retort n./v. 6
+retreat n./v. 4
+retrieve v. 6
+依字母排序 S
+91
+return v./n. 2
+reunion n. 4
+reveal v. 3
+revelation n. 6
+revenge n./v. 4
+revenue n. 5
+reverse v./adj./n. 5
+review n./v. 2
+revise v. 4
+revision n. 4
+revival n. 6
+revive v. 6
+revolt n./v. 6
+revolution n. 4
+revolutionary adj./n. 4
+revolve v. 6
+reward n./v. 4
+rhetoric n. 5
+rhyme n./v. 4
+rhythm n. 4
+rib n./v. 5
+ribbon n. 3
+rice n. 1
+rich adj. 1
+riches n. 2
+rid adj./v. 3
+riddle n. 4
+ride n./v. 1
+ridge n./v. 5
+ridiculous adj. 5
+rifle n./v. 5
+right adv./adj./n. 1
+rigid adj. 5
+rigorous adj. 6
+rim n./v. 5
+ring n./v. 1
+riot n./v. 5
+rip v./n. 5
+ripe adj. 3
+ripple n./v. 6
+rise n./v. 1
+risk n./v. 3
+risky adj. 5
+ritual n./adj. 5
+rival adj./n./v. 5
+rivalry n. 6
+river n. 1
+road n. 1
+roam v./n. 6
+roar n./v. 3
+roast adj./n./v. 3
+rob v. 3
+robber n. 4
+robbery n. 3
+robe n. 3
+robot n. 1
+robust adj. 6
+rock n./v. 1
+rocket n. 3
+rocky adj. 2
+rod n. 5
+role n. 2
+roll v./n. 1
+romance n. 4
+romantic adj./n. 3
+roof n./v. 2
+room n./v. 1
+rooster n. 2
+root n. 1
+rope n. 1
+rose n. 1
+rot v./n. 3
+rotate v. 6
+rotation n. 6
+rotten adj. 3
+rough adj./adv./n. 3
+roughly adv. 3
+round adj./n./adv./prep./v. 1
+route n./v. 4
+routine n./adj. 3
+row n./v. 1
+royal adj. 2
+royalty n. 6
+rub v./n. 2
+rubber n. 2
+rubbish n. 6
+rude adj. 2
+rug n. 3
+rugged adj. 6
+ruin v./n. 4
+rule n./v. 1
+ruler n. 1
+rumor n./v. 3
+run v. 1
+runner n. 2
+rural adj. 4
+rush n./v. 3
+rust n./v. 3
+rusty adj. 4
+ruthless adj. 6
+S
+sack n. 3
+sacred adj. 5
+sacrifice n./v. 4
+sad adj. 1
+saddle n./v. 5
+safe adj./n. 1
+safety n. 2
+sail v./n. 2
+sailor n. 2
+saint n./v. 5
+sake n. 3
+salad n. 1
+salary n. 3
+sale n. 1
+salesperson/salesman/
+saleswoman n. 2
+salmon n./adj. 5
+salon n. 5
+salt n./v./adj. 1
+高中英文參考詞彙表
+92
+salty adj. 2
+salute n./v. 6
+salvage v. 6
+same adj./pron./adv. 1
+sample n./v. 2
+sand n./v. 2
+sandal n. 5
+sandwich n./v. 2
+sanitation n. 6
+satellite n. 4
+satisfaction n. 4
+satisfactory adj. 3
+satisfy v. 2
+sauce n. 3
+saucer n. 3
+sausage n. 3
+savage adj./n./v. 6
+save v. 1
+saving(s) n. 3
+saw v./n. 2
+say v. 1
+scale(s) n. 3
+scan n./v. 5
+scandal n. 5
+scar n./v. 5
+scarce adj. 3
+scarcely adv. 4
+scare v./n. 2
+scared adj. 2
+scarf n. 3
+scary adj. 3
+scatter v./n. 3
+scenario n. 5
+scene n. 2
+scenery n. 4
+scenic adj. 6
+scent n./v. 5
+schedule n./v. 2
+scheme n./v. 5
+scholar n. 3
+scholarship n. 3
+school n./v. 1
+science n. 1
+scientific adj. 3
+scientist n. 3
+scissors n. 3
+scold v./n. 4
+scoop n./v. 4
+scooter n. 2
+scope n. 5
+score n./v. 2
+scorn n./v. 6
+scout n./v. 3
+scramble v./n. 5
+scrap n./v. 5
+scrape v./n. 6
+scratch n./v. 4
+scream v./n. 3
+screen n. 2
+screw v./n. 3
+screwdriver n. 6
+script n./v. 5
+scroll n./v. 6
+scrub n./v. 3
+scrutiny n. 6
+sculptor n. 6
+sculpture n./v. 4
+sea n. 1
+seafood n. 2
+seagull/gull n. 6
+seal n./v. 3
+search n./v. 2
+season n. 1
+seat n./v. 1
+second adj./n./adv. 1
+secondary adj. 2
+secret adj./n. 2
+secretary n. 1
+section n. 2
+sector n. 5
+secure v./adj. 4
+security n. 3
+seduce v. 6
+see v. 1
+seed n. 1
+seek v. 2
+seem v. 2
+seesaw n. 2
+segment n./v. 5
+seize v. 4
+seldom adv. 2
+select v./adj. 2
+selection n. 2
+selective adj. 6
+self n. 2
+selfish adj. 2
+sell v. 1
+semester n. 3
+seminar n. 5
+senator n. 5
+send v. 1
+senior adj./n. 3
+sensation n. 5
+sense n./v. 2
+sensible adj. 3
+sensitive adj. 2
+sensitivity n. 5
+sensor n. 5
+sentence n./v. 1
+sentiment n. 5
+sentimental adj. 5
+separate adj./v. 2
+separation n. 3
+sequence n./v. 5
+serene adj. 6
+sergeant n. 6
+serial adj. 6
+series n. 5
+serious adj. 1
+sermon n. 6
+依字母排序 S
+93
+servant n. 2
+serve v. 2
+server n. 5
+service n. 1
+serving n. 6
+session n. 5
+set v./n. 1
+setback n. 6
+setting n. 5
+settle(ment) v./(n.) 2
+settler n. 4
+several adj./pron. 1
+severe adj. 4
+sew v. 4
+sex n. 2
+sexual adj. 3
+sexy adj. 3
+shabby adj. 6
+shade n./v. 4
+shadow n./v. 3
+shady adj. 4
+shake v./n. 1
+shall aux. 1
+shallow adj. 3
+shame n./v. 2
+shameful adj. 4
+shampoo n./v. 3
+shape n. 1
+share v./n. 1
+shareholder n. 5
+shark n. 2
+sharp adj./adv. 1
+sharpen v. 6
+shatter v. 5
+shave v./n. 4
+shaver n. 6
+she (her, hers, herself)
+pron. 1
+shed v./n. 5
+sheep n. 1
+sheer adj./adv. 5
+sheet n. 2
+shelf n. 2
+shell n. 2
+shelter n./v. 4
+shepherd n. 3
+sheriff n. 5
+shield n./v. 5
+shift n./v. 4
+shine v./n. 2
+shiny adj. 3
+ship n./v. 1
+shirt n. 1
+shiver n./v. 5
+shock n./v. 2
+shoe(s) n. 1
+shoot v./n. 2
+shop n./v. 1
+shopkeeper n. 2
+shore n. 2
+short adj. 1
+shortage n. 5
+shortcoming n. 6
+shorten v. 3
+shortly adv. 3
+shorts n. 1
+shortsighted adj. 6
+shot n. 2
+shoulder n. 1
+shout v./n. 1
+shove v./n. 5
+shovel n./v. 3
+show v./n. 1
+shower n./v. 1
+shred n./v. 6
+shriek n./v. 6
+shrimp n. 3
+shrink v. 3
+shrub n. 6
+shrug n./v. 5
+shuffle v. 6
+shut v./adj. 2
+shutter n./v. 6
+shuttle n./v. 5
+shy adj. 2
+sibling n. 5
+sick adj. 1
+side n. 1
+sidewalk n. 2
+siege n. 5
+sigh n./v. 3
+sight n./v. 1
+sightseeing n. 4
+sign n./v. 1
+signal n./v. 3
+signature n./adj. 4
+significance n. 4
+significant adj. 3
+silence n./v. 2
+silent adj. 2
+silk n. 3
+silly adj. 2
+silver n./adj. 2
+similar adj. 2
+similarity n. 3
+simple adj. 1
+simplicity n. 6
+simplify v. 6
+simply adv. 2
+simultaneous adj. 6
+sin n./v. 3
+since conj./prep./adv. 1
+sincere adj. 3
+sincerity n. 4
+sing v. 1
+singer n. 1
+single adj./n./v. 2
+singular adj./n. 4
+sink n./v. 3
+sip v./n. 3
+高中英文參考詞彙表
+94
+sir n. 1
+sister n. 1
+sit v. 1
+site n./v. 4
+situation n. 3
+size n./v. 1
+skate v./n. 3
+skeleton n. 5
+skeptical adj. 6
+sketch n./v. 4
+ski n./v. 3
+skill n. 2
+skilled adj. 2
+skillful adj. 3
+skim v./n. 6
+skin n. 2
+skinny adj. 3
+skip v./n. 3
+skirt n. 1
+skull n. 5
+sky n. 1
+skyscraper n. 4
+slam n./v. 5
+slang n./v. 6
+slap n./v./adv. 5
+slash v./n. 6
+slaughter n./v. 6
+slave n./v. 3
+slavery n. 5
+slay v. 6
+sleep n./v. 1
+sleepy adj. 2
+sleeve n. 3
+slender adj. 3
+slice n./v. 3
+slide n./v. 2
+slight adj./n./v. 4
+slim adj. 1
+slip v./n. 2
+slipper(s) n. 2
+slippery adj. 3
+slogan n. 4
+slope n. 3
+sloppy adj. 6
+slot n./v. 5
+slow adj./v./adv. 1
+slum n./v. 6
+slump n./v. 6
+sly adj. 6
+small adj./n./adv. 1
+smart adj. 1
+smash v./n. 5
+smell n./v. 1
+smile n./v. 1
+smog n. 5
+smoke n./v. 1
+smooth adj./v. 2
+smuggle v. 6
+snack n./v. 2
+snail n. 2
+snake n./v. 1
+snap v./n. 3
+snatch v./n. 5
+sneak v./n. 5
+sneaker(s) n. 6
+sneaky adj. 6
+sneeze n./v. 6
+sniff v./n. 5
+snore v./n. 6
+snow n./v. 1
+snowy adj. 2
+so adv./conj. 1
+soak v./n. 5
+soap n./v. 2
+soar v. 5
+sob n./v. 5
+sober adj./v. 5
+soccer n. 2
+sociable adj. 6
+social adj. 2
+socialism n. 6
+socialist n. 6
+socialize v. 6
+society n. 2
+sociology n. 6
+sock(s) n. 2
+socket n. 4
+soda n. 2
+sofa n. 1
+soft adj. 2
+soften v. 5
+software n. 4
+soil n. 2
+solar adj. 4
+soldier n. 1
+sole adj./n./v. 5
+solemn adj. 6
+solid adj. 3
+solidarity n. 6
+solitary adj./n. 6
+solitude n. 6
+solo n./adv./adj. 5
+solution n. 2
+solve v. 2
+some adj./pron. 1
+someday adv. 3
+somehow adv. 3
+someone/somebody
+pron./n. 1
+something pron./n. 1
+sometime adv. 3
+sometimes adv. 1
+somewhat adv. 2
+somewhere adv. 1
+son n. 1
+song n. 1
+soon adv. 1
+soothe v. 6
+sophisticated adj. 5
+sophomore n. 5
+依字母排序 S
+95
+sore adj./n. 1
+sorrow n. 3
+sorrowful adj. 6
+sorry adj. 1
+sort n./v. 2
+soul n. 2
+sound n. 1
+soup n. 1
+sour adj./n./v. 2
+source n. 2
+south n./adj./adv. 1
+southern adj. 2
+souvenir n. 5
+sovereign adj./n. 6
+sovereignty n. 5
+sow v. 5
+soybean n. 2
+space n./v. 1
+spacecraft/spaceship n.
+6
+spacious adj. 5
+spade n. 4
+spaghetti n. 3
+span n./v. 6
+spare adj./v./n. 4
+spark n./v. 4
+sparkle v./n. 5
+sparrow n. 6
+speak v. 1
+speaker n. 2
+spear n./v. 4
+special adj. 1
+specialist n. 5
+specialize v. 5
+specialty n. 5
+species n. 4
+specific adj. 3
+specify v. 5
+specimen n. 5
+spectacle n. 6
+spectacular adj./n. 5
+spectator n. 5
+spectrum n. 5
+speculate v. 5
+speech n. 2
+speed n./v. 2
+spell v. 1
+spelling n. 2
+spend v. 1
+sphere n. 5
+spice n./v. 3
+spicy adj. 5
+spider n. 2
+spill v./n. 3
+spin n./v. 3
+spinach n. 3
+spine n. 5
+spiral adj./n./v. 6
+spirit n. 2
+spiritual adj. 4
+spit v./n. 3
+spite n. 3
+splash n./v. 3
+splendid adj. 4
+splendor n. 6
+split v./n. 4
+spoil v. 3
+spokesperson/
+spokesman/
+spokeswoman n. 6
+sponge n./v. 5
+sponsor n./v. 5
+sponsorship n. 5
+spontaneous adj. 6
+spoon n. 2
+sport n./v. 2
+sportsman/sportswoma
+n n. 6
+sportsmanship n. 6
+spot n./v. 2
+spotlight n./v. 6
+spouse n. 5
+spray n./v. 3
+spread v./n. 2
+spring n./v. 1
+sprinkle v./n. 4
+spur v./n. 6
+spy n./v. 3
+squad n. 5
+square n./adj. 1
+squash n./v. 5
+squat adj./n./v. 5
+squeeze v./n. 3
+squirrel n. 3
+stab n./v. 4
+stability n. 5
+stabilize v. 6
+stable adj. 3
+stack n./v. 5
+stadium n. 3
+staff n./v. 3
+stage n./v. 2
+stagger v./n. 6
+stain n./v. 5
+stair n. 1
+stake n./v. 5
+stale adj. 3
+stall n./v. 5
+stamp n./v. 2
+stance n. 5
+stand v./n. 1
+standard adj./n. 2
+staple n./v. 6
+star n./v. 1
+stare v./n. 3
+start v./n. 1
+startle v. 5
+starvation n. 6
+starve v. 3
+state(ment) v./(n.) 2
+statesman n. 6
+高中英文參考詞彙表
+96
+station n. 1
+stationary adj. 6
+stationery n. 6
+statistic(s) n. 4
+statistical adj. 5
+statue n. 3
+stature n. 6
+status n. 4
+statute n. 6
+stay v./n. 1
+steady adj./v./adv./n. 3
+steak n. 2
+steal v. 3
+steam n./v. 3
+steel n./v. 2
+steep adj. 3
+steer v./n. 5
+stem n./v. 4
+step n./v. 2
+stepchild n. 6
+stepfather n. 6
+stepmother n. 6
+stereo n. 4
+stereotype n./v. 5
+stew n./v. 5
+stick v./n. 2
+sticky adj. 3
+stiff adj. 3
+still adv./adj. 1
+stimulate v. 5
+stimulation n. 6
+stimulus n. 5
+sting n./v. 3
+stingy adj. 4
+stink n./v. 5
+stir v./n. 3
+stitch n./v. 3
+stock n. 5
+stocking(s) n. 4
+stomach n. 3
+stomachache n. 2
+stone n./v. 2
+stool n. 3
+stop v./n. 1
+storage n. 5
+store n./v. 1
+storm n./v. 2
+stormy adj. 3
+story n. 1
+stove n. 3
+straight adv./adj./n. 1
+straighten v. 5
+straightforward adj. 5
+strain n./v. 5
+strait n. 6
+strand v./n. 5
+strange adj. 1
+stranger n. 2
+strangle v. 6
+strap n./v. 5
+strategic adj. 5
+strategy n. 3
+straw n. 3
+strawberry n. 2
+stray adj./v./n. 6
+stream n./v. 2
+street n. 1
+strength n. 3
+strengthen v. 4
+stress n./v. 2
+stretch n./v. 2
+strict adj. 2
+stride n./v. 6
+strike n./v. 2
+striking adj. 5
+string n. 1
+strip n./v. 3
+stripe n. 4
+strive v. 4
+stroke n./v. 4
+stroll n./v. 6
+strong adj. 1
+structural adj. 5
+structure n. 3
+struggle n./v. 2
+stubborn adj. 3
+student n. 1
+studio n. 3
+study n./v. 1
+stuff n./v. 3
+stumble v./n. 5
+stun v. 6
+stupid adj. 1
+sturdy adj. 5
+stutter n./v. 6
+style n./v. 2
+stylish adj. 6
+subject n. 1
+subjective adj./n. 6
+submarine n./adj. 4
+submit v. 5
+subordinate adj./n./v. 6
+subscribe v. 6
+subscription n. 6
+subsequent adj. 5
+subsidize v. 6
+subsidy n. 5
+substance n. 3
+substantial adj. 5
+substitute n./v. 5
+subtle adj. 5
+subtract v. 3
+suburb n. 3
+suburban adj. 5
+subway/underground/
+metro n. 2
+succeed v. 2
+success n. 2
+successful adj. 1
+succession n. 6
+依字母排序 T
+97
+successive adj. 6
+successor n. 5
+such adj./pron. 2
+suck v./n. 3
+sudden adj./n. 2
+sue v. 4
+suffer v. 3
+sufficient adj. 3
+suffocate v. 6
+sugar n. 1
+suggest v. 2
+suggestion n. 4
+suicide n. 3
+suit n./v. 2
+suitable adj. 2
+suitcase n. 6
+suite n. 5
+sum n./v. 3
+summarize v. 4
+summary n. 3
+summit n. 3
+summon v. 6
+sun n./v. 1
+sunny adj. 1
+super adj./adv. 2
+superb adj. 5
+superficial adj. 6
+superintendent n. 6
+superior adj./n. 3
+superiority n. 6
+supermarket n. 1
+superstition n. 5
+superstitious adj. 6
+supervise v. 5
+supervision n. 5
+supervisor n. 5
+supper n. 2
+supplement n./v. 6
+supply n./v. 2
+support n./v. 2
+suppose v. 2
+supposedly adv. 5
+suppress v./n. 6
+supreme adj. 5
+sure adj./adv. 1
+surf v. 2
+surface n./v. 2
+surge n./v. 6
+surgeon n. 4
+surgery n. 4
+surgical adj. 6
+surname n. 6
+surpass v. 6
+surplus n./adj. 5
+surprise n./v. 1
+surprised adj. 1
+surrender v./n. 4
+surround v. 3
+surroundings n. 4
+surveillance n. 5
+survey n./v. 3
+survival n. 2
+survive v. 2
+survivor n. 3
+suspect v./n./adj. 3
+suspend v. 5
+suspense n. 6
+suspension n. 6
+suspicion n. 3
+suspicious adj. 4
+sustain v. 5
+sustainable adj. 5
+swallow v./n. 2
+swamp n./v. 6
+swan n. 3
+swap v./n. 5
+swarm n./v. 6
+sway n./v. 4
+swear v. 3
+sweat n./v. 3
+sweater n. 2
+sweep v. 2
+sweet adj. 1
+swell v./n. 3
+swift adj. 3
+swim v./n. 2
+swimsuit n. 2
+swing n./v. 2
+switch n./v. 2
+sword n. 3
+syllable n. 4
+symbol n. 2
+symbolic adj. 5
+symbolize v. 6
+symmetry n. 6
+sympathetic adj. 4
+sympathize v. 6
+sympathy n. 4
+symphony n. 6
+symptom n. 5
+syndrome n. 5
+synonym n. 6
+synthetic adj./n. 6
+syrup n. 6
+system n. 2
+systematic adj. 4
+T
+table n. 1
+tablet n. 3
+tackle v. 5
+tactic(s) n. 5
+tag n./v. 3
+tail n. 1
+tailor n. 3
+take v. 1
+tale n. 2
+talent n. 3
+talk v./n. 1
+talkative adj. 3
+tall adj. 1
+高中英文參考詞彙表
+98
+tame adj./v. 3
+tan n./adj./v. 6
+tangerine n. 3
+tangle n./v. 5
+tank n. 3
+tap v./n. 3
+tape n. 1
+target n./v. 2
+task n./v. 2
+taste n./v. 1
+tasty adj. 3
+tax n./v. 2
+taxicab/taxi/cab n. 1
+tea n. 1
+teach v. 1
+teacher n. 1
+team n./v. 1
+teapot n. 2
+tear n./v. 2
+tease v. 3
+technical adj. 3
+technician n. 4
+technique n. 3
+technological adj. 4
+technology n. 2
+tedious adj. 6
+teenage adj. 3
+teenager n. 1
+teens n. 2
+telecommunications n. 6
+telegraph n./v. 4
+telephone/phone n./v. 1
+telescope n. 4
+television/TV n. 1
+tell v. 1
+teller n. 6
+temper n. 3
+temperature n. 2
+temple n. 1
+tempo n. 6
+temporary adj. 3
+tempt v. 5
+temptation n. 5
+tenant n./v. 6
+tend v. 3
+tendency n. 4
+tender adj. 3
+tennis n. 1
+tense adj./v. 4
+tension n. 4
+tent n. 3
+tentative adj. 6
+term n./v. 2
+terminal n./adj. 5
+terrace n./v. 6
+terrible adj. 1
+terrific adj. 3
+terrify v. 5
+territory n. 3
+terror n. 4
+terrorism n. 2
+terrorist adj. 2
+test n./v. 1
+testify v. 5
+text n. 2
+textbook n. 2
+textile n./adj. 6
+texture n./v. 5
+than conj./prep. 1
+thank v./n. 1
+thankful adj. 3
+that conj./pron./adv./adj. 1
+the art. 1
+theater n. 1
+theft n. 5
+theme n. 4
+then adv./adj. 1
+theology n. 5
+theoretical adj. 5
+theory n. 3
+therapist n. 5
+therapy n. 5
+there adv./n. 1
+thereafter adv. 6
+thereby adv. 5
+therefore adv. 2
+thermometer n. 6
+these pron./adj. 1
+thesis n. 5
+they (them, their,
+theirs, themselves)
+pron. 1
+thick adj. 1
+thief n. 2
+thigh n. 5
+thin adj. 1
+thing n. 1
+think v. 1
+third adj./n./adv. 1
+thirst n. 3
+thirsty adj. 2
+this pron./adv./adj. 1
+thorough adj. 4
+those pron./adj. 1
+though conj./adv. 1
+thought n. 2
+thoughtful adj. 4
+thousand n./adj. 1
+thread n./v. 3
+threat n. 3
+threaten v. 3
+threshold n. 5
+thrill n./v. 5
+thriller n. 5
+thrive v. 5
+throat n. 1
+throne n. 5
+through prep./adv. 1
+throughout prep./adv. 2
+throw v./n. 1
+依字母排序 T
+99
+thrust v./n. 5
+thumb n./v. 3
+thunder n./v. 2
+thus adv. 2
+tick n./v. 5
+ticket n. 1
+tickle v./n. 4
+tide n. 3
+tidy adj./v. 1
+tie n./v. 1
+tiger n. 1
+tight adj./adv. 3
+tighten v. 3
+tile n./v. 5
+till conj./prep. 2
+tilt n./v. 6
+timber n. 3
+time n./v. 1
+timetable n. 4
+timid adj. 4
+tin n./v. 5
+tiny adj. 2
+tip n./v. 1
+tiptoe n./v. 6
+tire v./n. 2
+tired adj. 1
+tiresome adj. 6
+tissue n. 2
+title n./v. 2
+to prep. 1
+toast n./v. 2
+tobacco n. 3
+today adv./n. 1
+toe n. 1
+tofu n. 2
+together adv. 1
+toilet n. 1
+token n. 6
+tolerable adj. 4
+tolerance n. 4
+tolerant adj. 4
+tolerate v. 4
+toll n./v. 5
+tomato n. 1
+tomb n. 4
+tomorrow adv./n. 1
+ton n. 3
+tone n. 2
+tongue n. 2
+tonight adv./n. 1
+too adv. 1
+tool n. 1
+tooth n. 1
+toothache n. 2
+toothbrush n. 2
+top n./adj./v. 1
+topic n. 1
+torch n./v. 5
+torment n./v. 5
+tornado n. 6
+torrent n. 6
+tortoise n. 4
+torture n./v. 4
+toss v./n. 3
+total adj./n./v. 1
+touch n./v. 1
+tough adj. 3
+tour n./v. 2
+tourism n. 3
+tourist n. 3
+tournament n. 5
+tow n./v. 3
+toward/towards prep. 2
+towel n./v. 1
+tower n. 3
+town n. 1
+toxic adj. 5
+toy n. 1
+trace n./v. 3
+track n./v. 2
+trade n./v. 2
+trademark n. 6
+trader n. 3
+tradition n. 2
+traditional adj. 2
+traffic n./v. 1
+tragedy n. 4
+tragic adj. 4
+trail n./v. 3
+train n./v. 1
+trait n. 5
+traitor n. 5
+transaction n. 5
+transcript n. 6
+transfer n./v. 4
+transform v. 4
+transformation n. 5
+transit n./v. 5
+transition n. 5
+translate v. 4
+translation n. 4
+translator n. 4
+transmission n. 5
+transmit v. 6
+transparent adj. 5
+transplant n./v. 6
+transport n./v. 3
+transportation n. 4
+trap n./v. 2
+trash n./v. 2
+trauma n. 5
+travel n./v. 2
+traveler n. 3
+tray n. 3
+treasure n./v. 2
+treasury n. 6
+treat(ment) v./(n.) 1
+treaty n. 5
+tree n. 1
+trek n./v. 6
+高中英文參考詞彙表
+100
+tremble v./n. 4
+tremendous adj. 4
+trend n. 3
+trial n. 2
+triangle n. 2
+tribal adj. 4
+tribe n. 3
+tribute n. 5
+trick n./v. 2
+tricky adj. 3
+trifle n./v. 6
+trigger n./v. 5
+trillion n. 6
+trim v./n./adj. 5
+trip n./v. 1
+triple adj./v./n. 5
+triumph n./v. 4
+trivial adj. 5
+troop n. 3
+trophy n. 5
+tropic n./adj. 6
+tropical adj. 3
+trouble n./v. 1
+troublesome adj. 4
+trout n. 6
+truck n. 1
+true adj./adv./v. 2
+trumpet n. 3
+trunk n. 3
+trust v./n. 2
+trustee n. 6
+truth n. 2
+truthful adj. 3
+try v./n. 1
+T-shirt n. 1
+tub n. 3
+tube n. 2
+tuck v./n. 6
+tug n./v. 3
+tuition n. 5
+tumble v./n. 4
+tumor n. 5
+tuna n. 5
+tune n./v. 3
+tunnel n./v. 3
+turmoil n. 6
+turn v./n. 1
+turtle n. 2
+tutor n./v. 3
+twice adv. 1
+twig n. 4
+twilight n. 6
+twin n. 3
+twinkle n./v. 6
+twist n./v. 3
+type n./v. 1
+typhoon n. 2
+typical adj. 2
+U
+ugly adj. 2
+ultimate adj./n. 5
+umbrella n. 2
+unanimous adj. 6
+uncle n. 1
+unconditional adj. 6
+uncover v. 5
+under prep./adv. 1
+underestimate v./n. 6
+undergo v. 5
+undergraduate n. 5
+underline v./n. 5
+underlying v. 3
+undermine v. 5
+underneath
+prep./adv./n./adj. 6
+underpass n. 6
+understand v. 1
+undertake v. 5
+underway adv. 6
+underwear n. 3
+undo v. 5
+undoubtedly adv. 5
+unemployment n. 5
+unfold v. 5
+unification n. 6
+uniform n. 1
+unify v. 6
+union n. 3
+unique adj./n. 3
+unit n. 2
+unite v. 3
+unity n. 3
+universal adj./n. 4
+universe n. 2
+university n. 2
+unless conj. 2
+unlock v. 5
+unprecedented adj. 5
+until conj./prep. 1
+unveil v. 6
+up adv./prep./adj./v./n. 1
+update n./v. 5
+upgrade v./n. 5
+upload v. 2
+upon prep. 2
+upper adj. 2
+upright adv./adj./n. 6
+uprising n. 6
+upset adj./v./n. 2
+upstairs adv./adj./n. 2
+upward adj. 6
+upward/upwards adv. 6
+urban adj. 3
+urge n./v. 4
+urgency n. 6
+urgent adj. 4
+usage n. 4
+use v./n. 1
+used adj. 2
+useful adj. 1
+依字母排序
+V
+101
+user n.
+2
+usher v./n.
+6
+usual adj.
+2
+usually adv.
+1
+utensil n.
+6
+utility n.
+5
+utilize v.
+5
+utter adj./v.
+6
+V
+vacancy n.
+4
+vacant adj.
+3
+vacation n./v.
+2
+vaccine n.
+6
+vacuum n./v.
+5
+vague adj.
+5
+vain adj.
+4
+valid adj.
+5
+valley n.
+2
+valuable adj.
+2
+value n./v.
+2
+van n.
+3
+vanilla n.
+6
+vanish v.
+3
+vanity n.
+6
+vapor n.
+6
+variable n./adj.
+5
+variation n.
+5
+variety n.
+3
+various adj.
+3
+vary v.
+3
+vase n.
+3
+vast adj.
+4
+vegetable n.
+1
+vegetarian n.
+4
+vehicle n.
+3
+veil n./v.
+6
+vein n.
+5
+velvet n./adj.
+6
+vendor n.
+5
+venture n./v.
+5
+venue n.
+5
+verbal adj./n.
+5
+verdict n.
+5
+versatile adj.
+6
+verse n.
+3
+version n.
+5
+versus prep.
+5
+vertical adj./n.
+5
+very adv.
+1
+vessel n.
+4
+vest n.
+3
+veteran n.
+5
+veterinarian/vet n.
+6
+veto n./v.
+6
+via prep.
+5
+viable adj.
+5
+vibrate v.
+6
+vibration n.
+6
+vice n.
+6
+vicious adj.
+5
+victim n.
+3
+victor n.
+6
+victory n.
+2
+video n./v./adj.
+1
+view n./v.
+2
+viewer n.
+5
+viewpoint n.
+5
+vigor n.
+6
+vigorous adj.
+6
+villa n.
+6
+village n.
+2
+villain n.
+6
+vine n.
+6
+vinegar n.
+5
+vineyard n.
+6
+violate v.
+4
+violation n.
+4
+violence n.
+3
+violent adj.
+3
+violet adj./n.
+3
+violin n.
+1
+violinist n.
+6
+virgin n./adj.
+6
+virtual adj.
+5
+virtue n.
+4
+virus n.
+4
+visa n.
+5
+visible adj.
+3
+vision n.
+3
+visit v./n.
+1
+visitor n.
+1
+visual adj.
+4
+vital adj.
+4
+vitality n.
+6
+vitamin n.
+3
+vivid adj.
+3
+vocabulary n.
+3
+vocal adj./n.
+5
+vocation n.
+6
+vocational adj.
+6
+voice n.
+1
+volcano n.
+5
+volleyball n.
+3
+volume n.
+3
+voluntary adj.
+4
+volunteer n./v.
+4
+vomit n./v.
+5
+vote n./v.
+2
+voter n.
+3
+voucher n.
+5
+vow n./v.
+5
+vowel n.
+6
+voyage n./v.
+4
+vulnerable adj.
+5
+W
+wag v./n.
+6
+wage(s) n.
+3
+wagon n.
+3
+waist n.
+2
+wait v./n.
+1
+高中英文參考詞彙表
+102
+waiter/waitress n. 2
+wake v. 1
+waken v. 4
+walk v./n. 1
+wall n. 1
+wallet n. 2
+walnut n. 6
+wander v./n. 3
+want v./n. 1
+war n. 2
+ward n./v. 6
+wardrobe n. 6
+warehouse n./v. 5
+warm adj./v. 1
+warmth n. 3
+warn v. 3
+warrant n. 6
+warranty n. 6
+warrior n. 5
+wary adj. 5
+wash v./n. 2
+waste n./v. 2
+watch v./n. 1
+water n./v. 1
+waterfall n. 3
+watermelon n. 2
+waterproof adj./v. 6
+wave n./v. 1
+wax n./v. 3
+way n. 1
+we (us, our, ours,
+ourselves) pron. 1
+weak adj. 1
+weaken v. 3
+wealth n. 2
+wealthy adj. 3
+weapon n. 3
+wear v. 1
+weary adj./v. 6
+weather n./v. 1
+weave v./n. 3
+web n. 3
+website n. 4
+wed v. 3
+wedding n. 2
+weed n./v. 3
+week n. 1
+weekday n. 2
+weekend n./v. 1
+weekly adj./adv./n. 3
+weep v. 3
+weigh v. 2
+weight n. 2
+weird adj. 5
+welcome v./adj./n. 1
+welfare n. 4
+well adv./adj./n. 1
+west n./adj./adv. 1
+western adj./n. 2
+wet adj./v. 1
+whale n. 2
+wharf n./v. 6
+what pron./adj. 1
+whatever adj./pron. 2
+whatsoever adj./pron. 5
+wheat n. 3
+wheel n. 2
+wheelchair n. 5
+when adv./conj./pron. 1
+whenever conj./adv. 2
+where conj./adv./pron./n. 1
+whereabouts n./adv. 5
+whereas conj. 5
+wherever adv./conj. 2
+whether conj. 1
+which pron./adj. 1
+while conj./n./v. 1
+whine n./v. 5
+whip n./v. 3
+whiskey/whisky n. 6
+whisper n./v. 2
+whistle n./v. 3
+white adj./n. 1
+who pron. 1
+whoever pron. 2
+whole adj./n. 2
+wholesale adj./adv./n./v. 6
+wholesome adj. 6
+whom pron. 2
+whose pron. 1
+why adv./n. 1
+wicked adj. 3
+wide adj./adv. 1
+widen v. 3
+widespread adj. 5
+widow/widower n. 6
+width n. 2
+wife n. 1
+wig n. 5
+wild adj./adv./n. 2
+wilderness n. 5
+wildlife n. 5
+will aux./n. 1
+willing adj. 2
+win v./n. 1
+wind n./v. 1
+window n. 1
+windshield n. 5
+windy adj. 2
+wine n. 2
+wing n. 2
+wink n./v. 4
+wipe v./n. 3
+wire n. 2
+wisdom n. 3
+wise adj. 1
+wish v./n. 1
+wit n. 4
+witch/wizard n. 4
+with prep. 1
+依字母排序
+Y
+103
+withdraw v.
+4
+wither v.
+5
+withhold v.
+6
+within prep./adv.
+2
+without prep./adv.
+1
+witness n./v.
+4
+witty adj.
+5
+woe n.
+6
+wolf n.
+2
+woman n.
+1
+wonder v./n.
+2
+wonderful adj.
+1
+wood(s) n.
+2
+wooden adj.
+2
+woodpecker n.
+6
+wool n.
+2
+word n.
+1
+work n./v.
+1
+workbook n.
+2
+worker n.
+1
+workforce n.
+6
+workout n.
+4
+workplace n.
+4
+workshop n.
+5
+world n.
+1
+worm n./v.
+2
+worry v./n.
+1
+worse adj./adv./n.
+2
+worship n./v.
+5
+worst adj./adv./n.
+2
+worth adj./n.
+2
+worthwhile adj.
+5
+worthy adj.
+5
+wound n./v.
+2
+wrap v./n.
+3
+wreck n./v.
+4
+wrestle v./n.
+6
+wrinkle n./v.
+6
+wrist n.
+3
+write v.
+1
+writer n.
+1
+wrong adj./adv./n./v.
+1
+Y
+yacht n./v.
+5
+yam n.
+2
+yard n.
+1
+yawn n./v.
+4
+year n.
+1
+yearly adj./adv.
+3
+yearn v.
+6
+yell v./n.
+3
+yellow adj./n./v.
+1
+yes/yeah adv./n.
+1
+yesterday adv./n.
+1
+yet adv./conj.
+1
+yield v./n.
+5
+yoga n.
+6
+yogurt n.
+6
+yolk n.
+3
+you (your, yours,
+yourself, yourselves)
+pron.
+1
+young adj./n.
+1
+youngster n.
+3
+youth n.
+2
+youthful adj.
+4
+Z
+zebra n.
+2
+zero n.
+1
+zipper n./v.
+3
+zone n./v.
+3
+zoo n.
+1
+zoom v./n.
+6
+附錄
+104
+附錄
+Cardinal Numbers
+one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen,
+fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twentythree, twenty-four, twenty-five, thirty, thirty-one, thirty-two, thirty-three, thirty-four, forty,
+fifty, sixty, seventy, eighty, ninety, one hundred, one thousand, one million, one billion
+Ordinal Numbers
+first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth,
+thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth,
+twentieth, twenty-first, twenty-second, twenty-third, twenty-fourth, twenty-fifth, thirtieth,
+fortieth, fiftieth, sixtieth, seventieth, eightieth, ninetieth, hundredth, thousandth, millionth,
+billionth
+Days of the Week
+Monday/Mon., Tuesday/Tue., Wednesday/Wed., Thursday/Thu., Friday/Fri.,
+Saturday/Sat., Sunday/Sun.
+Months
+January/Jan., February/Feb., March/Mar., April/Apr., May, June/Jun., July/Jul.,
+August/Aug., September/Sep., October/Oct., November/Nov., December/Dec.
+Seasons
+spring, summer, autumn/fall, winter
+Countries and Areas
+Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy,
+Japan, Malaysia, Mexico, (the) Philippines, Republic of China, Russia, Saudi Arabia,
+Singapore, South Africa, South Korea, Spain, Taiwan, Thailand, Turkey, (the) United
+Kingdom, (the) United States, Vietnam, etc.
+Continents
+Africa, Antarctica, Asia, Australia, Europe, North America, South America
+The Principal Oceans of the World
+(the) Arctic Ocean, (the) Atlantic Ocean, (the) Indian Ocean, (the) Pacific Ocean
+Religions
+Buddhism/Buddhist, Catholicism/Catholic, Christianity/Christian, Eastern
+Orthodoxy/Eastern Orthodox, Hinduism/Hindu, Islam/Muslim, Judaism/Jewish,
+Taoism/Taoist, etc.
+Parts of Speech
+adjective/adj., adverb/adv., article/art., auxiliary/aux., conjunction/conj., noun/n.,
+preposition/prep., pronoun/pron., verb/v., etc.
