@@ -13,11 +13,11 @@ namespace CompileData
         public WordDataReader(string inputFilePath)
         {
             var json = File.ReadAllText(inputFilePath);
-            var wordDataCollection = JsonSerializer.Deserialize<WordData[]>(json)!;
+            var wordDataArray = JsonSerializer.Deserialize<WordData[]>(json)!;
             Array.Sort(
-                wordDataCollection,
+                wordDataArray,
                 (wordData1, wordData2) => wordData1.ToString().CompareTo(wordData2.ToString()));
-            wordDataEnumerator = ((IEnumerable<WordData>)wordDataCollection).GetEnumerator();
+            wordDataEnumerator = ((IEnumerable<WordData>)wordDataArray).GetEnumerator();
 
             wordDataEnumerator.MoveNext();
         }
