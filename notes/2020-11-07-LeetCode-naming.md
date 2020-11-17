@@ -127,4 +127,69 @@
 --
 ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 136.56.13.184 (美國)
 ※ 文章網址: https://www.ptt.cc/bbs/Soft_Job/M.1604809565.A.3F9.html
+推 ucrxzero: 是說linux跟windows的命名淺規則也不同 這有考慮ㄇ 11/08 15:02
+→ ucrxzero: linux:my_name Windows:MyName 11/08 15:02
+→ x246libra: 微軟有這個淺規則？那為什麼os大小寫沒區分，用git還 11/08 15:27
+→ x246libra: 需要另外設定 11/08 15:27
+推 ucrxzero: while Microsoft have always used capital letters for 11/08 15:47
+→ ucrxzero: the functions and classes 11/08 15:47
+→ ucrxzero: 我本身沒再寫Windows但Linux平田豐的書前面講規則有提到 11/08 15:49
+→ ucrxzero: 一些命名差別，只是想問樓主的討論有沒有包括這部分 11/08 15:49
+→ ucrxzero: 我也沒用小烏龜還是git bash都用linux command下的所以 11/08 15:50
+→ ucrxzero: 你說的我也聽不懂 11/08 15:50
+推 wulouise: 檔案命名規則跟實作不一樣很正常吧 11/08 17:54
+推 wulouise: c#通常是camelCase, linux比較習慣 snake_case 11/08 17:58
+推 Bencrie: 潛規則 11/08 20:30
+推 CoNsTaR: 這篇重點完全不在名稱格式的 convention 上吧... 11/08 21:02
+推 ucrxzero: 問問而已 11/08 21:15
+
+我目前的研究方向傾向「命名的語意」 :)
+
+例如，假設這裡有個變數是用來表達「上限值，而且包含該上限值」，那麼，要怎
+麼命名這個變數？我會用 "inclusive upper bound" 這三個字。
+
+確定了 "inclusive upper bound" 這三個字後，再來是「命名的語法」；這裡就
+類似 ucrxzero 提到的「各社群、生態圈、專案會有它的潛規則」，
+
+* 在 C# 專案裡會寫成 inclusiveUpperBound
+* 在 Python 專案裡會寫成 inclusive_upper_bound
+
+我個人的感覺是「命名的語法」比「命名的語意」容易掌握，因為「命名的語法」
+的規則相對的單純。
+
+「命名的語意」倚重「對美式英語的語感」，是母語為中文的我們相對不熟的部分
+，是故，我整理這類資料的方向傾向「命名的語意」，覺得那比較能幫到學習者 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 11/09/2020 06:09:50
+
+公告一下 :)
+
+https://github.com/EngTW/English-for-Programmers/issues/91
+
+# 啟用「釋出(Release)」功能以減少通知信
+
+以後主要的內容更新會以「釋出(Release)」的方式通知，例如：
+
+* https://github.com/EngTW/English-for-Programmers/releases/tag/2020-11-07
+
+這樣子使用者可以選擇 "Releases only" 的追蹤(watch)選項，減少通知信。
+
+---
+
+很抱歉給有追蹤 EngTW/English-for-Programmers 的各位帶來了困擾 orz
+※ 編輯: AmosYang (136.56.13.184 美國), 11/09/2020 06:44:47
+推 x246libra: 推 11/09 07:29
+推 kangan987: 推 11/09 07:53
+推 Ouranos: 必推，謝謝分享! 11/09 11:53
+推 jasonwung: 推 11/09 13:27
+推 y956403: 推 11/09 13:47
+推 mirror0227: 推 11/09 14:08
+
+謝謝各位的欣賞 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 11/10/2020 04:13:28
+推 rei0: 推 11/10 13:00
+推 alimamado: 推 11/11 14:07
+推 Lhmstu: 推推 11/12 16:11
+
+謝謝 :)
+※ 編輯: AmosYang (136.56.13.184 美國), 11/17/2020 07:58:59
 ```
