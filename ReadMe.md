@@ -8,6 +8,18 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [高中6K字-108版](https://bit.ly/35C8AhB)
+
+2020-11-07 JSON
+
+* 字表 Google Sheets 版 https://bit.ly/2ULo0tL
+* 字表 JSON 版 https://bit.ly/2ILggFo
+* Google 文件 https://bit.ly/35C8AhB
+* PTT 文章 https://bit.ly/2Iy6nLt
+  * [notes/2020-11-16-Taiwan-high-school-6K-108-edition.md](notes/2020-11-16-Taiwan-high-school-6K-108-edition.md)
+* Facebook 討論 https://bit.ly/32Qe0ng
+* Twitter 討論 https://bit.ly/35Cgesn
+
 # [刷 LeetCode 練習命名](https://bit.ly/2GIyLtk)
 
 2020-11-07 LeetCode, naming, stack, digit, place, upper bound, majorant,
@@ -15,6 +27,7 @@ lower bound, minorant, inclusive, exclusive
 
 * Google 文件 https://bit.ly/2GIyLtk
 * PTT 文章 https://bit.ly/3k8L6EN
+  * [notes/2020-11-07-LeetCode-naming.md](notes/2020-11-07-LeetCode-naming.md)
 * Facebook 討論 https://bit.ly/3ldpEQq
 * Twitter 討論 https://bit.ly/3lcec7r
 
