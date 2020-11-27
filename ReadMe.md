@@ -8,9 +8,19 @@
 
 《程式英文》 GitHub 討論區 💬 https://bit.ly/321ResR
 
+# [縮寫、簡寫的優缺點](https://bit.ly/2JgaQCL)
+
+2020-11-27 cognitive load
+
+* Google 文件 https://bit.ly/2JgaQCL
+* PTT 文章 https://bit.ly/2HHiO7d
+  * [notes/2020-11-27-cognitive-load.md](notes/2020-11-27-cognitive-load.md)
+* Facebook 討論 https://bit.ly/2V6DoRl
+* Twitter 討論 https://bit.ly/2V9dso8
+
 # [高中6K字-108版](https://bit.ly/35C8AhB)
 
-2020-11-07 JSON
+2020-11-16 JSON
 
 * 字表 Google Sheets 版 https://bit.ly/2ULo0tL
 * 字表 JSON 版 https://bit.ly/2ILggFo

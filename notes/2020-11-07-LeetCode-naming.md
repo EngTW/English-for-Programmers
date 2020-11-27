@@ -192,4 +192,6 @@ https://github.com/EngTW/English-for-Programmers/issues/91
 
 謝謝 :)
 ※ 編輯: AmosYang (136.56.13.184 美國), 11/17/2020 07:58:59
+推 showgunLa: 推推 11/21 08:56
+推 billy8407: 推，命名很重要 11/21 17:09
 ```
